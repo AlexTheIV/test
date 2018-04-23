@@ -1,0 +1,46 @@
+{
+    "Records": [
+        {
+            "eventName": "ObjectRemoved:Delete",
+            "s3": {
+                "bucket": {
+                    "name": "simple-gdi-doc",
+                    "ownerIdentity": {
+                        "principalId": "A118H4ORHP2S1J"
+                    },
+                    "arn": "arn:aws:s3:::simple-gdi-doc"
+                },
+                "object": {
+                    "key": "knowledge/data-sources/a79c3175-0f6f-4953-bc7d-922c173fc24b.json"
+                }
+            }
+        },
+        {
+            "eventVersion": "2.0",
+            "eventSource": "aws:s3",
+            "awsRegion": "us-east-1",
+            "eventTime": "2018-04-09T19:17:18.591Z",
+            "eventName": "ObjectCreated:Put",
+            "userIdentity": {
+                "principalId": "AWS:AIDAITI64AYLZMXETN36Y"
+            },
+            "s3": {
+                "s3SchemaVersion": "1.0",
+                "configurationId": "gdi-meta-change-ds", 
+                "bucket": {
+                    "name": "simple-gdi-doc",
+                    "ownerIdentity": {
+                        "principalId": "A118H4ORHP2S1J"
+                    },
+                    "arn": "arn:aws:s3:::simple-gdi-doc"
+                },
+                "object": {
+                    "key": "knowledge/data-sources/a79c3175-0f6f-4953-bc7d-922c173fc24b.json",
+                    "size": 404,
+                    "eTag": "f303a408f3489fa1ef98a2bc7997e3fa",
+                    "sequencer": "005ACBBC3E89F5B2E9"
+                }
+            }
+        }
+    ]
+}

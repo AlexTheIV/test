@@ -1,11 +1,5 @@
 [
     {
-        "description": "TODO",
-        "details": {},
-        "id": "b98ecace-efac-47dc-92a6-8ddfd79c4be9",
-        "name": "Splunk Add-on for Amazon Kinesis Firehose"
-    },
-    {
         "dataSources": [
             "a79c3175-0f6f-4953-bc7d-922c173fc24b"
         ],

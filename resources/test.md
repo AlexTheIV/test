@@ -29,4 +29,4 @@ More than 50,000 books have been published on [legacy.gitbook.com](https://legac
 
 ## Images
 
-![Minion](/test.jpg)
+![Minion](test.jpg)

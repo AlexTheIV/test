@@ -145,8 +145,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
-![Minion](/Datamodelmapping1.jpg)
-![Stormtroopocat](/Datamodelmapping2.jpg)
+![Minion](test.jpg)
 
 Like links, Images also have a footnote style syntax
 
@@ -234,7 +233,7 @@ Term 2
 
 This is HTML abbreviation example.
 
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and . so on.
+It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 *[HTML]: Hyper Text Markup Language
 

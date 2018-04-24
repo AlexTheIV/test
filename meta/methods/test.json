@@ -64,6 +64,6 @@
         },
         "name": "Log S3 API Calls in CloudTrail and ingest by SQS-Based S3 in AWS Add-on",
         "parent": "1f26166a-fe51-4626-8e39-f6817c4592ba",
-        "bestPractice": "TODO"
+        "bestPractice": "TODO "
     }
 ]

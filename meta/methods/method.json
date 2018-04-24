@@ -1,4 +1,4 @@
-{
+[{
   "dataSources": [
     "a79c3175-0f6f-4953-bc7d-922c173fc24b"
   ],
@@ -26,4 +26,11 @@
     "Scalability": 10,
     "Simplicity": 7
   }
+},
+{
+  "description": "TODO",
+  "details": {},
+  "id": "1f26166a-fe51-4626-8e39-f6817c4592ba",
+  "name": "Splunk Add-on for Amazon Web Services"
 }
+]

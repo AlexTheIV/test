@@ -1,4 +1,4 @@
-{
+[{
   "description": "SQS-based S3 is the recommended input type for real-time data collection from S3 buckets because it is scalable and provides better ingestion performance than the other S3 input types.",
   "details": {
     "key words": [
@@ -21,4 +21,12 @@
   "id": "a79c3175-0f6f-4953-bc7d-922c173fc24b",
   "name": "S3 API Calls via CloudTrail (Detailed API tracking for Amazon S3 bucket-level and object-level operations)",
   "parent": "830ef148-d4e0-438a-acb0-2a42b2ced081"
+},
+{
+  "description": "TODO",
+  "details": {},
+  "icon": "/images/icon_datasource.png",
+  "id": "8f6762d6-b4bc-453d-9c8a-8a8c863a6121",
+  "name": "Cloud"
 }
+]

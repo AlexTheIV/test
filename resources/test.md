@@ -1,5 +1,5 @@
 ---
-description: Real world examples of content published using GitBook.
+description: Real world example of content published using GitBook.
 ---
 
 # Examples

@@ -19,4 +19,4 @@ _This is italic text_
 
 
 ## Horizontal Rules
-![test]image.jpg
+![test](image.jpg)

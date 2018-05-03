@@ -1,21 +1,4 @@
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-
-## Horizontal Rules
+# Install "Splunk Add-on for Amazon Web Services" in your single instance or heavy forwarder.
+1. Download the add-on from [Splunkbase](https://splunkbase.splunk.com/app/1876/).
+2. From the Splunk Web home screen, click the gear icon next to Apps.
+	[Gear-icon.png]

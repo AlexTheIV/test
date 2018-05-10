@@ -1,0 +1,25 @@
+{
+  "id":"f2599a90-331d-45c3-ae01-d6faee4abcb9",
+  "description":"parent is invalid",
+  "details":{
+    "product":[
+      {
+        "version":[
+          "1.2",
+          "1.4",
+          "1.8"
+        ],
+        "name":"splunk"
+      }
+    ],
+    "key words":[
+      "real time",
+      "real",
+      "scale-out",
+      "high availability"
+    ]
+  },
+  "name":"2018-05-10 13:20:42",
+  "icon":"icons/icon_datasource.png",
+  "parent":"4da36e9c-ff96-4007-8b7g-93357ab3dd29"
+}

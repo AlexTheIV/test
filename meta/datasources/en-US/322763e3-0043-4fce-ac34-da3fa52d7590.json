@@ -1,0 +1,25 @@
+{
+  "id":"322763e3-0043-4fce-ac34-da3fa52d7590",
+  "description":"cyclic relationship",
+  "details":{
+    "product":[
+      {
+        "version":[
+          "1.2",
+          "1.4",
+          "1.8"
+        ],
+        "name":"splunk"
+      }
+    ],
+    "key words":[
+      "real time",
+      "real",
+      "scale-out",
+      "high availability"
+    ]
+  },
+  "name":"2018-05-10 13:26:48",
+  "icon":"icons/icon_datasource.png",
+  "parent":"bfae1f33-9488-4100-be01-682865cd85c1"
+}

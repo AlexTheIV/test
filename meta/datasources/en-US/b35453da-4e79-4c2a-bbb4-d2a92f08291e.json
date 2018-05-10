@@ -1,0 +1,24 @@
+{
+  "id":"b35453da-4e79-4c2a-bbb4-d2a92f08291e",
+  "description":"version are ints",
+  "details":{
+    "product":[
+      {
+        "version":[
+          1.2,
+          1.4,
+          1.8
+        ],
+        "name":"splunk"
+      }
+    ],
+    "key words":[
+      "real time",
+      "real",
+      "scale-out",
+      "high availability"
+    ]
+  },
+  "name":"2018-05-10 13:22:48",
+  "icon":"icons/icon_datasource.png"
+}

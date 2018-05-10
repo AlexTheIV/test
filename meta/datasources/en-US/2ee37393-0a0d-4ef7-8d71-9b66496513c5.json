@@ -1,6 +1,6 @@
 {
-  "description":"cyclic relationship 2",
-  "parent":"322763e3-0043-4fce-ac34-da3fa52d7590",
+  "description":"parent doesn't exist",
+  "parent":"322763e3-0043-4f34-da3fa52d7590",
   "details":{
     "product":[
       {
@@ -20,6 +20,6 @@
     ]
   },
   "icon":"icons/icon_datasource.png",
-  "id":"bfae1f33-9488-4100-be01-682865cd85c1",
-  "name":"cyclic relationship 2"
+  "id":"2ee37393-0a0d-4ef7-8d71-9b66496513c5",
+  "name":"parent doesn't exist"
 }

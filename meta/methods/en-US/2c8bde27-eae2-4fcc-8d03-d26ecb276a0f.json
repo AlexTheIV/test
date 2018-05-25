@@ -1,0 +1,23 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "c75e5b44-ca5e-4353-a875-5c7d06bda713"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "cloud", 
+            "microservice", 
+            "3.4", 
+            "3.4", 
+            "quantum"
+        ]
+    }, 
+    "id": "2c8bde27-eae2-4fcc-8d03-d26ecb276a0f", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "minty", 
+    "parent": "cdf30920-1e75-4cf1-ab55-c23c3b904073"
+}

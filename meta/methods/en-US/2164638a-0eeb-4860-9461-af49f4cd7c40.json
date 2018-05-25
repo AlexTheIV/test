@@ -1,0 +1,23 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "def4e3fb-38c0-4a09-9ec2-6b1495ae95fd"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "3.4", 
+            "ssc", 
+            "resistors", 
+            "quantum", 
+            "4.2"
+        ]
+    }, 
+    "id": "2164638a-0eeb-4860-9461-af49f4cd7c40", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight", 
+    "parent": "6273410c-688a-4936-be54-997150640eeb"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "ssc", 
+            "resistors", 
+            "4.2", 
+            "runinng", 
+            "microservice"
+        ]
+    }, 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7614f232-30b4-4f3c-9bf5-2b0bc92b2c3f", 
+    "name": "google", 
+    "parent": "790d7675-22c1-4a49-b6f7-e65f1f921e45"
+}

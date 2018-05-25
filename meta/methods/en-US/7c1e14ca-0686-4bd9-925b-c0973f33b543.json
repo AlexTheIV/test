@@ -1,0 +1,23 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "231fa0c4-f0ce-4c03-a26d-2f3d45c38645"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "cloud", 
+            "resistors", 
+            "scale", 
+            "scale", 
+            "hybrid"
+        ]
+    }, 
+    "id": "7c1e14ca-0686-4bd9-925b-c0973f33b543", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "orangeswirl", 
+    "parent": "309f3752-d034-4c66-901f-85975f28de2d"
+}

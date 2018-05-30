@@ -1,0 +1,164 @@
+{
+  "data":{
+    "dataSources":[
+      "07fc6a39-efb9-462b-b66c-fdcb4d5b4a1e"
+    ],
+    "name":"Test topology",
+    "description":"Test topology",
+    "instruction":{
+      "overview":{
+        "config":[
+          {
+            "diagram":"test/image_single.png",
+            "topologies":[
+              [
+                "SingleInstance"
+              ]
+            ],
+            "steps":[
+              "create CloudTrail",
+              "Configure AWS account",
+              "Install AWS Add-on",
+              "Create dead letter queue",
+              "Single Instance Step 5"
+            ],
+            "name":"Splunk Single Configurations"
+          },
+          {
+            "diagram":"test/image_distributed.png",
+            "topologies":[
+              [
+                "SHC",
+                "INC"
+              ],
+              [
+                "SHC",
+                "INX"
+              ],
+              [
+                "SH",
+                "INX"
+              ]
+            ],
+            "steps":[
+              "Install AWS Add-on",
+              "Create dead letter queue",
+              "Distributed Step 3",
+              "Distributed Step 4",
+              "Distributed Step 5",
+              "Distributed Step 6"
+            ],
+            "name":"Splunk Distributed Configurations"
+          },
+          {
+            "diagram":"test/image_single.png",
+            "topologies":[
+              [
+                "Cloud"
+              ]
+            ],
+            "steps":[
+              "Cloud Step 1",
+              "Cloud Step 2",
+              "Cloud Step 3",
+              "Cloud Step 4",
+              "Cloud Step 5",
+              "Cloud Step 6",
+              "Cloud Step 7"
+            ],
+            "name":"Splunk Cloud Configurations"
+          }
+        ],
+        "deployment":[
+          {
+            "desc":"A single instance that combines indexing and search management functions.",
+            "name":"Single Instance",
+            "topology":"SingleInstance"
+          },
+          {
+            "more_options":[
+              {
+                "name":"Search Head",
+                "options":[
+                  {
+                    "name":"Single Search Head",
+                    "topology":"SH"
+                  },
+                  {
+                    "name":"Search Head Cluster",
+                    "topology":"SHC"
+                  }
+                ]
+              },
+              {
+                "name":"Indexer",
+                "options":[
+                  {
+                    "name":"Multiple Indexers",
+                    "topology":"INX"
+                  },
+                  {
+                    "name":"Indexers Cluster",
+                    "topology":"INC"
+                  }
+                ]
+              }
+            ],
+            "name":"Distributed",
+            "desc":"1. Small enterprise. One search head with two or three indexers.\n2. Medium enterprise. A small search head cluster, with several indexers.\n3. Large enterprise. A large search head cluster, with large numbers of indexers."
+          },
+          {
+            "desc":"You can get data into your Splunk Cloud deployment as follows:\n1. Forward data from data sources\n2. Install Splunk apps and add-ons\n3. Send data using HTTP protocol",
+            "name":"Cloud",
+            "topology":"Cloud"
+          }
+        ]
+      },
+      "pony_doc_link":[
+        {
+          "url":"http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview",
+          "topologies":[
+            [
+              "SH",
+              "INX"
+            ],
+            [
+              "SHC",
+              "INC"
+            ],
+            [
+              "SHC",
+              "INX"
+            ],
+            [
+              "SH",
+              "INC"
+            ],
+            [
+              "Cloud"
+            ]
+          ],
+          "name":"Documentation of test topology"
+        },
+        {
+          "url":"http://docs.splunk.com/Documentation/AddonBuilder/2.2.0/UserGuide/ExtractFields",
+          "topologies":[
+            [
+              "SingleInstance"
+            ]
+          ],
+          "name":"Documentation of test topology 2"
+        }
+      ]
+    },
+    "children":[
+
+    ],
+    "details":{
+
+    },
+    "id":"5c543d6a-00eb-46f6-d2ec-8b5a1bd9128a",
+    "bestPractice":"TODO"
+  },
+  "error":null
+}

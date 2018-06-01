@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data resistors big-data cloud big-data", 
+    "icon": "images/icon_datasource.png", 
+    "id": "ec6000fe-fec9-4ce0-a962-04f39102659e", 
+    "name": "azure-aws-azure", 
+    "parent": "e073a801-23f8-40f5-bf6d-7c9348ec4ee7", 
+    "sourcetype": "access_combined_wcookie"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 cloud hybrid great real-time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "7e777ea7-319e-4f3d-8183-e27321c669a3", 
+    "name": "cicso-splunk-minty", 
+    "parent": "a1b47c68-5064-4c9a-b90a-68d1bbfd4cae", 
+    "sourcetype": "access_combined_wcookie"
+}

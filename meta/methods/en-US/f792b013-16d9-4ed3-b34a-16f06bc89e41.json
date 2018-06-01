@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "fd8d2300-71da-4493-a7dd-b217699041bc"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 scale hybrid cloud hybrid", 
+    "id": "f792b013-16d9-4ed3-b34a-16f06bc89e41", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "facebook-cicso-aws", 
+    "parent": "0834d2b4-b75e-4d34-a6aa-5d647414897d"
+}

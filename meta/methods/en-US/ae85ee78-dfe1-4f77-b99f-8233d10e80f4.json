@@ -1,0 +1,15 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "316088ce-d07c-4141-8605-ed8c4b425a6f"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data hybrid time microservice ssc", 
+    "details": {}, 
+    "id": "ae85ee78-dfe1-4f77-b99f-8233d10e80f4", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "facebook-orangeswirl-azure", 
+    "parent": "516726b4-a743-4437-89fd-3cae9c242704"
+}

@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 1.8 real-time quantum ssc", 
-    "icon": "images/icon_datasource.png", 
-    "id": "ce99be5f-901b-4dc2-bbe4-53646355eb1b", 
-    "name": "nightlight-microsoft-aws", 
-    "parent": "f6b96652-295d-4c29-82b8-4b91363ede9d", 
-    "sourcetype": "access_common"
-}

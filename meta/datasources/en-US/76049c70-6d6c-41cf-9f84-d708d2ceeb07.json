@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real quantum 42 hybrid runinng", 
-    "icon": "images/icon_datasource.png", 
-    "id": "76049c70-6d6c-41cf-9f84-d708d2ceeb07", 
-    "name": "azure-minty-microsoft", 
-    "parent": "a1b47c68-5064-4c9a-b90a-68d1bbfd4cae", 
-    "sourcetype": "db2_diag"
-}

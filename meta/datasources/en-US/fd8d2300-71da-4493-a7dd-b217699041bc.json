@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great 4.2 ssc time quantum", 
-    "icon": "images/icon_datasource.png", 
-    "id": "fd8d2300-71da-4493-a7dd-b217699041bc", 
-    "name": "microsoft-aws-cicso", 
-    "parent": "d9badcea-c4f2-4706-9d0a-4aa1afefe67f", 
-    "sourcetype": "access_common"
-}

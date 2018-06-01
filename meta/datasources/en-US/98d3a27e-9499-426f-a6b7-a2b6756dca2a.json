@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 best microservice ssc sunny", 
-    "icon": "images/icon_datasource.png", 
-    "id": "98d3a27e-9499-426f-a6b7-a2b6756dca2a", 
-    "name": "aws-google-aws", 
-    "parent": "e073a801-23f8-40f5-bf6d-7c9348ec4ee7", 
-    "sourcetype": "linux_secure"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time sunny 42 4.2 quantum", 
-    "icon": "images/icon_datasource.png", 
-    "id": "97bba23d-ef62-4c3c-9bf2-d2aafe3db358", 
-    "name": "splunk-google-azure", 
-    "parent": "fffb5006-0833-48c1-9c79-663bd221440d", 
-    "sourcetype": "linux_secure"
-}

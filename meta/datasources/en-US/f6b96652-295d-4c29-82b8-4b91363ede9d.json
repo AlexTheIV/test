@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc time 4.2 microservice time", 
-    "icon": "images/icon_datasource.png", 
-    "id": "f6b96652-295d-4c29-82b8-4b91363ede9d", 
-    "name": "aws-microsoft-splunk", 
-    "parent": "a346891a-9f3f-4e15-a665-6f9e8ee4a816"
-}

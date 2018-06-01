@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 scale best ssc 4.2", 
-    "icon": "images/icon_datasource.png", 
-    "id": "a1b47c68-5064-4c9a-b90a-68d1bbfd4cae", 
-    "name": "splunk-microsoft-aws", 
-    "parent": "e71287c7-4d80-4d88-a4a8-bdc71499a62c"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 3.4 runinng big-data ssc", 
-    "icon": "images/icon_datasource.png", 
-    "id": "6cbe3535-3456-488e-ae16-8e7d6d4734e0", 
-    "name": "orangeswirl-nightlight-orangeswirl", 
-    "parent": "fffb5006-0833-48c1-9c79-663bd221440d", 
-    "sourcetype": "linux_secure"
-}

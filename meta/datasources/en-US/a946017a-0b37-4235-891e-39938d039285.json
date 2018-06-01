@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 time time real-time time", 
-    "icon": "images/icon_datasource.png", 
-    "id": "a946017a-0b37-4235-891e-39938d039285", 
-    "name": "orangeswirl-nightlight-microsoft", 
-    "parent": "57d2a657-eec4-4602-aca2-45dc8fd1674a", 
-    "sourcetype": "access_combined_wcookie"
-}

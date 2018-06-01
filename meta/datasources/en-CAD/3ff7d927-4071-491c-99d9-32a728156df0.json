@@ -2,15 +2,15 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
     "details": {
         "key-words": [
+            "microservice", 
+            "microservice", 
+            "microservice", 
             "ssc", 
-            "real", 
-            "great", 
-            "crypto", 
-            "crypto"
+            "resistors"
         ]
     }, 
     "icon": "images/icon_datasource.png", 
-    "id": "8ce8e068-219d-4a4c-bf64-91f8b8f8b4fe", 
-    "name": "splunk-microsoft-facebook", 
-    "sourcetype": "known_binary"
+    "id": "3ff7d927-4071-491c-99d9-32a728156df0", 
+    "name": "microsoft-google-minty", 
+    "sourcetype": "linux_messages_syslog"
 }

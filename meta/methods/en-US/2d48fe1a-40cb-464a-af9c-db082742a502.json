@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "705d068e-1637-473c-8c8a-5988973e1638"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 real sunny scale 3.4", 
+    "id": "2d48fe1a-40cb-464a-af9c-db082742a502", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-microsoft-orangeswirl", 
+    "parent": "e917e246-abcc-48c9-abfd-f8f85278999a"
+}

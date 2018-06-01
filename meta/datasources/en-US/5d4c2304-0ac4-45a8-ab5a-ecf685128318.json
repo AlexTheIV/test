@@ -1,0 +1,7 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 42 1.8 runinng crypto", 
+    "icon": "images/icon_datasource.png", 
+    "id": "5d4c2304-0ac4-45a8-ab5a-ecf685128318", 
+    "name": "splunk-minty-orangeswirl", 
+    "sourcetype": "access_combined_wcookie"
+}

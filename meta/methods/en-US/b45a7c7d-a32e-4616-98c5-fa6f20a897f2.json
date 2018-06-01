@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "5d4c2304-0ac4-45a8-ab5a-ecf685128318"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 quantum time big-data 4.2", 
+    "id": "b45a7c7d-a32e-4616-98c5-fa6f20a897f2", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "microsoft-orangeswirl-aws", 
+    "parent": "892e2e41-f51c-4274-aa7b-84cc44c04685"
+}

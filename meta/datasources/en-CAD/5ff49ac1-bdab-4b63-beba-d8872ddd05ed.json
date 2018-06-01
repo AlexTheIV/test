@@ -1,0 +1,16 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+    "details": {
+        "key-words": [
+            "4.2", 
+            "crypto", 
+            "4.2", 
+            "time", 
+            "microservice"
+        ]
+    }, 
+    "icon": "images/icon_datasource.png", 
+    "id": "5ff49ac1-bdab-4b63-beba-d8872ddd05ed", 
+    "name": "google-nightlight-azure", 
+    "sourcetype": "access_combined_wcookie"
+}

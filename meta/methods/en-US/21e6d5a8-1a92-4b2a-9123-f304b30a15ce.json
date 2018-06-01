@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "97bba23d-ef62-4c3c-9bf2-d2aafe3db358"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum runinng scale best real", 
+    "id": "21e6d5a8-1a92-4b2a-9123-f304b30a15ce", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "aws-orangeswirl-minty", 
+    "parent": "4c079eb5-32d4-4e86-9531-0df717d1ee56"
+}

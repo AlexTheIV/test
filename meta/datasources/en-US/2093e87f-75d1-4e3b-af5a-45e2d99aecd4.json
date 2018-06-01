@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great ssc time big-data runinng", 
+    "icon": "images/icon_datasource.png", 
+    "id": "2093e87f-75d1-4e3b-af5a-45e2d99aecd4", 
+    "name": "azure-cicso-nightlight", 
+    "parent": "f6b96652-295d-4c29-82b8-4b91363ede9d", 
+    "sourcetype": "access_common"
+}

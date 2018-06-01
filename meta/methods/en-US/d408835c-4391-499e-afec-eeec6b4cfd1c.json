@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "16019c06-21c6-4fcf-abb2-cc7fb43a7f09"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale real sunny ssc ssc", 
+    "id": "d408835c-4391-499e-afec-eeec6b4cfd1c", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "orangeswirl-google-azure", 
+    "parent": "1f7230c4-f040-4fbe-a3b2-88c10f647d89"
+}

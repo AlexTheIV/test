@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 42 best real great", 
+    "details": {}, 
+    "icon": "images/icon_datasource.png", 
+    "id": "789eed5a-3427-4887-aa8a-48b6ad86bbff", 
+    "name": "google-aws-cicso", 
+    "parent": "a95b4745-d9d0-4cd6-8662-a46b89f76c81", 
+    "sourcetype": "known_binary"
+}

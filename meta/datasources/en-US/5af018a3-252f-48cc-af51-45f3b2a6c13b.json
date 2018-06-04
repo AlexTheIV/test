@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 3.4 42 great resistors", 
+    "details": {}, 
+    "icon": "images/icon_datasource.png", 
+    "id": "5af018a3-252f-48cc-af51-45f3b2a6c13b", 
+    "name": "nightlight-minty-nightlight", 
+    "parent": "d797b2ec-58b4-47bb-abc7-80d20e712a55", 
+    "sourcetype": "access_combined_wcookie"
+}

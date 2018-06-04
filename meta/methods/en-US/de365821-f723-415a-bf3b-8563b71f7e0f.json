@@ -1,0 +1,15 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "b75daeb3-fa0a-43f3-8f6c-6bc5e4c7f0f1"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 1.8 ssc scale 4.2", 
+    "details": {}, 
+    "id": "de365821-f723-415a-bf3b-8563b71f7e0f", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "microsoft-microsoft-cicso", 
+    "parent": "e608064b-f40e-4162-9a87-3641e858b918"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great cloud 4.2 crypto quantum", 
+    "details": {}, 
+    "icon": "images/icon_datasource.png", 
+    "id": "440b5358-efc0-4efd-a2cf-ffb6a7a33418", 
+    "name": "splunk-cicso-google", 
+    "parent": "cc026358-b711-461e-bb73-97fc9f6e0329", 
+    "sourcetype": "access_combined_wcookie"
+}

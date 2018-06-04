@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 resistors best great hybrid", 
+    "details": {}, 
+    "icon": "images/icon_datasource.png", 
+    "id": "e660d298-548d-4a25-9951-daa4687a9416", 
+    "name": "minty-minty-cicso", 
+    "parent": "ed2e06e9-e3e5-407e-888d-2eb4366646b6", 
+    "sourcetype": "access_common"
+}

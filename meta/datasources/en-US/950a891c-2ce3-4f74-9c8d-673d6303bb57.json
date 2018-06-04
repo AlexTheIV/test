@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 3.4 resistors crypto time", 
+    "details": {}, 
+    "icon": "images/icon_datasource.png", 
+    "id": "950a891c-2ce3-4f74-9c8d-673d6303bb57", 
+    "name": "splunk-microsoft-azure", 
+    "parent": "7dc62bd2-f432-4ddf-9729-56693a48bf26", 
+    "sourcetype": "log4j"
+}

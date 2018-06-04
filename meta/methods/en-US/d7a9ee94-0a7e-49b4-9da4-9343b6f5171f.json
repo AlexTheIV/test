@@ -1,0 +1,15 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "f021d3f4-5460-42cc-8be0-415751f1a623"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud time time real-time time", 
+    "details": {}, 
+    "id": "d7a9ee94-0a7e-49b4-9da4-9343b6f5171f", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-cicso-nightlight", 
+    "parent": "99daf6dd-9705-47e6-873a-06ac7a84c6e4"
+}

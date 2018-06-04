@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 3.4 hybrid real 3.4", 
+    "details": {}, 
+    "icon": "images/icon_datasource.png", 
+    "id": "f283ac62-e326-481b-bf82-eb30efc56b65", 
+    "name": "splunk-nightlight-cicso", 
+    "parent": "8517e4db-d4a9-432f-91c2-473b0469bb4e"
+}

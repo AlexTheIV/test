@@ -1,0 +1,15 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "82b34939-6494-415a-a3aa-d53c324c93c2"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real 42 42 crypto 42", 
+    "details": {}, 
+    "id": "8d9b6e44-d1ac-4b0c-b9b6-929e6974920b", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-cicso-microsoft", 
+    "parent": "ef40d00d-5f0a-41fc-ba84-236c3e21bdaa"
+}

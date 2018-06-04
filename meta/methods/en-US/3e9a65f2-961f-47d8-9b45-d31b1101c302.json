@@ -1,0 +1,15 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "56d53dc9-5cc0-4cc7-b130-5978b63d8a21"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time great 3.4 big-data best", 
+    "details": {}, 
+    "id": "3e9a65f2-961f-47d8-9b45-d31b1101c302", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "minty-cicso-splunk", 
+    "parent": "a9c2bee3-27a9-44b8-9d80-f2c7aed236ff"
+}

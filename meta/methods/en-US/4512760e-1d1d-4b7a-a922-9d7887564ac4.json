@@ -1,0 +1,15 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "3088781d-bf37-4773-8c51-cc62d65feb35"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real cloud great sunny great", 
+    "details": {}, 
+    "id": "4512760e-1d1d-4b7a-a922-9d7887564ac4", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "facebook-minty-orangeswirl", 
+    "parent": "f6df161c-f15e-4941-8cee-89ed9eafd8eb"
+}

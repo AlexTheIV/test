@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng cloud cloud real crypto", 
+    "details": {}, 
+    "icon": "images/icon_datasource.png", 
+    "id": "c757449a-d3f2-49ed-8b5e-98ce1f64e4e5", 
+    "name": "google-microsoft-azure", 
+    "parent": "273dcf4f-6826-48dc-b167-6c884e92fc0f", 
+    "sourcetype": "access_combined"
+}

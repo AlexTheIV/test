@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice great 42 ssc 1.8", 
+    "details": {}, 
+    "icon": "images/icon_datasource.png", 
+    "id": "ed2e06e9-e3e5-407e-888d-2eb4366646b6", 
+    "name": "aws-google-facebook", 
+    "parent": "1a30c097-b5d5-46bf-a10d-93c0b18e6c0a"
+}

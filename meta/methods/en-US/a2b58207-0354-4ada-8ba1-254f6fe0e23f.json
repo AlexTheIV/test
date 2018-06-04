@@ -1,0 +1,15 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "e660d298-548d-4a25-9951-daa4687a9416"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 hybrid 1.8 real great", 
+    "details": {}, 
+    "id": "a2b58207-0354-4ada-8ba1-254f6fe0e23f", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-facebook-cicso", 
+    "parent": "6d1dc0b5-36df-4d79-985f-40a2986d8a3f"
+}

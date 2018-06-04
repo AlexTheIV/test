@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale microservice time hybrid scale", 
+    "details": {}, 
+    "icon": "images/icon_datasource.png", 
+    "id": "a0355cec-6903-4fd5-b0f9-2666177af64c", 
+    "name": "nightlight-facebook-facebook", 
+    "parent": "a95b4745-d9d0-4cd6-8662-a46b89f76c81", 
+    "sourcetype": "db2_diag"
+}

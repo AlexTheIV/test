@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 cloud scale cloud 3.4", 
-    "details": {}, 
-    "icon": "images/icon_datasource.png", 
-    "id": "7f658af7-d8a6-4b07-ac3d-91c94a38d74c", 
-    "name": "orangeswirl-microsoft-nightlight", 
-    "sourcetype": "log4j"
-}

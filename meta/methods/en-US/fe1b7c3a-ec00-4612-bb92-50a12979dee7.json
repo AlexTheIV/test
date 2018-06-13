@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "63852add-1d82-42d0-b6b5-1a1c156a8931"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 scale 4.2 big-data resistors", 
+    "id": "fe1b7c3a-ec00-4612-bb92-50a12979dee7", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "cicso-microsoft-aws", 
+    "parent": "2eadb6b1-4b92-40bc-87ae-4a9a3ee82a8c"
+}

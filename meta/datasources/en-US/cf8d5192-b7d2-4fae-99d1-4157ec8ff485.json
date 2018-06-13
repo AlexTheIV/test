@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time scale quantum great 4.2", 
+    "icon": "images/icon_datasource.png", 
+    "id": "cf8d5192-b7d2-4fae-99d1-4157ec8ff485", 
+    "name": "google-orangeswirl-microsoft", 
+    "parent": "2893b064-9c06-420c-a1fa-5aba4a826628", 
+    "sourcetype": "db2_diag"
+}

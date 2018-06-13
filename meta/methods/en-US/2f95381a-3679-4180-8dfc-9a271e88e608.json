@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "ae03bc75-388f-49bf-a279-c0fc257b6f0d"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice cloud sunny real ssc", 
+    "id": "2f95381a-3679-4180-8dfc-9a271e88e608", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "cicso-nightlight-google", 
+    "parent": "e12ab579-cae6-43b6-93b5-b67ba3d7e7a9"
+}

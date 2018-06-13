@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 1.8 real microservice best", 
+    "icon": "images/icon_datasource.png", 
+    "id": "67964ad2-96b5-4440-87b3-ba66686e4f6a", 
+    "name": "splunk-google-orangeswirl", 
+    "parent": "d165f2c5-cc29-48fc-8634-61e27fe9c8bc", 
+    "sourcetype": "access_combined"
+}

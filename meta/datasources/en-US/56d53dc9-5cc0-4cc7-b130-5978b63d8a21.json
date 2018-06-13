@@ -1,9 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum big-data quantum 1.8 microservice", 
-    "details": {}, 
-    "icon": "images/icon_datasource.png", 
-    "id": "56d53dc9-5cc0-4cc7-b130-5978b63d8a21", 
-    "name": "aws-facebook-minty", 
-    "parent": "cc026358-b711-461e-bb73-97fc9f6e0329", 
-    "sourcetype": "access_common"
-}

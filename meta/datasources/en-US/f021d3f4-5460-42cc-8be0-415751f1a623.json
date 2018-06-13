@@ -1,9 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny time great cloud great", 
-    "details": {}, 
-    "icon": "images/icon_datasource.png", 
-    "id": "f021d3f4-5460-42cc-8be0-415751f1a623", 
-    "name": "orangeswirl-minty-facebook", 
-    "parent": "f283ac62-e326-481b-bf82-eb30efc56b65", 
-    "sourcetype": "linux_messages_syslog"
-}

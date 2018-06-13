@@ -1,9 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 best time best cloud", 
-    "details": {}, 
-    "icon": "images/icon_datasource.png", 
-    "id": "76855b82-2a8b-44e2-89bf-bfbcda711ff0", 
-    "name": "facebook-azure-splunk", 
-    "parent": "273dcf4f-6826-48dc-b167-6c884e92fc0f", 
-    "sourcetype": "cisco_syslog"
-}

@@ -1,9 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real ssc great sunny", 
-    "details": {}, 
-    "icon": "images/icon_datasource.png", 
-    "id": "b75daeb3-fa0a-43f3-8f6c-6bc5e4c7f0f1", 
-    "name": "google-splunk-microsoft", 
-    "parent": "d797b2ec-58b4-47bb-abc7-80d20e712a55", 
-    "sourcetype": "cisco_syslog"
-}

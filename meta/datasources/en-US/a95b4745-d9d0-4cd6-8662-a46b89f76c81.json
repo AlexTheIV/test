@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng microservice real-time 42 1.8", 
-    "details": {}, 
-    "icon": "images/icon_datasource.png", 
-    "id": "a95b4745-d9d0-4cd6-8662-a46b89f76c81", 
-    "name": "splunk-nightlight-splunk", 
-    "parent": "9ca355e8-e244-44ac-829f-71202be716ad"
-}

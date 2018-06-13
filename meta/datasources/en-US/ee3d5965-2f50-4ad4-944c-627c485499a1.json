@@ -1,9 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 4.2 hybrid resistors great", 
-    "details": {}, 
-    "icon": "images/icon_datasource.png", 
-    "id": "ee3d5965-2f50-4ad4-944c-627c485499a1", 
-    "name": "azure-cicso-cicso", 
-    "parent": "f283ac62-e326-481b-bf82-eb30efc56b65", 
-    "sourcetype": "linux_secure"
-}

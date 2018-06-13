@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 hybrid hybrid crypto big-data", 
-    "icon": "images/icon_datasource.png", 
-    "id": "7414d15d-eeb9-4ff7-b618-d1b88cc986c1", 
-    "name": "cicso-nightlight-splunk", 
-    "parent": "5e94e7ad-c357-4337-a7fb-25d7db5afe0d", 
-    "sourcetype": "access_combined"
-}

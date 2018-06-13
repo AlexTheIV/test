@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data runinng resistors time 4.2", 
-    "icon": "images/icon_datasource.png", 
-    "id": "09c36391-a69d-4538-9523-12f6f52d7adf", 
-    "name": "orangeswirl-splunk-orangeswirl", 
-    "parent": "aa4c9fb5-0a90-4177-b609-8e0916694620", 
-    "sourcetype": "access_common"
-}

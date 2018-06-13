@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 time real-time real-time cloud", 
-    "icon": "images/icon_datasource.png", 
-    "id": "d8b4dadb-21b0-4013-835b-ddf67936d93a", 
-    "name": "nightlight-aws-orangeswirl", 
-    "parent": "d343a6a2-0463-4da5-ac6a-159db0b9cfd0", 
-    "sourcetype": "access_combined_wcookie"
-}

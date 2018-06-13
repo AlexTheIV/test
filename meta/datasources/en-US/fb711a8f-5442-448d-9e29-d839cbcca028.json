@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 big-data 3.4 runinng crypto", 
-    "icon": "images/icon_datasource.png", 
-    "id": "fb711a8f-5442-448d-9e29-d839cbcca028", 
-    "name": "azure-cicso-azure", 
-    "parent": "4baae43b-1b52-49f9-8212-55e19a78ef88", 
-    "sourcetype": "access_combined"
-}

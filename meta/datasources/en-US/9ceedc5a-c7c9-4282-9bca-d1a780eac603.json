@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 hybrid real real-time real-time", 
-    "icon": "images/icon_datasource.png", 
-    "id": "9ceedc5a-c7c9-4282-9bca-d1a780eac603", 
-    "name": "minty-minty-azure", 
-    "parent": "7fb329fe-8189-4aa7-9480-0fad9e21b583", 
-    "sourcetype": "db2_diag"
-}

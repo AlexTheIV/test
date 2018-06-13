@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "09c36391-a69d-4538-9523-12f6f52d7adf"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time ssc runinng sunny runinng", 
+    "id": "8f4cd781-1803-4f9e-b3be-210a353a43ec", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "microsoft-splunk-facebook", 
+    "parent": "275adf4a-7af4-4cbe-ba6f-d024cd6a2b7c"
+}

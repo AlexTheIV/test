@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 big-data 42 real-time best", 
+    "icon": "images/icon_datasource.png", 
+    "id": "005df523-1ce5-4829-b2bc-4b467a1c8d25", 
+    "name": "cicso-google-azure", 
+    "parent": "03529a62-dbd4-411e-826e-465de36acfba", 
+    "sourcetype": "cisco_syslog"
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "9ceedc5a-c7c9-4282-9bca-d1a780eac603"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 4.2 microservice 3.4 hybrid", 
+    "id": "09234375-8186-4a7a-98ed-e5d0b66d6f9d", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "microsoft-splunk-microsoft", 
+    "parent": "c23e6eb3-bec0-41f7-a85e-b1d31bca6116"
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "c3516d89-6ac2-4318-a42f-3b336e7dcb90"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng resistors scale scale best", 
+    "id": "79eae0c8-8241-4f2b-bebd-dc8078efbf70", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-aws-minty", 
+    "parent": "094e26cb-9fea-4cf8-8269-9bf9c852497a"
+}

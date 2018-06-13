@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "005df523-1ce5-4829-b2bc-4b467a1c8d25"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time quantum cloud time real-time", 
+    "id": "1eb97adc-b050-4e65-a923-3f4799210b77", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-microsoft-cicso", 
+    "parent": "482cd6bc-6909-4891-a699-2f0c432eee02"
+}

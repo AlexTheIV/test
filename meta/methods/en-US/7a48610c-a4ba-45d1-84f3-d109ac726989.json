@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "fb711a8f-5442-448d-9e29-d839cbcca028"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great resistors real-time big-data scale", 
+    "id": "7a48610c-a4ba-45d1-84f3-d109ac726989", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-nightlight-splunk", 
+    "parent": "912965a3-a7a9-4a81-81b4-6070cd92219f"
+}

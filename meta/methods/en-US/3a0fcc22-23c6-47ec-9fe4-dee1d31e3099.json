@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "95fb4cf2-68f2-474c-8874-1efcdcafec68"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum great crypto great big-data", 
+    "id": "3a0fcc22-23c6-47ec-9fe4-dee1d31e3099", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-splunk-azure", 
+    "parent": "d35836e8-76ff-41f9-83e9-39514227dc44"
+}

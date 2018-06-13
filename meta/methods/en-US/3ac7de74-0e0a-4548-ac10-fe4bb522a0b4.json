@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "7414d15d-eeb9-4ff7-b618-d1b88cc986c1"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data great great 4.2 42", 
+    "id": "3ac7de74-0e0a-4548-ac10-fe4bb522a0b4", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "cicso-facebook-azure", 
+    "parent": "5861a2c7-8dce-4d28-94a0-43d06fee53c9"
+}

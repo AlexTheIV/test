@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale hybrid quantum 1.8 time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "63e65823-69f1-4de7-b2fa-3ddee92418aa", 
+    "name": "google-orangeswirl-aws", 
+    "parent": "03529a62-dbd4-411e-826e-465de36acfba", 
+    "sourcetype": "linux_messages_syslog"
+}

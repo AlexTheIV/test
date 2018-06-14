@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors big-data sunny best 3.4", 
+    "icon": "images/icon_datasource.png", 
+    "id": "c3245960-6b69-46e3-a2f2-2154c3813ff8", 
+    "name": "microsoft-azure-google", 
+    "parent": "863561c3-6f62-49cc-a265-ec2bf1d6e947", 
+    "sourcetype": [
+        "linux_messages_syslog"
+    ]
+}

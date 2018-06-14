@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "fcf98d9a-83c3-49a6-b8a6-004007c2bb51"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny best 42 4.2 crypto", 
+    "id": "9ef58c25-de30-469a-95d6-4d5d2a1fc410", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-cicso-cicso", 
+    "parent": "2db2a64e-497b-468c-ad36-11d77b2f0777"
+}

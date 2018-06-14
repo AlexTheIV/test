@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "a2097d67-76a8-4b81-a43f-7207e240d17a"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time real-time 42 4.2 resistors", 
+    "id": "6b5e329f-d9d2-44ed-b40a-85fed84c51e0", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-minty-microsoft", 
+    "parent": "44dec258-06be-47a1-ac31-ebd37b62d479"
+}

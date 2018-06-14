@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "4fd43025-97b2-412d-afb3-0059878b072a"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 3.4 big-data scale crypto", 
+    "id": "ce81994d-d268-4a78-8dcb-9c98ed4835f9", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-orangeswirl-nightlight", 
+    "parent": "f0eca649-e28f-404d-8c94-d0f97cd0f771"
+}

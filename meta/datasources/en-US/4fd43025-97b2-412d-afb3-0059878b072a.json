@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 quantum real cloud 4.2", 
+    "icon": "images/icon_datasource.png", 
+    "id": "4fd43025-97b2-412d-afb3-0059878b072a", 
+    "name": "azure-nightlight-aws", 
+    "parent": "7ad06220-a96b-46bc-aaa9-4286321a0ec3", 
+    "sourcetype": [
+        "linux_secure"
+    ]
+}

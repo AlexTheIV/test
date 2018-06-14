@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "75cce23a-23b2-4fb0-8361-b77a87422283"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 quantum quantum quantum ssc", 
+    "id": "c3b07baf-7458-4237-9930-234746eef1fa", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-splunk-minty", 
+    "parent": "29726065-ce15-4100-be34-1467039a1d7a"
+}

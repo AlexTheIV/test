@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 3.4 time quantum cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "6559c105-15f2-40b4-b949-348b4c080c32", 
+    "name": "cicso-splunk-orangeswirl", 
+    "parent": "2bb30d31-2870-48da-bfb6-fdb33db81e74", 
+    "sourcetype": [
+        "log4j"
+    ]
+}

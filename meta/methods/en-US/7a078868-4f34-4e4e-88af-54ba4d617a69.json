@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "8f6474e5-f8a4-4b0a-98ab-50f932854367"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 42 best time cloud", 
+    "id": "7a078868-4f34-4e4e-88af-54ba4d617a69", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-minty-orangeswirl", 
+    "parent": "12b7cb55-3647-4e1d-afc9-c4c269e42766"
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real quantum time real-time microservice", 
+    "icon": "images/icon_datasource.png", 
+    "id": "8f6474e5-f8a4-4b0a-98ab-50f932854367", 
+    "name": "google-microsoft-facebook", 
+    "parent": "c687d85b-3222-4dcf-adac-42315b727b4f", 
+    "sourcetype": [
+        "access_combined"
+    ]
+}

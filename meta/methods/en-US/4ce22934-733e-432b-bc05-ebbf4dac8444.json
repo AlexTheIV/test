@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "c358273a-5b17-4ca9-a667-058386f40be5"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc quantum 4.2 real 3.4", 
+    "id": "4ce22934-733e-432b-bc05-ebbf4dac8444", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "facebook-microsoft-splunk", 
+    "parent": "5567ab16-5485-4c9d-95c4-d63c2d2e2dc0"
+}

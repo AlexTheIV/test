@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "f1917656-cfd2-4aed-8e96-7e8e7c0d855f"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great real-time ssc real-time quantum", 
+    "id": "8f5c3e73-ba8e-4d6f-bcd0-d1cdc9bab668", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "aws-orangeswirl-microsoft", 
+    "parent": "b2730be8-e703-488c-a300-abf8ed79adc7"
+}

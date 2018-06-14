@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "c3245960-6b69-46e3-a2f2-2154c3813ff8"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time real crypto sunny 3.4", 
+    "id": "63b018c3-5abf-4503-b494-60c5f3a64579", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "aws-aws-splunk", 
+    "parent": "a5a34321-0b8b-43f5-8765-8309c55e698d"
+}

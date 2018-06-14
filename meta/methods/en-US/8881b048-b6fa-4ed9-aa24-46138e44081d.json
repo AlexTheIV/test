@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "0e5f2b00-6958-4b95-9abd-6b47dbbb4b77"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors scale runinng sunny scale", 
+    "id": "8881b048-b6fa-4ed9-aa24-46138e44081d", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "orangeswirl-azure-orangeswirl", 
+    "parent": "6d3b2b32-55b9-4569-b6f5-e49870e69923"
+}

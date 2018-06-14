@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "cb33b1cd-a1bd-422e-b303-cf6192d15d0b"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real resistors real real-time", 
+    "id": "840ebc58-d4b2-4be6-8061-afcab5b913d0", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "aws-splunk-azure", 
+    "parent": "098ff173-24d7-431f-b1e6-579a5e07685b"
+}

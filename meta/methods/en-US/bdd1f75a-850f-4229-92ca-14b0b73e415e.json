@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "edf025ab-3a0c-456e-8ec9-36257ab30fa7"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time time real 3.4 best", 
+    "id": "bdd1f75a-850f-4229-92ca-14b0b73e415e", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "orangeswirl-nightlight-cicso", 
+    "parent": "d10117cf-ee76-41b0-9950-e405480742a2"
+}

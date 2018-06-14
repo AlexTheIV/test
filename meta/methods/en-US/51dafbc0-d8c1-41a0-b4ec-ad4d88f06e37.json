@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "e02e70f1-324c-4ae3-a15f-e089e611d4ec"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best time cloud quantum runinng", 
+    "id": "51dafbc0-d8c1-41a0-b4ec-ad4d88f06e37", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-aws-minty", 
+    "parent": "143c1bd9-8f79-42c8-9025-756261963309"
+}

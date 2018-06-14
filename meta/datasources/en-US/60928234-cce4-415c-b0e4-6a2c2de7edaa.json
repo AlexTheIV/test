@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 microservice 42 time microservice", 
+    "icon": "images/icon_datasource.png", 
+    "id": "60928234-cce4-415c-b0e4-6a2c2de7edaa", 
+    "name": "orangeswirl-azure-minty", 
+    "parent": "20839b4c-14ec-4a26-bc80-231652f59eed", 
+    "sourcetype": "linux_secure"
+}

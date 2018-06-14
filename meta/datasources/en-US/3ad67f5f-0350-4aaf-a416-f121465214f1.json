@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time crypto crypto sunny ssc", 
+    "icon": "images/icon_datasource.png", 
+    "id": "3ad67f5f-0350-4aaf-a416-f121465214f1", 
+    "name": "minty-facebook-nightlight", 
+    "parent": "a07a98bf-db61-4fe0-a4a7-b86326e300b8", 
+    "sourcetype": "db2_diag"
+}

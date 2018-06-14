@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time big-data 42 cloud real-time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "d6a30b33-c555-4040-8b53-a0797b28d3d7", 
+    "name": "splunk-microsoft-azure", 
+    "parent": "a4bb356a-b954-401e-ba73-45d1d3f71cb1", 
+    "sourcetype": "known_binary"
+}

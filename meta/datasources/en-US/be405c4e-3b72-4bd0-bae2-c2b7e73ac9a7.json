@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 sunny 3.4 time ssc", 
+    "icon": "images/icon_datasource.png", 
+    "id": "be405c4e-3b72-4bd0-bae2-c2b7e73ac9a7", 
+    "name": "microsoft-google-minty", 
+    "parent": "a98c88bd-3ab9-4738-b515-425067429ed6", 
+    "sourcetype": "linux_messages_syslog"
+}

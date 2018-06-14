@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "299cce1c-da26-4133-bb37-d21a53b0a2ce"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng runinng great time crypto", 
+    "id": "c6008b47-46a4-4e69-ae0b-8e148eec1276", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-microsoft-aws", 
+    "parent": "54c032a5-d864-40a1-acfb-1b63fc041493"
+}

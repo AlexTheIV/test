@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "65f406ed-7426-4427-80b0-bf8cdd07baf8"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum microservice 42 scale scale", 
+    "id": "7b3bea5b-5d12-42ff-8d93-a1270dbad8c8", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "microsoft-facebook-nightlight", 
+    "parent": "917f6e14-81c9-4826-931f-e99504ef5ffd"
+}

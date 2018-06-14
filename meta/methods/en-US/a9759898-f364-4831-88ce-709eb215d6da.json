@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "ea0e2d6d-0a9e-4b00-ae1c-06b55ff3775b"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale big-data 42 42 sunny", 
+    "id": "a9759898-f364-4831-88ce-709eb215d6da", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-microsoft-minty", 
+    "parent": "8cf8bdca-b6f4-476a-8447-16f05e6579e1"
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "29ab1d98-5da4-40ab-9bd4-9d95a6847b3e"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud best real-time sunny time", 
+    "id": "2011f0e9-5855-48d9-86f2-7fb1d81fde45", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "cicso-cicso-minty", 
+    "parent": "86077fae-d3be-48de-b5aa-49b3fd12c7c3"
+}

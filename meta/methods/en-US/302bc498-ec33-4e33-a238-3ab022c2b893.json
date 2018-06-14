@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "d6a30b33-c555-4040-8b53-a0797b28d3d7"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 1.8 4.2 great best", 
+    "id": "302bc498-ec33-4e33-a238-3ab022c2b893", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-aws-minty", 
+    "parent": "7c335c44-e007-405d-bba9-36cf422ad92d"
+}

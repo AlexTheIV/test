@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "3ad67f5f-0350-4aaf-a416-f121465214f1"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best time real big-data ssc", 
+    "id": "006322ee-f5c6-4d59-88d2-f15deb214807", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-orangeswirl-azure", 
+    "parent": "c6a46c3d-5648-4c19-90a8-18e92721a024"
+}

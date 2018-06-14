@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "0a712a2c-a372-4e4d-9ac8-131c791b5d1b"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data scale big-data ssc crypto", 
+    "id": "95efc45b-de57-49f1-80d5-938389c6fb1a", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "facebook-nightlight-minty", 
+    "parent": "d23a9629-b96d-4c56-bf59-33488b702543"
+}

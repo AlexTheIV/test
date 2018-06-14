@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto cloud big-data sunny cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "0a712a2c-a372-4e4d-9ac8-131c791b5d1b", 
+    "name": "facebook-facebook-azure", 
+    "parent": "e6ed291b-4551-4319-aff3-79a50ea1bf62", 
+    "sourcetype": "access_combined"
+}

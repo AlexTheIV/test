@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "24338fcf-8119-44d1-835a-993fbe1121a7"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 big-data great ssc cloud", 
+    "id": "d550cfa8-a313-45fe-b070-a64acd560864", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-splunk-microsoft", 
+    "parent": "040337c1-e1d1-4c3c-84b1-91eb6661f596"
+}

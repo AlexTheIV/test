@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "88c1af27-f2de-475c-9916-0b0e5fc389d1"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng time real-time best 42", 
+    "id": "61229815-a121-4a56-915f-f5fb4f175838", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-google-orangeswirl", 
+    "parent": "243a9f3b-5d05-4e1a-8699-d0cb3b37070a"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc runinng scale microservice 42", 
+    "icon": "images/icon_datasource.png", 
+    "id": "65f406ed-7426-4427-80b0-bf8cdd07baf8", 
+    "name": "facebook-google-orangeswirl", 
+    "parent": "81d7feb0-ca3e-4fe5-a609-a612b01485e2", 
+    "sourcetype": "linux_messages_syslog"
+}

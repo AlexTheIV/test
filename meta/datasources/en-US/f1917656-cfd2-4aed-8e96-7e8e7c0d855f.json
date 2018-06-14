@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 1.8 resistors 1.8 cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "f1917656-cfd2-4aed-8e96-7e8e7c0d855f", 
+    "name": "nightlight-azure-facebook", 
+    "parent": "d8ff2571-2979-4a91-b8d4-c344cd847dfa", 
+    "sourcetype": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best crypto 42 real time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "91c7d798-fa34-46ed-b2b3-a6a90df2649e", 
+    "name": "aws-google-facebook", 
+    "parent": "040b13ca-af30-4681-80db-e73ef7b3ffb9", 
+    "sourcetype": [
+        "log4j"
+    ]
+}

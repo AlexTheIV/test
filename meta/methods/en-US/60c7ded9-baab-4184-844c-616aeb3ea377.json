@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "52251c91-c265-41a3-80f8-22c58fb68010"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great 3.4 real-time quantum 42", 
+    "id": "60c7ded9-baab-4184-844c-616aeb3ea377", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "facebook-google-nightlight", 
+    "parent": "f65be0b8-efb6-40f8-beaa-d591b9750fc1"
+}

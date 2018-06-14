@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 1.8 best ssc 4.2", 
+    "icon": "images/icon_datasource.png", 
+    "id": "4868a447-14f1-4b4e-bdb7-fd2ebab7c846", 
+    "name": "orangeswirl-splunk-azure", 
+    "parent": "47938633-fe77-414b-937c-f005a4329f29", 
+    "sourcetype": [
+        "db2_diag"
+    ]
+}

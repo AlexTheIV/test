@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "326aab59-2ec8-4ef2-a2d8-3647d87decc4"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid real-time real microservice big-data", 
+    "id": "1582024a-d11c-4f38-879a-6653f11decdc", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-azure-facebook", 
+    "parent": "792c5670-3978-418c-9b0d-f46cc1cf926f"
+}

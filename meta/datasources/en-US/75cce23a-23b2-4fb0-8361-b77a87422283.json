@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 big-data 42 1.8 cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "75cce23a-23b2-4fb0-8361-b77a87422283", 
+    "name": "nightlight-azure-splunk", 
+    "parent": "863561c3-6f62-49cc-a265-ec2bf1d6e947", 
+    "sourcetype": [
+        "access_common"
+    ]
+}

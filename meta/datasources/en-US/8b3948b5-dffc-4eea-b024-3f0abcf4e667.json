@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 crypto runinng sunny great", 
+    "icon": "images/icon_datasource.png", 
+    "id": "8b3948b5-dffc-4eea-b024-3f0abcf4e667", 
+    "name": "minty-facebook-minty", 
+    "parent": "8790527d-aab1-4389-afac-adf535f0ba5e", 
+    "sourcetype": [
+        "log4j"
+    ]
+}

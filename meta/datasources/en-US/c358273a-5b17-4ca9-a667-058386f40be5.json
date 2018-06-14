@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great microservice 3.4 sunny quantum", 
+    "icon": "images/icon_datasource.png", 
+    "id": "c358273a-5b17-4ca9-a667-058386f40be5", 
+    "name": "orangeswirl-azure-cicso", 
+    "parent": "2bb30d31-2870-48da-bfb6-fdb33db81e74", 
+    "sourcetype": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice sunny scale time real", 
+    "icon": "images/icon_datasource.png", 
+    "id": "0e5f2b00-6958-4b95-9abd-6b47dbbb4b77", 
+    "name": "microsoft-cicso-cicso", 
+    "parent": "d620661a-5742-4b7c-bd86-3d8627fb4d8b", 
+    "sourcetype": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "6559c105-15f2-40b4-b949-348b4c080c32"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 3.4 42 4.2 hybrid", 
+    "id": "9bf121f1-689f-48de-ae7e-48dfb4cb3721", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-minty-nightlight", 
+    "parent": "2ca7b016-487d-4617-a0a9-44a09f2f7cb6"
+}

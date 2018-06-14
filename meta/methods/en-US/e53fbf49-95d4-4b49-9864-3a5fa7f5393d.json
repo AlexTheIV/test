@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "91c7d798-fa34-46ed-b2b3-a6a90df2649e"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng ssc time 3.4 3.4", 
+    "id": "e53fbf49-95d4-4b49-9864-3a5fa7f5393d", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "aws-splunk-nightlight", 
+    "parent": "6563fe8a-9bdf-4366-8cc6-77b3b8a13a56"
+}

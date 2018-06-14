@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale quantum real-time time time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "c39ed4de-d685-4290-8925-7dc47bb0f17a", 
+    "name": "splunk-orangeswirl-microsoft", 
+    "parent": "ac9e7972-618e-450e-bf19-ebaeae9758fa", 
+    "sourcetype": [
+        "linux_messages_syslog"
+    ]
+}

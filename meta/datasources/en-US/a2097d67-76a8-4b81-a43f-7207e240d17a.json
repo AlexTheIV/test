@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great crypto great hybrid 1.8", 
+    "icon": "images/icon_datasource.png", 
+    "id": "a2097d67-76a8-4b81-a43f-7207e240d17a", 
+    "name": "google-cicso-minty", 
+    "parent": "942028cf-7631-40b4-b492-e44214274eba", 
+    "sourcetype": [
+        "access_combined"
+    ]
+}

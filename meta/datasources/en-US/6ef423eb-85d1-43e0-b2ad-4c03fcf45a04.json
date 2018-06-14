@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 42 resistors real-time 1.8", 
+    "icon": "images/icon_datasource.png", 
+    "id": "6ef423eb-85d1-43e0-b2ad-4c03fcf45a04", 
+    "name": "aws-cicso-aws", 
+    "parent": "c687d85b-3222-4dcf-adac-42315b727b4f", 
+    "sourcetype": [
+        "known_binary"
+    ]
+}

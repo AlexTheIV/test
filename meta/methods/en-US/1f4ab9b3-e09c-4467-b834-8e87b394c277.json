@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "684052d5-a49f-4089-b62a-383b64f30785"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny runinng microservice real great", 
+    "id": "1f4ab9b3-e09c-4467-b834-8e87b394c277", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "cicso-minty-azure", 
+    "parent": "8ff21ecc-8626-4451-917c-883c69d96deb"
+}

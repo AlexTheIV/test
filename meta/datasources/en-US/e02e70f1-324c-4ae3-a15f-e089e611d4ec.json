@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice big-data crypto real-time great", 
+    "icon": "images/icon_datasource.png", 
+    "id": "e02e70f1-324c-4ae3-a15f-e089e611d4ec", 
+    "name": "orangeswirl-azure-azure", 
+    "parent": "8790527d-aab1-4389-afac-adf535f0ba5e", 
+    "sourcetype": [
+        "cisco_syslog"
+    ]
+}

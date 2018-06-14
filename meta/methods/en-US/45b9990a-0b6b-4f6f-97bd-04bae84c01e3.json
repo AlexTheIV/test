@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "8c847ec5-8cb7-4918-9821-a6a50cbbdfad"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 time quantum time 42", 
+    "id": "45b9990a-0b6b-4f6f-97bd-04bae84c01e3", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-orangeswirl-google", 
+    "parent": "8d1c7a37-1fbd-41f5-9257-aecc2cf9f6ab"
+}

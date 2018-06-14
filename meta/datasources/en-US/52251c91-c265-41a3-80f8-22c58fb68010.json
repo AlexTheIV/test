@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny sunny real 1.8 runinng", 
+    "icon": "images/icon_datasource.png", 
+    "id": "52251c91-c265-41a3-80f8-22c58fb68010", 
+    "name": "orangeswirl-minty-cicso", 
+    "parent": "10c1fde5-7e98-46fa-9831-8079ced38f5a", 
+    "sourcetype": [
+        "access_common"
+    ]
+}

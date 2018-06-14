@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "baed191f-3090-42f2-9397-6061fcb4b6b4"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data real microservice cloud time", 
+    "id": "75f665c0-1af9-4441-8e09-683841aa8956", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-aws-nightlight", 
+    "parent": "96d37ebf-0663-4fae-a664-8bed35f4f7d4"
+}

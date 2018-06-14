@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "8b3948b5-dffc-4eea-b024-3f0abcf4e667"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 42 crypto great quantum", 
+    "id": "bee7e1e6-0c1a-48d5-a043-f8034471a4b3", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-nightlight-azure", 
+    "parent": "ebd799d7-b8b9-40ed-bf73-8801fde34de5"
+}

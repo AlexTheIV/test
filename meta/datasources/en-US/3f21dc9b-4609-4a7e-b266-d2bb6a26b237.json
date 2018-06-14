@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 1.8 best sunny 3.4", 
+    "icon": "images/icon_datasource.png", 
+    "id": "3f21dc9b-4609-4a7e-b266-d2bb6a26b237", 
+    "name": "facebook-minty-splunk", 
+    "parent": "10c1fde5-7e98-46fa-9831-8079ced38f5a", 
+    "sourcetype": [
+        "linux_secure"
+    ]
+}

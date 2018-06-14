@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time 1.8 1.8 resistors cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "b695e9bc-d9b4-4a81-94f3-f9b1aed5d1ed", 
+    "name": "nightlight-azure-splunk", 
+    "parent": "423b9305-c030-414c-9686-10baf4ffaf73", 
+    "sourcetype": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data sunny 42 4.2 time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "edf025ab-3a0c-456e-8ec9-36257ab30fa7", 
+    "name": "aws-splunk-orangeswirl", 
+    "parent": "423b9305-c030-414c-9686-10baf4ffaf73", 
+    "sourcetype": [
+        "log4j"
+    ]
+}

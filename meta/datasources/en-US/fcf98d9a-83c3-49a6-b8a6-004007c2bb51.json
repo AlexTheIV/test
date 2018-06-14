@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto time 42 microservice scale", 
+    "icon": "images/icon_datasource.png", 
+    "id": "fcf98d9a-83c3-49a6-b8a6-004007c2bb51", 
+    "name": "google-facebook-azure", 
+    "parent": "18b972b0-d498-4543-a65a-52eecb35dba9", 
+    "sourcetype": [
+        "linux_secure"
+    ]
+}

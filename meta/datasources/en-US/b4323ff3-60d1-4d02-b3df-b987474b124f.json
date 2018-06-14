@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud real-time ssc microservice resistors", 
+    "icon": "images/icon_datasource.png", 
+    "id": "b4323ff3-60d1-4d02-b3df-b987474b124f", 
+    "name": "azure-facebook-azure", 
+    "parent": "ac9e7972-618e-450e-bf19-ebaeae9758fa", 
+    "sourcetype": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "b695e9bc-d9b4-4a81-94f3-f9b1aed5d1ed"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real ssc runinng sunny 42", 
+    "id": "2a1acc6e-73df-4f4f-ace7-36d1181e7938", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "aws-google-aws", 
+    "parent": "c00f45f2-1056-4839-85a3-9406d768b70e"
+}

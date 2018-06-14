@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice great 3.4 3.4 runinng", 
+    "icon": "images/icon_datasource.png", 
+    "id": "83efd67e-d4e9-497f-bf0f-c701e8bc4a36", 
+    "name": "cicso-microsoft-cicso", 
+    "parent": "2cdebb52-42b7-4e48-a622-3d6a95cbc6a2", 
+    "sourcetype": "linux_secure"
+}

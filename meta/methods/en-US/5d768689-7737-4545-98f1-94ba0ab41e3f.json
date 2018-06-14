@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "50d33b90-5c16-4beb-9bb8-f1bb6f6d9fbd"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 1.8 42 great real-time", 
+    "id": "5d768689-7737-4545-98f1-94ba0ab41e3f", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-splunk-minty", 
+    "parent": "4e89b020-ab10-483e-9c91-cd7b90d595f4"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great hybrid 42 cloud ssc", 
+    "icon": "images/icon_datasource.png", 
+    "id": "3700c17a-521a-4238-af1a-6dc5c7aea19a", 
+    "name": "orangeswirl-azure-cicso", 
+    "parent": "cc762628-6419-47f4-86f7-380cff79d34b", 
+    "sourcetype": "log4j"
+}

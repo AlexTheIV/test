@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "4464186d-7043-4595-9893-d984536271d0"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 ssc real-time cloud real", 
+    "id": "07be0072-096e-4bd5-b900-d883a8d7b508", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "orangeswirl-orangeswirl-splunk", 
+    "parent": "81537176-b201-48a5-a2bb-e1d9613bda3c"
+}

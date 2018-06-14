@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "3700c17a-521a-4238-af1a-6dc5c7aea19a"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 hybrid microservice microservice real-time", 
+    "id": "ea104b71-7189-4722-a808-238f5b0f52aa", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-facebook-splunk", 
+    "parent": "d9f44add-1432-49f5-8309-ba79fbf91949"
+}

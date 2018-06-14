@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 resistors real-time real 3.4", 
+    "icon": "images/icon_datasource.png", 
+    "id": "7daf001c-44ce-4170-9d8e-7ef1d1d9d033", 
+    "name": "azure-orangeswirl-facebook", 
+    "parent": "a98c88bd-3ab9-4738-b515-425067429ed6", 
+    "sourcetype": "access_combined"
+}

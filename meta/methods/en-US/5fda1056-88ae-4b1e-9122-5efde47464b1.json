@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "22af070c-69bf-4968-bc38-bd81e7e7b61e"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 4.2 best hybrid ssc", 
+    "id": "5fda1056-88ae-4b1e-9122-5efde47464b1", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "orangeswirl-nightlight-splunk", 
+    "parent": "76beec76-4f64-4d84-94de-78620053288d"
+}

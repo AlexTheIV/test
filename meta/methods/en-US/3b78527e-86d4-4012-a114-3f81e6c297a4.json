@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "8bca072f-61d5-4937-a03b-0426d6d6326f"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best real-time time 3.4 real", 
+    "id": "3b78527e-86d4-4012-a114-3f81e6c297a4", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "microsoft-cicso-minty", 
+    "parent": "db4984c0-cb97-4898-a654-57efb5f06245"
+}

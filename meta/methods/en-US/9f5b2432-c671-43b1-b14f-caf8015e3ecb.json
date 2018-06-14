@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "d7246cd6-7f9b-4c69-a3a9-73aace3f1314"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 best scale best resistors", 
+    "id": "9f5b2432-c671-43b1-b14f-caf8015e3ecb", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-azure-aws", 
+    "parent": "699046b8-24f3-41db-b7d5-a54f607501a9"
+}

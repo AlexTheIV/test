@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid hybrid real great runinng", 
+    "icon": "images/icon_datasource.png", 
+    "id": "29ab1d98-5da4-40ab-9bd4-9d95a6847b3e", 
+    "name": "aws-nightlight-minty", 
+    "parent": "cfd0e64d-f236-4c96-aac6-be14116bb31a", 
+    "sourcetype": "known_binary"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum best real-time microservice hybrid", 
+    "icon": "images/icon_datasource.png", 
+    "id": "50d33b90-5c16-4beb-9bb8-f1bb6f6d9fbd", 
+    "name": "microsoft-splunk-cicso", 
+    "parent": "c02ea7a0-8918-490c-bfb2-09c9340a8e9e", 
+    "sourcetype": "cisco_syslog"
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "577687cc-df1e-41fc-8a26-ba3b9d6e87b9"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 time runinng cloud 42", 
+    "id": "f427cd4c-1c09-41e7-ad0c-8f3614a018f3", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-microsoft-minty", 
+    "parent": "7afb3edd-0b75-4b6d-ae5f-aec7b93b070c"
+}

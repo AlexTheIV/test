@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "6aec42ce-6e4f-4c63-8804-b7ae4702203b"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time big-data scale cloud real-time", 
+    "id": "6cce003e-6600-4b4b-891d-82b321ab1eab", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "microsoft-orangeswirl-aws", 
+    "parent": "38c06cd8-228a-4ccb-a03d-703ecaa3db9d"
+}

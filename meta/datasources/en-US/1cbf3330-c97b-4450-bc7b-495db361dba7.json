@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud crypto quantum scale scale", 
+    "icon": "images/icon_datasource.png", 
+    "id": "1cbf3330-c97b-4450-bc7b-495db361dba7", 
+    "name": "cicso-azure-orangeswirl", 
+    "parent": "3b7370da-6df4-4fd8-8bdc-b0bbce92cf1c", 
+    "sourcetype": "db2_diag"
+}

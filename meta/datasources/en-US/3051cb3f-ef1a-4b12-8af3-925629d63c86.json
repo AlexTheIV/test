@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 microservice resistors big-data real", 
+    "icon": "images/icon_datasource.png", 
+    "id": "3051cb3f-ef1a-4b12-8af3-925629d63c86", 
+    "name": "google-aws-splunk", 
+    "parent": "cc762628-6419-47f4-86f7-380cff79d34b", 
+    "sourcetype": "linux_secure"
+}

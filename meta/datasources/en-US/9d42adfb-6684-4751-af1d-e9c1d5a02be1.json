@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud big-data 1.8 4.2 microservice", 
+    "icon": "images/icon_datasource.png", 
+    "id": "9d42adfb-6684-4751-af1d-e9c1d5a02be1", 
+    "name": "facebook-google-azure", 
+    "parent": "81d7feb0-ca3e-4fe5-a609-a612b01485e2", 
+    "sourcetype": "linux_secure"
+}

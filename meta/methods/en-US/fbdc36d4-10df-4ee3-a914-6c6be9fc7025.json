@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "490f90dd-934b-4c30-ba83-fef9a06fe4e3"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 scale quantum 3.4 scale", 
+    "id": "fbdc36d4-10df-4ee3-a914-6c6be9fc7025", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "minty-cicso-aws", 
+    "parent": "4e1c2aed-90d8-42b7-9296-c40ddd473cc5"
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "eeb486da-52b6-4a16-b665-e20cd1a3a746"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great sunny crypto real-time runinng", 
+    "id": "ee3ce4e2-e0c8-4e88-a9b9-fe7436a9d735", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-microsoft-minty", 
+    "parent": "bfe6418f-049b-44c6-b696-767408a23163"
+}

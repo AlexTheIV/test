@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "647e2810-ec1b-4e51-9e72-a2aac98b00c2"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best best 4.2 best scale", 
+    "id": "2daf8d80-e1f0-4e63-bb2f-78a2f5a971ef", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "minty-orangeswirl-aws", 
+    "parent": "c50a376d-beae-4f01-8801-ad64d1b9dcbc"
+}

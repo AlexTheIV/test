@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "37215a66-cffd-4cf0-a5a7-06099f475753"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng 1.8 sunny 1.8 quantum", 
+    "id": "ee79f65a-7e5f-455b-af0c-540346fecb2f", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-aws-orangeswirl", 
+    "parent": "a61c5480-f605-4ac4-9f66-6bb65a442699"
+}

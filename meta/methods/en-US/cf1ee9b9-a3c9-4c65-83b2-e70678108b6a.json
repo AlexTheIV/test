@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "e961632e-0395-4c9b-80fc-83cc293fa085"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny crypto hybrid 4.2 4.2", 
+    "id": "cf1ee9b9-a3c9-4c65-83b2-e70678108b6a", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-nightlight-google", 
+    "parent": "4763de31-457d-4005-9951-429bb3745f6a"
+}

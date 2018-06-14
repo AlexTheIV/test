@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid time microservice real-time quantum", 
+    "icon": "images/icon_datasource.png", 
+    "id": "3902281e-6591-4a10-ad56-870d6d055bf6", 
+    "name": "aws-splunk-minty", 
+    "parent": "2cfbd04c-2b3f-4f95-bf98-12a1f453791c", 
+    "sourcetype": "access_combined_wcookie"
+}

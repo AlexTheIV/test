@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great time resistors time best", 
+    "icon": "images/icon_datasource.png", 
+    "id": "bdef248b-4c2e-4327-8635-8471bbf6e884", 
+    "name": "microsoft-minty-minty", 
+    "parent": "48d51973-ff2a-495f-8a09-362f22b31219", 
+    "sourcetype": "log4j"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 4.2 best sunny great", 
+    "icon": "images/icon_datasource.png", 
+    "id": "8e8fbd90-c213-4514-a479-ba5fe15e7ecf", 
+    "name": "minty-azure-facebook", 
+    "parent": "8457d7b9-c0cc-4a1a-9ac4-31098526cbf0", 
+    "sourcetype": "access_combined_wcookie"
+}

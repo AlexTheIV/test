@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "ab4b13fa-bd66-4fb9-a581-d61f2cfd6b27"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc cloud microservice sunny real-time", 
+    "id": "cbcbbedc-6e24-4126-8d55-7adf578ee2a1", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "aws-azure-aws", 
+    "parent": "8d360da1-be3f-419f-89a8-4bf2f0aafdab"
+}

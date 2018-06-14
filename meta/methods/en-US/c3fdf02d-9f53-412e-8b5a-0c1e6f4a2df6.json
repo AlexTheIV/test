@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "c85640ea-8223-477b-823a-5cc849cdc638"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time microservice real microservice 1.8", 
+    "id": "c3fdf02d-9f53-412e-8b5a-0c1e6f4a2df6", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-cicso-google", 
+    "parent": "52ca8e2b-ee66-4360-b359-822285152bbf"
+}

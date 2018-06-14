@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "c2b787f9-fd81-45f0-911d-b9f74986c997"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 3.4 cloud 42 sunny", 
+    "id": "0e403a0e-ea7f-40e0-bc3e-3b465199da61", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-google-splunk", 
+    "parent": "6fdfac6d-1f6b-453e-894a-0501409f4ec1"
+}

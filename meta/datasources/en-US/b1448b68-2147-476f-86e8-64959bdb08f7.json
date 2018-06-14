@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice real 1.8 3.4 cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "b1448b68-2147-476f-86e8-64959bdb08f7", 
+    "name": "aws-google-aws", 
+    "parent": "e8610bc2-7846-407b-a446-77c467cf4e5e", 
+    "sourcetype": "cisco_syslog"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors time cloud 1.8 3.4", 
+    "icon": "images/icon_datasource.png", 
+    "id": "6fd3e5a2-fc6e-4cdf-b0bb-f6f33027b587", 
+    "name": "nightlight-splunk-azure", 
+    "parent": "8457d7b9-c0cc-4a1a-9ac4-31098526cbf0", 
+    "sourcetype": "db2_diag"
+}

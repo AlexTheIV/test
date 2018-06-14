@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "811648c2-d616-4f86-9ef2-7c96da755022"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 crypto 1.8 cloud 1.8", 
+    "id": "6118fe75-6ca6-4e43-8b55-b142de240a0b", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "cicso-azure-minty", 
+    "parent": "9210d25a-4820-4280-ad37-0647fbc51a65"
+}

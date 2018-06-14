@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto cloud scale 42 crypto", 
+    "icon": "images/icon_datasource.png", 
+    "id": "4e1559fe-8f0f-4b49-8041-100293a08bf5", 
+    "name": "nightlight-microsoft-cicso", 
+    "parent": "92e2224f-9efd-4370-a2dd-72f537e7bedc", 
+    "sourcetype": "access_combined_wcookie"
+}

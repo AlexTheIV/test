@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto runinng quantum great real-time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "9c825b3d-9302-47e2-92b8-3fa04de5b7dc", 
+    "name": "nightlight-splunk-orangeswirl", 
+    "parent": "0f99ff3b-add3-4b82-b92f-d22b0aea693a", 
+    "sourcetype": "cisco_syslog"
+}

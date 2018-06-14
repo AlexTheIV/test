@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 ssc ssc scale 4.2", 
-    "icon": "images/icon_datasource.png", 
-    "id": "d78f0aae-6d8f-422b-8449-1a150a7d72e3", 
-    "name": "facebook-cicso-cicso", 
-    "parent": "a5636ace-28b5-4fcd-a362-d976e14606fa", 
-    "sourcetype": "access_combined"
-}

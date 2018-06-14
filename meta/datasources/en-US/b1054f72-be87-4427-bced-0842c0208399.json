@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto crypto cloud 4.2 hybrid", 
-    "icon": "images/icon_datasource.png", 
-    "id": "b1054f72-be87-4427-bced-0842c0208399", 
-    "name": "orangeswirl-minty-microsoft", 
-    "parent": "780ac530-7fe6-4d8e-9c43-40fc3ade1a92", 
-    "sourcetype": "cisco_syslog"
-}

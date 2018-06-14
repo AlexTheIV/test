@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time ssc 4.2 best best", 
-    "icon": "images/icon_datasource.png", 
-    "id": "665247b5-a9f4-469a-b92d-d300da176ea8", 
-    "name": "nightlight-cicso-splunk", 
-    "parent": "e48d4add-4724-4aac-8c5b-bdab17b83c58", 
-    "sourcetype": "access_combined"
-}

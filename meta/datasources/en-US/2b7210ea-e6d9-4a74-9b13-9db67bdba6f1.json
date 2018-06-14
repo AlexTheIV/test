@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid runinng best runinng resistors", 
-    "icon": "images/icon_datasource.png", 
-    "id": "2b7210ea-e6d9-4a74-9b13-9db67bdba6f1", 
-    "name": "facebook-orangeswirl-splunk", 
-    "parent": "d3706e23-5179-4720-a847-ed63fb3386b8", 
-    "sourcetype": "log4j"
-}

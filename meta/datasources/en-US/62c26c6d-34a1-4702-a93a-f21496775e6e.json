@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real real runinng real real", 
-    "icon": "images/icon_datasource.png", 
-    "id": "62c26c6d-34a1-4702-a93a-f21496775e6e", 
-    "name": "facebook-nightlight-azure", 
-    "parent": "3efee13c-c12b-4989-9964-f40577ef1cf1", 
-    "sourcetype": "db2_diag"
-}

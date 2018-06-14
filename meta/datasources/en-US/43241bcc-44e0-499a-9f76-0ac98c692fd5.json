@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real microservice hybrid 42 runinng", 
-    "icon": "images/icon_datasource.png", 
-    "id": "43241bcc-44e0-499a-9f76-0ac98c692fd5", 
-    "name": "aws-splunk-google", 
-    "parent": "0eee20b4-c98c-440f-9625-418e1c03c217", 
-    "sourcetype": "access_combined_wcookie"
-}

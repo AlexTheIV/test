@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale sunny scale runinng time", 
-    "icon": "images/icon_datasource.png", 
-    "id": "64abdf7b-093c-4389-ac50-c9b3fe5f15c2", 
-    "name": "google-cicso-google", 
-    "parent": "0eee20b4-c98c-440f-9625-418e1c03c217", 
-    "sourcetype": "cisco_syslog"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 4.2 time crypto 1.8", 
-    "icon": "images/icon_datasource.png", 
-    "id": "10003983-d913-44c3-918d-465bd9a9574b", 
-    "name": "aws-nightlight-facebook", 
-    "parent": "2bcc11a9-bb1f-4aea-ae61-22d32258780a", 
-    "sourcetype": "known_binary"
-}

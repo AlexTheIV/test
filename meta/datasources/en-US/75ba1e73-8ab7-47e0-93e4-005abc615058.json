@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum quantum quantum time quantum", 
-    "icon": "images/icon_datasource.png", 
-    "id": "75ba1e73-8ab7-47e0-93e4-005abc615058", 
-    "name": "splunk-facebook-orangeswirl", 
-    "parent": "d32d41da-7a7d-4224-9be2-edcf4f4f9651"
-}

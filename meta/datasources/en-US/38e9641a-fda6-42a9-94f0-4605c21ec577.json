@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc scale real-time 3.4 hybrid", 
-    "icon": "images/icon_datasource.png", 
-    "id": "38e9641a-fda6-42a9-94f0-4605c21ec577", 
-    "name": "orangeswirl-cicso-orangeswirl", 
-    "parent": "2bcc11a9-bb1f-4aea-ae61-22d32258780a", 
-    "sourcetype": "linux_secure"
-}

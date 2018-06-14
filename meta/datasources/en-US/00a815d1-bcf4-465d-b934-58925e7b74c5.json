@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 time best big-data 1.8", 
-    "icon": "images/icon_datasource.png", 
-    "id": "00a815d1-bcf4-465d-b934-58925e7b74c5", 
-    "name": "microsoft-azure-facebook", 
-    "parent": "a9b9e3e9-617e-4521-8f8a-883272607e70", 
-    "sourcetype": "linux_secure"
-}

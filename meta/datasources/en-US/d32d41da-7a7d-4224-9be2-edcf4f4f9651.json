@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 scale 4.2 cloud hybrid", 
-    "icon": "images/icon_datasource.png", 
-    "id": "d32d41da-7a7d-4224-9be2-edcf4f4f9651", 
-    "name": "aws-nightlight-splunk", 
-    "parent": "769ac841-7e92-4a88-890b-a890b09d8b8e"
-}

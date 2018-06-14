@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great scale sunny best runinng", 
-    "icon": "images/icon_datasource.png", 
-    "id": "fff66923-2062-45be-84e6-0797143bead4", 
-    "name": "microsoft-facebook-microsoft", 
-    "parent": "72859a60-db9d-4ce2-9e21-968d03d6d81a", 
-    "sourcetype": "cisco_syslog"
-}

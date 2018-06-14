@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great runinng microservice ssc cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "4628c91e-1792-47c7-abae-2c28fc190be6", 
+    "name": "microsoft-nightlight-aws", 
+    "parent": "37141224-af4c-41c4-9d26-b682b470b408", 
+    "sourcetype": "known_binary"
+}

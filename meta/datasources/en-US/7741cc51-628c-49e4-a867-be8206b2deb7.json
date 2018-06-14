@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 crypto 4.2 scale 1.8", 
+    "icon": "images/icon_datasource.png", 
+    "id": "7741cc51-628c-49e4-a867-be8206b2deb7", 
+    "name": "orangeswirl-facebook-aws", 
+    "parent": "da0d8725-c2c3-4c7e-b244-64145ac97951", 
+    "sourcetype": "log4j"
+}

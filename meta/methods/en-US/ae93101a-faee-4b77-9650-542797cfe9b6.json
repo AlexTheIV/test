@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "502231ec-75df-4336-a757-d4e1f80f6a38"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time best ssc real-time cloud", 
+    "id": "ae93101a-faee-4b77-9650-542797cfe9b6", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-facebook-microsoft", 
+    "parent": "3c2c6a5a-9e9a-4749-bbc8-f50a63c87196"
+}

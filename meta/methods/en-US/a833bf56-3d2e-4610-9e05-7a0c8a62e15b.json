@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "159e08b1-8cff-47a0-9892-600c97d202d6"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 hybrid time real-time 1.8", 
+    "id": "a833bf56-3d2e-4610-9e05-7a0c8a62e15b", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-azure-azure", 
+    "parent": "6169b195-9741-4d9a-a53d-5896e75744b8"
+}

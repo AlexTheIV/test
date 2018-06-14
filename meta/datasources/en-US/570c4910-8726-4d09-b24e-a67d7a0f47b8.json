@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time microservice microservice real real", 
+    "icon": "images/icon_datasource.png", 
+    "id": "570c4910-8726-4d09-b24e-a67d7a0f47b8", 
+    "name": "google-azure-microsoft", 
+    "parent": "75ba1e73-8ab7-47e0-93e4-005abc615058", 
+    "sourcetype": "access_combined_wcookie"
+}

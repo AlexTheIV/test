@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "2f1e36f4-134a-4dec-bfb6-a706dde85265"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto big-data microservice microservice real-time", 
+    "id": "7e79114e-27dd-4421-954e-4b5101331bae", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "aws-orangeswirl-facebook", 
+    "parent": "118f43e2-5b27-460a-9de9-8ec682c6af52"
+}

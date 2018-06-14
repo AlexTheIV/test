@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "665247b5-a9f4-469a-b92d-d300da176ea8"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud best 1.8 big-data hybrid", 
+    "id": "ae2bd3f8-008d-40ec-8646-4bfb9bc64f81", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "orangeswirl-splunk-microsoft", 
+    "parent": "46892a2c-afd8-42c1-8bc9-b135c5956448"
+}

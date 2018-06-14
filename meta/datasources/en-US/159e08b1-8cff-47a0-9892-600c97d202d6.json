@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto sunny time sunny hybrid", 
+    "icon": "images/icon_datasource.png", 
+    "id": "159e08b1-8cff-47a0-9892-600c97d202d6", 
+    "name": "splunk-cicso-splunk", 
+    "parent": "75ba1e73-8ab7-47e0-93e4-005abc615058", 
+    "sourcetype": "access_combined_wcookie"
+}

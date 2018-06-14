@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 real 42 crypto best", 
+    "icon": "images/icon_datasource.png", 
+    "id": "a4337d17-f3ec-4fff-9999-b9bb70d43225", 
+    "name": "nightlight-azure-cicso", 
+    "parent": "780ac530-7fe6-4d8e-9c43-40fc3ade1a92", 
+    "sourcetype": "linux_messages_syslog"
+}

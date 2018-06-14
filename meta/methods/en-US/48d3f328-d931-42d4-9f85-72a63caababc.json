@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "64abdf7b-093c-4389-ac50-c9b3fe5f15c2"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto microservice 42 resistors 4.2", 
+    "id": "48d3f328-d931-42d4-9f85-72a63caababc", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-aws-azure", 
+    "parent": "8a16b44d-77dd-4f06-a6b8-86c1b08ea697"
+}

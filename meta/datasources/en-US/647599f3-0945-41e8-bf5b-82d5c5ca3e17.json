@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny sunny resistors microservice scale", 
+    "icon": "images/icon_datasource.png", 
+    "id": "647599f3-0945-41e8-bf5b-82d5c5ca3e17", 
+    "name": "minty-facebook-minty", 
+    "parent": "d2d7c92a-6da3-4098-b94e-9499deb83e48", 
+    "sourcetype": "cisco_syslog"
+}

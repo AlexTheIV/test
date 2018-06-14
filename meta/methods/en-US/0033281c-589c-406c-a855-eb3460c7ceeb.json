@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "d9f025c8-29be-4aa3-8db1-11d55efb1488"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time great 1.8 42 best", 
+    "id": "0033281c-589c-406c-a855-eb3460c7ceeb", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-splunk-azure", 
+    "parent": "af7bdacb-9b5f-41d9-b63c-cd42ba0fdc82"
+}

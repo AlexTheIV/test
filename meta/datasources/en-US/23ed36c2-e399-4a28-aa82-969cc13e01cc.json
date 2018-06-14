@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 hybrid hybrid cloud ssc", 
+    "icon": "images/icon_datasource.png", 
+    "id": "23ed36c2-e399-4a28-aa82-969cc13e01cc", 
+    "name": "cicso-azure-splunk", 
+    "parent": "37141224-af4c-41c4-9d26-b682b470b408", 
+    "sourcetype": "known_binary"
+}

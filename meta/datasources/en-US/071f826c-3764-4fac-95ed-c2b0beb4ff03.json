@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time 4.2 1.8 1.8 microservice", 
+    "icon": "images/icon_datasource.png", 
+    "id": "071f826c-3764-4fac-95ed-c2b0beb4ff03", 
+    "name": "aws-minty-google", 
+    "parent": "84869d04-9ef9-49e0-af33-a3eb1063a1ee", 
+    "sourcetype": "linux_secure"
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "00a815d1-bcf4-465d-b934-58925e7b74c5"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 3.4 great big-data great", 
+    "id": "af90371b-4362-4f58-a0a8-65fa57b6d556", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-google-google", 
+    "parent": "34316d35-1498-4bd7-8555-9a3e5aa254d8"
+}

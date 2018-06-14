@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors scale real-time runinng scale", 
+    "icon": "images/icon_datasource.png", 
+    "id": "502231ec-75df-4336-a757-d4e1f80f6a38", 
+    "name": "azure-cicso-facebook", 
+    "parent": "84869d04-9ef9-49e0-af33-a3eb1063a1ee", 
+    "sourcetype": "linux_secure"
+}

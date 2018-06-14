@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny cloud scale quantum scale", 
+    "icon": "images/icon_datasource.png", 
+    "id": "46d863b2-ea4f-4a42-8c77-2e5172bbaa43", 
+    "name": "splunk-orangeswirl-nightlight", 
+    "parent": "d3706e23-5179-4720-a847-ed63fb3386b8", 
+    "sourcetype": "db2_diag"
+}

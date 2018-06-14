@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid great 42 sunny quantum", 
+    "icon": "images/icon_datasource.png", 
+    "id": "6eb83dfe-2a26-4312-91d4-efc08df56a27", 
+    "name": "google-splunk-azure", 
+    "parent": "906601a1-caf5-4151-a2dd-dfc877d87210", 
+    "sourcetype": "db2_diag"
+}

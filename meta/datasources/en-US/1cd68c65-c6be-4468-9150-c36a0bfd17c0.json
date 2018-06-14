@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice ssc real-time time real", 
+    "icon": "images/icon_datasource.png", 
+    "id": "1cd68c65-c6be-4468-9150-c36a0bfd17c0", 
+    "name": "orangeswirl-minty-facebook", 
+    "parent": "906601a1-caf5-4151-a2dd-dfc877d87210", 
+    "sourcetype": "db2_diag"
+}

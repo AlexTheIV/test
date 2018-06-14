@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real real-time hybrid runinng real", 
-    "icon": "images/icon_datasource.png", 
-    "id": "e35e7703-bd9a-41c0-9bfc-4d22166ef50d", 
-    "name": "minty-cicso-aws", 
-    "parent": "57539aec-cfcf-4ac0-bd05-467954510c24", 
-    "sourcetype": "linux_secure"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time runinng microservice sunny scale", 
-    "icon": "images/icon_datasource.png", 
-    "id": "b5a92e05-973e-4484-b3a5-259d915b9f2e", 
-    "name": "microsoft-splunk-facebook", 
-    "parent": "46429524-2ca3-41a6-9416-280e6e653934", 
-    "sourcetype": "linux_secure"
-}

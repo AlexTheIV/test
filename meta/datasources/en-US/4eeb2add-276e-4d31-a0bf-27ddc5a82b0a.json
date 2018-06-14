@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc scale real time 3.4", 
-    "icon": "images/icon_datasource.png", 
-    "id": "4eeb2add-276e-4d31-a0bf-27ddc5a82b0a", 
-    "name": "facebook-nightlight-orangeswirl", 
-    "parent": "570916ad-8518-4a49-bee1-9db61b529f9a", 
-    "sourcetype": "db2_diag"
-}

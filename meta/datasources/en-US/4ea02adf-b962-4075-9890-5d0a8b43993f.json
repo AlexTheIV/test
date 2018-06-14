@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng quantum real-time real-time 1.8", 
-    "icon": "images/icon_datasource.png", 
-    "id": "4ea02adf-b962-4075-9890-5d0a8b43993f", 
-    "name": "google-microsoft-microsoft", 
-    "parent": "a220f175-1311-4f1e-a4a8-277a0924efad", 
-    "sourcetype": "db2_diag"
-}

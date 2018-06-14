@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 4.2 hybrid hybrid real", 
-    "icon": "images/icon_datasource.png", 
-    "id": "0a3ac4f1-e33f-4083-9759-5e0a872470b5", 
-    "name": "microsoft-azure-cicso", 
-    "parent": "891eefcb-7edb-4e87-b277-4321c17e3563", 
-    "sourcetype": "linux_messages_syslog"
-}

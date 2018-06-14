@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 1.8 big-data 1.8 runinng", 
-    "icon": "images/icon_datasource.png", 
-    "id": "dc0c08ad-44cd-42f6-b26a-185a6415b525", 
-    "name": "aws-microsoft-orangeswirl", 
-    "parent": "97d76c14-36c4-4255-a24d-66f68ab9b248", 
-    "sourcetype": "linux_messages_syslog"
-}

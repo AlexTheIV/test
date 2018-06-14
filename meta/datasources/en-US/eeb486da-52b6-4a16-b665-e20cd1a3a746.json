@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid runinng 42 sunny runinng", 
-    "icon": "images/icon_datasource.png", 
-    "id": "eeb486da-52b6-4a16-b665-e20cd1a3a746", 
-    "name": "facebook-orangeswirl-splunk", 
-    "parent": "a220f175-1311-4f1e-a4a8-277a0924efad", 
-    "sourcetype": "linux_secure"
-}

@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 best real-time microservice sunny", 
-    "icon": "images/icon_datasource.png", 
-    "id": "647e2810-ec1b-4e51-9e72-a2aac98b00c2", 
-    "name": "facebook-microsoft-minty", 
-    "parent": "46429524-2ca3-41a6-9416-280e6e653934", 
-    "sourcetype": "cisco_syslog"
-}

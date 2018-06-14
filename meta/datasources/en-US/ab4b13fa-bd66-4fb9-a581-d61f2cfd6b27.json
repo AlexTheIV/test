@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 runinng best real-time cloud", 
-    "icon": "images/icon_datasource.png", 
-    "id": "ab4b13fa-bd66-4fb9-a581-d61f2cfd6b27", 
-    "name": "aws-google-splunk", 
-    "parent": "cad5cee5-be05-4f4d-865f-949d2b5601d7", 
-    "sourcetype": "cisco_syslog"
-}

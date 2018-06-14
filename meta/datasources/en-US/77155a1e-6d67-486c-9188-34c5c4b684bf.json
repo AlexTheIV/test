@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid hybrid 1.8 great crypto", 
-    "icon": "images/icon_datasource.png", 
-    "id": "77155a1e-6d67-486c-9188-34c5c4b684bf", 
-    "name": "azure-microsoft-cicso", 
-    "parent": "2a524376-1d03-4ad0-aaa1-47dbc7a37e4e", 
-    "sourcetype": "cisco_syslog"
-}

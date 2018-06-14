@@ -1,8 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc sunny 4.2 crypto hybrid", 
-    "icon": "images/icon_datasource.png", 
-    "id": "37215a66-cffd-4cf0-a5a7-06099f475753", 
-    "name": "microsoft-orangeswirl-microsoft", 
-    "parent": "e68b9425-bab4-41f9-ae15-1583f1df9430", 
-    "sourcetype": "cisco_syslog"
-}

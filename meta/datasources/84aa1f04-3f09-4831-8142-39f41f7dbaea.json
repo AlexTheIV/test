@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 3.4 time time cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "84aa1f04-3f09-4831-8142-39f41f7dbaea", 
+    "name": "nightlight-orangeswirl-google", 
+    "parent": "d6ae1562-d924-41db-b545-09e5571faee7", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

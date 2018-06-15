@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 runinng best quantum real-time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "cba5308e-1559-407b-8afd-fc795632cf93", 
+    "name": "nightlight-splunk-cicso", 
+    "parent": "5b646917-3186-453d-9866-001818d1d6db", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "ca641ab9-f6ec-4a76-8e8e-145f5bad10fe"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great great 42 42 real-time", 
+    "id": "64f2c86b-3518-4e94-bfd3-da477b99b0f4", 
+    "instruction": {
+        "overview": {
+            "config": [
+                {
+                    "#document_ref": "singleInstance", 
+                    "topologies": [
+                        "SingleInstance"
+                    ]
+                }, 
+                {
+                    "#document_ref": "cloud", 
+                    "topologies": [
+                        "Cloud"
+                    ]
+                }
+            ], 
+            "deployment": [
+                {
+                    "desc": "A single instance that combines indexing and search management functions.", 
+                    "name": "Single Instance", 
+                    "topology": "SingleInstance"
+                }, 
+                {
+                    "desc": "You can get data into your Splunk Cloud deployment as follows:\n1. Forward data from data sources\n2. Install Splunk apps and add-ons\n3. Send data using HTTP protocol", 
+                    "name": "Cloud", 
+                    "topology": "Cloud"
+                }
+            ], 
+            "document_ref": {
+                "cloud": {
+                    "_name": "Splunk Cloud Configurations", 
+                    "diagram": "test/image_single.png", 
+                    "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview", 
+                    "steps": [
+                        "Cloud Step 1", 
+                        "Cloud Step 2", 
+                        "Cloud Step 3", 
+                        "Cloud Step 4", 
+                        "Cloud Step 5", 
+                        "Cloud Step 6", 
+                        "Cloud Step 7", 
+                        "\u00c7, \u00e9, \u00e2, \u00ea, \u00ee, \u00f4, \u00fb, \u00e0, \u00e8, \u00f9, \u00eb, \u00ef, \u00fc\n\u3131, \u3134, \u3137, \u3139, \u3141, \u3142, \u3145, \u3147\nIch h\u00e4tte gern, Es gef\u00e4llt mir nicht.\nL'orologio segna otto minuti alle dodici.", 
+                        "\u6b63\u9ad4\u5b57/\u7e41\u9ad4\u5b57, \u6e1b\u7b46, \u7adc, \u9f99, \u9f8d\n", 
+                        "\u5bfc\u5b57\u793e, \u7b80\u5316\u5b57\u603b\u8868\n", 
+                        "\u3042\u30a2\u304b\u30ab\n"
+                    ]
+                }, 
+                "singleInstance": {
+                    "_name": "Splunk Single Configurations", 
+                    "diagram": "test/image_single.png", 
+                    "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/2.2.0/UserGuide/ExtractFields", 
+                    "steps": [
+                        "create CloudTrail", 
+                        "Configure AWS account", 
+                        "Install AWS Add-on", 
+                        "Create dead letter queue", 
+                        "Single Instance Step 5"
+                    ]
+                }
+            }
+        }
+    }, 
+    "name": "minty-orangeswirl-orangeswirl", 
+    "parent": "b511c8b1-83aa-41f0-bf38-788745f4349d"
+}

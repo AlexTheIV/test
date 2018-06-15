@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great resistors big-data ssc 3.4", 
+    "icon": "images/icon_datasource.png", 
+    "id": "c79c2ab6-7f2a-478f-99e2-8de5d646b39e", 
+    "name": "minty-orangeswirl-google", 
+    "parent": "f02d5f43-9fe8-4b49-be48-34816f577f3c", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

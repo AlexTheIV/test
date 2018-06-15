@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "ec17f8c2-199e-4dd6-a435-4ba156163d89"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 cloud runinng resistors sunny", 
+    "id": "8700b1dd-82e2-41da-84c2-5140107a3882", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-google-microsoft", 
+    "parent": "a5d94472-5470-444f-9d52-e9dfffb72ed1"
+}

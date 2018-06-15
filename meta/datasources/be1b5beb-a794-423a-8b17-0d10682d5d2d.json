@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice time big-data great great", 
+    "icon": "images/icon_datasource.png", 
+    "id": "be1b5beb-a794-423a-8b17-0d10682d5d2d", 
+    "name": "nightlight-aws-azure", 
+    "parent": "7d4ce3f9-de92-43e2-bf55-34b79ebb3f36", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

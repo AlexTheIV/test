@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time time scale 4.2 hybrid", 
+    "icon": "images/icon_datasource.png", 
+    "id": "1f313794-b680-4d98-845c-1f73e4fa9b97", 
+    "name": "cicso-splunk-nightlight", 
+    "parent": "96981646-66bb-41dc-b0de-5c65374779e6", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

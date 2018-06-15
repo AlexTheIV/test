@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 42 scale cloud crypto", 
+    "icon": "images/icon_datasource.png", 
+    "id": "91c9c907-c7cd-4434-8c3e-93be971cc3e1", 
+    "name": "cicso-nightlight-splunk", 
+    "parent": "17b2ef53-ae71-4dfc-bf6b-d33d3562afa1", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

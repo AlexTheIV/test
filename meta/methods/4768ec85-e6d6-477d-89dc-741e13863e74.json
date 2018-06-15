@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "c3628c56-71c3-4e29-acfb-5e4206ea1d3f"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real big-data microservice 4.2 3.4", 
+    "id": "4768ec85-e6d6-477d-89dc-741e13863e74", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "google-azure-splunk", 
+    "parent": "bef53e7d-1847-4723-94c9-e016cca23a0c"
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "206b1c8f-b2f6-4270-85f5-6770a0281f43"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum real real-time great scale", 
+    "id": "ab3ac312-1f30-4f34-b8e0-b9452ee66dc1", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-facebook-cicso", 
+    "parent": "aadb600d-6060-4bdf-88aa-9fa9c9a595f5"
+}

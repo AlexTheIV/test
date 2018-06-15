@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc cloud 4.2 real-time real-time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "e0354c2f-8910-421c-a34d-0996dc861d8a", 
+    "name": "minty-nightlight-azure", 
+    "parent": "9a9bd3b0-7a98-4bfa-83f4-4ba981814165", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

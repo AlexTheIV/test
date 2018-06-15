@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale quantum real-time 1.8 resistors", 
+    "icon": "images/icon_datasource.png", 
+    "id": "cd65a8cd-ba45-4296-9f2b-2a68ff93542e", 
+    "name": "cicso-minty-splunk", 
+    "parent": "18b0adf3-e567-4275-ae70-536d5b623897", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

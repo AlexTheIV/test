@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "91c9c907-c7cd-4434-8c3e-93be971cc3e1"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 resistors microservice 42 real", 
+    "id": "d791339d-efe5-4ff5-af58-1a44239d6bc3", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "minty-google-google", 
+    "parent": "f8269155-3ebb-497c-9b99-97f1ea4c5992"
+}

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "cd65a8cd-ba45-4296-9f2b-2a68ff93542e"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 4.2 3.4 quantum scale", 
+    "id": "e13c9590-ff8a-4d76-8dbf-bfe69060b5f9", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "azure-cicso-azure", 
+    "parent": "f027ea3a-d5ae-4557-8ba1-7aef521b8e23"
+}

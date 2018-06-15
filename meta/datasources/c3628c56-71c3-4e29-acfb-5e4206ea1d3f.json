@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice sunny real-time resistors scale", 
+    "icon": "images/icon_datasource.png", 
+    "id": "c3628c56-71c3-4e29-acfb-5e4206ea1d3f", 
+    "name": "orangeswirl-microsoft-google", 
+    "parent": "3d7d07d9-bc0d-446a-9c68-1f569cdf15e7", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

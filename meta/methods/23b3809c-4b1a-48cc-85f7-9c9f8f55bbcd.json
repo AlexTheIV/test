@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "be1b5beb-a794-423a-8b17-0d10682d5d2d"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny crypto 1.8 42 time", 
+    "id": "23b3809c-4b1a-48cc-85f7-9c9f8f55bbcd", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-google-microsoft", 
+    "parent": "560e5f1c-2af8-4eb4-8982-1c256288eef3"
+}

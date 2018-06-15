@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time best ssc cloud microservice", 
+    "icon": "images/icon_datasource.png", 
+    "id": "b571f07c-035b-49f3-b269-7f3c0ea76bc6", 
+    "name": "azure-azure-google", 
+    "parent": "17b2ef53-ae71-4dfc-bf6b-d33d3562afa1", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

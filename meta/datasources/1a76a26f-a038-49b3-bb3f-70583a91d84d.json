@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 time 42 quantum real", 
+    "icon": "images/icon_datasource.png", 
+    "id": "1a76a26f-a038-49b3-bb3f-70583a91d84d", 
+    "name": "google-microsoft-facebook", 
+    "parent": "5031ed7d-f3dd-4744-98af-d09837e0e832", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

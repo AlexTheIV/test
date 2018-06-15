@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best real-time best 42 resistors", 
+    "icon": "images/icon_datasource.png", 
+    "id": "e8893536-407f-415f-90a4-c67a417a23c9", 
+    "name": "azure-nightlight-splunk", 
+    "parent": "5031ed7d-f3dd-4744-98af-d09837e0e832", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

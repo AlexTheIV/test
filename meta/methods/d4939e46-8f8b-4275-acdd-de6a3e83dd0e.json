@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "b8fb090d-d73c-40c5-a49e-bf134b8c4e24"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 cloud resistors ssc big-data", 
+    "id": "d4939e46-8f8b-4275-acdd-de6a3e83dd0e", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-nightlight-splunk", 
+    "parent": "156005e9-dc1d-42d1-b515-6b844be7a486"
+}

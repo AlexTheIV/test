@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "c1bc987d-4def-4621-8395-3254989b9c48"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 best ssc sunny quantum", 
+    "id": "9c89242a-5478-4072-9e77-e7a9764136bb", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "minty-azure-cicso", 
+    "parent": "72f3dc3e-e4d0-4264-babb-2c9d3afb97d8"
+}

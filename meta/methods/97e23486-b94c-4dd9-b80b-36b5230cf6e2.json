@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "e8893536-407f-415f-90a4-c67a417a23c9"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time 4.2 real-time scale crypto", 
+    "id": "97e23486-b94c-4dd9-b80b-36b5230cf6e2", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "splunk-orangeswirl-microsoft", 
+    "parent": "8451b5bc-1a05-4ed5-b731-4e68cb692f87"
+}

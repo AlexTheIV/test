@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "3a4e6040-0682-4c3b-bd0b-48dac899b042"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 runinng microservice real-time real-time", 
+    "id": "5d15a2cf-be15-43a9-8e11-4cb3994eb246", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "nightlight-azure-minty", 
+    "parent": "efe4a0e4-4693-4b92-9777-b1a5aa3939fd"
+}

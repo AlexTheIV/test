@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 42 scale ssc 1.8", 
+    "icon": "images/icon_datasource.png", 
+    "id": "c1bc987d-4def-4621-8395-3254989b9c48", 
+    "name": "orangeswirl-google-splunk", 
+    "parent": "85f9da4c-f6c0-4903-a24b-dc8da24c9b53", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

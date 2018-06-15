@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum real hybrid 3.4 resistors", 
+    "icon": "images/icon_datasource.png", 
+    "id": "3994165e-5c2b-4a33-9370-fca069324626", 
+    "name": "nightlight-orangeswirl-microsoft", 
+    "parent": "25665ea8-d439-4097-9337-0b94c7be493d", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

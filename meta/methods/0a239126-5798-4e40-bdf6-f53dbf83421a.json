@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "c79c2ab6-7f2a-478f-99e2-8de5d646b39e"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 1.8 microservice crypto microservice", 
+    "id": "0a239126-5798-4e40-bdf6-f53dbf83421a", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "microsoft-minty-aws", 
+    "parent": "39896584-ab12-4f34-a8bd-cb95d574764e"
+}

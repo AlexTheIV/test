@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "1a76a26f-a038-49b3-bb3f-70583a91d84d"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real quantum scale runinng", 
+    "id": "9c1191d3-2246-48e5-885d-9484b31c00c9", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "cicso-minty-cicso", 
+    "parent": "3bf4161a-b0fa-4c72-ab66-f2403b168ce3"
+}

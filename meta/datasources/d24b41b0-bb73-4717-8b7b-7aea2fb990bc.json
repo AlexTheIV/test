@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny real-time sunny 3.4 1.8", 
+    "icon": "images/icon_datasource.png", 
+    "id": "d24b41b0-bb73-4717-8b7b-7aea2fb990bc", 
+    "name": "microsoft-google-microsoft", 
+    "parent": "7d4ce3f9-de92-43e2-bf55-34b79ebb3f36", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

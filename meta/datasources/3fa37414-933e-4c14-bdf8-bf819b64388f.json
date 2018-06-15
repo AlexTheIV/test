@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto sunny real-time microservice scale", 
+    "icon": "images/icon_datasource.png", 
+    "id": "3fa37414-933e-4c14-bdf8-bf819b64388f", 
+    "name": "cicso-orangeswirl-nightlight", 
+    "parent": "85f9da4c-f6c0-4903-a24b-dc8da24c9b53", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud real best great resistors", 
+    "icon": "images/icon_datasource.png", 
+    "id": "77e35461-f5e1-49ee-b765-8cb67fcbbedc", 
+    "name": "minty-facebook-google", 
+    "parent": "e54db4be-0fd8-4ce6-ba48-deca891748fd", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

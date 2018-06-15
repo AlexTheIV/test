@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 great real-time big-data big-data", 
+    "icon": "images/icon_datasource.png", 
+    "id": "299bd310-c1f3-4f98-8238-61b1c8ae5bfd", 
+    "name": "minty-splunk-microsoft", 
+    "parent": "00368df9-258a-4840-aeeb-549f8720ece9", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

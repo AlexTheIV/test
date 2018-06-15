@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data 1.8 real great real-time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "fb539d3b-8aec-4526-b2e0-49c50e003016", 
+    "name": "facebook-nightlight-aws", 
+    "parent": "13ac5a48-16c3-4ca3-a5c1-459effe640e2", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

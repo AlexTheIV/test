@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice ssc resistors microservice resistors", 
+    "icon": "images/icon_datasource.png", 
+    "id": "a7609e68-02ba-4128-a204-2b46d7a32d59", 
+    "name": "aws-azure-cicso", 
+    "parent": "6ae84a7f-fb43-4b6e-a399-642bcc587d77", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

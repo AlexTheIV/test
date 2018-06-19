@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real crypto big-data real-time crypto", 
+    "icon": "images/icon_datasource.png", 
+    "id": "17a94650-52df-40e9-8dfa-d56fff41242c", 
+    "name": "nightlight-splunk-aws", 
+    "parent": "d6ae1562-d924-41db-b545-09e5571faee7", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

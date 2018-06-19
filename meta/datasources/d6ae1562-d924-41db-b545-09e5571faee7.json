@@ -1,0 +1,7 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 real-time runinng cloud 42", 
+    "icon": "images/icon_datasource.png", 
+    "id": "d6ae1562-d924-41db-b545-09e5571faee7", 
+    "name": "microsoft-nightlight-aws", 
+    "parent": "35a47f1f-884f-4180-aa24-b87401c865c0"
+}

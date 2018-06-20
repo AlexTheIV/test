@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny quantum runinng ssc hybrid", 
+    "icon": "images/icon_datasource.png", 
+    "id": "14edccb1-9475-43bf-8644-1599f559c752", 
+    "name": "google-google-microsoft", 
+    "parent": "f08140e2-8108-4b46-a59f-e4df69f7acdf", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

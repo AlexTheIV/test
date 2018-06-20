@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 4.2 best hybrid real", 
+    "icon": "images/icon_datasource.png", 
+    "id": "07bfac1f-447b-41ed-b72f-6eea0b208647", 
+    "name": "splunk-nightlight-google", 
+    "parent": "671c9508-c167-4693-8d3a-a120e5825e5b", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 crypto sunny best", 
+    "icon": "images/icon_datasource.png", 
+    "id": "195d7ad0-b4cc-4f14-b926-109bf07eb017", 
+    "name": "cicso-microsoft-cicso", 
+    "parent": "e463d696-558e-41ef-9a4d-e1de5ef0bc9d", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

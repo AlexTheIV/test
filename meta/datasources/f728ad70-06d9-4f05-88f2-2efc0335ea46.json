@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 time scale 1.8 great", 
+    "icon": "images/icon_datasource.png", 
+    "id": "f728ad70-06d9-4f05-88f2-2efc0335ea46", 
+    "name": "nightlight-minty-aws", 
+    "parent": "353a9269-e3b4-4876-84ce-07c8ff037180", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

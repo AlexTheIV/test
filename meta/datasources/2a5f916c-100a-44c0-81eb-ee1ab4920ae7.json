@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 4.2 ssc 1.8 real-time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "2a5f916c-100a-44c0-81eb-ee1ab4920ae7", 
+    "name": "minty-nightlight-cicso", 
+    "parent": "044a672c-74c8-4c9f-a41a-11a511e98f38", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 3.4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 sunny cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "41906056-596f-4bc0-84ab-377391f3f552", 
+    "name": "nightlight-facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "85d7e71e-8843-4173-ab5d-985c34b94534", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

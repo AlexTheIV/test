@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great great big-data quantum microservice", 
+    "icon": "images/icon_datasource.png", 
+    "id": "0f1794fc-09ae-4d84-a4ca-90d61e2dc956", 
+    "name": "minty-facebook-orangeswirl", 
+    "parent": "15cc549e-9ee6-48a7-8e0b-f9b3184d12ea", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

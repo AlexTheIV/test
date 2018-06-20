@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto great cloud \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 cloud", 
+    "icon": "images/icon_datasource.png", 
+    "id": "2ace2ea2-fd6b-4991-b939-669983d08f29", 
+    "name": "nightlight-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "41c285d0-0282-4048-bc3c-87526a058fac", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

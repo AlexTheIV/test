@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 42 real-time 3.4 1.8", 
+    "icon": "images/icon_datasource.png", 
+    "id": "3cf0bcb7-e78a-4846-9618-06d164678d01", 
+    "name": "google-minty-azure", 
+    "parent": "3412c1b8-b121-45c3-b477-d9164bf6719d", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

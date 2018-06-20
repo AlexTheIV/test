@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 3.4 hybrid runinng big-data", 
+    "icon": "images/icon_datasource.png", 
+    "id": "93595988-db09-444d-a6eb-93768dae497a", 
+    "name": "microsoft-aws-minty", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

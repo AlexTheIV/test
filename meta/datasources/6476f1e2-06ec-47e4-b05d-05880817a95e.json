@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data great crypto time hybrid", 
+    "icon": "images/icon_datasource.png", 
+    "id": "6476f1e2-06ec-47e4-b05d-05880817a95e", 
+    "name": "facebook-aws-minty", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

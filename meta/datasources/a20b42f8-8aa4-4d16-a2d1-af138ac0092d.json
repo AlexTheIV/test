@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors quantum real 4.2 great", 
+    "icon": "images/icon_datasource.png", 
+    "id": "a20b42f8-8aa4-4d16-a2d1-af138ac0092d", 
+    "name": "splunk-splunk-orangeswirl", 
+    "parent": "f08140e2-8108-4b46-a59f-e4df69f7acdf", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

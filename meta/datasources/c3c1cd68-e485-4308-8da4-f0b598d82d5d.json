@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time best sunny big-data ssc", 
+    "icon": "images/icon_datasource.png", 
+    "id": "c3c1cd68-e485-4308-8da4-f0b598d82d5d", 
+    "name": "facebook-azure-aws", 
+    "parent": "a8e299e2-0116-4099-8415-d57d2b31391b", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

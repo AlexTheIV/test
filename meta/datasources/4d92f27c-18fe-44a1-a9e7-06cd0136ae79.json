@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data 4.2 great runinng runinng", 
+    "icon": "images/icon_datasource.png", 
+    "id": "4d92f27c-18fe-44a1-a9e7-06cd0136ae79", 
+    "name": "aws-azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "010ecca7-a0cf-409d-8c64-084b113111f6", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

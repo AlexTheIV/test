@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng crypto time 3.4 time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "b78f2675-7bda-4fdc-9bf8-d9237c59b2b5", 
+    "name": "nightlight-orangeswirl-minty", 
+    "parent": "e7e24cea-fb2b-4b4e-bb4a-87dee34eba23", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

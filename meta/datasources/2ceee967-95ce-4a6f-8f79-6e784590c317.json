@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 microservice microservice crypto time", 
+    "icon": "images/icon_datasource.png", 
+    "id": "2ceee967-95ce-4a6f-8f79-6e784590c317", 
+    "name": "splunk-microsoft-google", 
+    "parent": "41c285d0-0282-4048-bc3c-87526a058fac", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

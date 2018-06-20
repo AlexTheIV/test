@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 3.4 hybrid \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 crypto", 
+    "icon": "images/icon_datasource.png", 
+    "id": "a75e913e-36e8-4f00-9de8-9bb11d433ce6", 
+    "name": "splunk-facebook-cicso", 
+    "parent": "044a672c-74c8-4c9f-a41a-11a511e98f38", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

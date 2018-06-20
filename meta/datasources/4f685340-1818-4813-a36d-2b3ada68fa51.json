@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great great resistors best hybrid", 
+    "icon": "images/icon_datasource.png", 
+    "id": "4f685340-1818-4813-a36d-2b3ada68fa51", 
+    "name": "minty-aws-nightlight", 
+    "parent": "c3d72271-a290-46be-8bcd-c8ad4f3fde6f", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

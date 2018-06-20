@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 resistors resistors best microservice", 
+    "icon": "images/icon_datasource.png", 
+    "id": "760e2c71-4ce9-43cb-8192-b3d063d7af43", 
+    "name": "minty-microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

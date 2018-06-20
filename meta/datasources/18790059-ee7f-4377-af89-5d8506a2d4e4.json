@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc scale 3.4 hybrid hybrid", 
+    "icon": "images/icon_datasource.png", 
+    "id": "18790059-ee7f-4377-af89-5d8506a2d4e4", 
+    "name": "facebook-cicso-minty", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42 ssc cloud microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c4822405-b5ae-417e-87b8-4ac2d9fbbda7", 
+    "name": "minty-orangeswirl-cicso", 
+    "parent": "48dfed5a-5fa9-483f-9240-df8501152f20", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

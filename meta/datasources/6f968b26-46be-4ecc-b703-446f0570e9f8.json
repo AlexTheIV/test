@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 hybrid 3.4 ssc resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6f968b26-46be-4ecc-b703-446f0570e9f8", 
+    "name": "aws-splunk-splunk", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

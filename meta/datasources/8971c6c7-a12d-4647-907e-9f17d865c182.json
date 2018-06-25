@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best resistors time runinng time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8971c6c7-a12d-4647-907e-9f17d865c182", 
+    "name": "splunk-microsoft-splunk", 
+    "parent": "c7d3239b-7e5d-4eb7-bad1-2bc9e6876157", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

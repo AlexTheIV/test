@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data ssc time crypto real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a01991c1-48d1-4242-b429-eddffdd826b1", 
+    "name": "splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty", 
+    "parent": "843df7a5-e857-4296-b1f3-5203b3c30b57", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

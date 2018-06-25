@@ -1,0 +1,7 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 3.4 42 1.8 time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "41b519dc-8535-475d-aab5-9016b523400d", 
+    "name": "splunk-cicso-nightlight", 
+    "parent": "630de96c-7d98-419f-bfbf-534e1d7b5ec4"
+}

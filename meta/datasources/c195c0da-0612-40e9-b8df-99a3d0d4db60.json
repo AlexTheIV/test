@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 real-time 42 big-data scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c195c0da-0612-40e9-b8df-99a3d0d4db60", 
+    "name": "aws-google-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "c7d3239b-7e5d-4eb7-bad1-2bc9e6876157", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

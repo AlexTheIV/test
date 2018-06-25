@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great hybrid crypto real 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "911605bc-55b8-4d06-b16c-4761c7d5a166", 
+    "name": "facebook-orangeswirl-cicso", 
+    "parent": "843df7a5-e857-4296-b1f3-5203b3c30b57", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

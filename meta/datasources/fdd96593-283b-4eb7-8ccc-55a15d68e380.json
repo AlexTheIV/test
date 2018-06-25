@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng scale real real best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fdd96593-283b-4eb7-8ccc-55a15d68e380", 
+    "name": "aws-nightlight-minty", 
+    "parent": "10f57b78-7f58-4030-82f6-5b0b7df3003a", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

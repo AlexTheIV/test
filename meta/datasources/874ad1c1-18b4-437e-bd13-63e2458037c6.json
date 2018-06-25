@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great sunny crypto 42 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "874ad1c1-18b4-437e-bd13-63e2458037c6", 
+    "name": "aws-microsoft-aws", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

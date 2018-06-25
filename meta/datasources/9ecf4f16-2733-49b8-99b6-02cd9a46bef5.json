@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud big-data great sunny sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9ecf4f16-2733-49b8-99b6-02cd9a46bef5", 
+    "name": "nightlight-microsoft-google", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

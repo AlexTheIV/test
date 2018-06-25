@@ -1,6 +1,6 @@
 {
     "description": 2, 
-    "icon": "images/icon_datasource.png", 
+    "icon": "icons/icon_datasource.png", 
     "id": "ac90b69a-cbce-48c4-91cb-e7f94a5ec443", 
     "name": 1, 
     "sourcetypes": [

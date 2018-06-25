@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice quantum 1.8 great 3.4", 
+    "icon": "images/icon_datasource.png", 
+    "id": "aa3f7a61-8510-4571-911a-843e964ab699", 
+    "name": "google-google-azure", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

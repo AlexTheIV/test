@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 sunny great scale best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b25afe5c-f640-4e75-a8dd-0da329cd1d50", 
+    "name": "aws-google-cicso", 
+    "parent": "41b519dc-8535-475d-aab5-9016b523400d", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

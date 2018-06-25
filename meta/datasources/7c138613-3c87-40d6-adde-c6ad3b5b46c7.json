@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc hybrid big-data best cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7c138613-3c87-40d6-adde-c6ad3b5b46c7", 
+    "name": "azure-google-aws", 
+    "parent": "3b0d4787-cf41-441a-8ddd-ab4cd5675f39", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -4,6 +4,8 @@
     "id": "a895bc13-98a7-4393-bb3c-c94a5122acd9", 
     "name": "facebook-facebook-azure", 
     "sourcetypes": [
-        "access_combined"
+        "access_combined",
+        "<script>",
+        "hello/"
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "977fc75f-2879-46ef-ae62-1dd84ea07a60"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real 4.2 real cloud quantum", 
+    "id": "24f0920c-b0fc-4423-bb22-c00772d67e34", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "facebook-cicso-nightlight", 
+    "parent": "098fa571-1b9e-4049-adaf-812ec4bdc9cd"
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real crypto resistors great sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6f996fc5-8f8a-494f-91f7-761e4226f5e3", 
+    "name": "cicso-google-google", 
+    "parent": "50a7450e-6513-4e1c-b5e2-d057a8587dde", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data ssc time 42 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0b0dc822-06db-4ab3-823b-421dbccb401f", 
+    "name": "aws-google-orangeswirl", 
+    "parent": "0229f7af-d1c2-424f-b603-5dafa79d7c61", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

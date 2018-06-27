@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 crypto time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cede8934-2ee2-4f9f-9f73-8f540c94b6ab", 
+    "name": "minty-orangeswirl-orangeswirl", 
+    "parent": "bb00e47e-05e9-4c65-bc70-bf409ebf6dee", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

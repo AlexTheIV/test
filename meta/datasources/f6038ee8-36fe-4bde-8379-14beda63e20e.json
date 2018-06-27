@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 big-data cloud quantum cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f6038ee8-36fe-4bde-8379-14beda63e20e", 
+    "name": "azure-facebook-nightlight", 
+    "parent": "30f2a021-fc6c-4beb-81b0-f7821f8500a3", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

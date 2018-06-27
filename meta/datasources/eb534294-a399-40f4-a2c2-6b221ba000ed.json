@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real hybrid quantum cloud time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "eb534294-a399-40f4-a2c2-6b221ba000ed", 
+    "name": "aws-microsoft-azure", 
+    "parent": "fa037962-db16-471e-8911-e17954d64f1d", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

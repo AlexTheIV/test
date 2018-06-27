@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum best great sunny cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c11445bb-5412-4ea9-b7a6-ab7f6ea8ce08", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws-splunk", 
+    "parent": "4443e889-9a18-4749-833a-a4eb9af42bb8", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

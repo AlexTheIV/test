@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 best best crypto cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1e8646cf-b907-4d2d-ba1c-6511053fbd18", 
+    "name": "azure-minty-splunk", 
+    "parent": "9789bea4-bdb2-4238-b615-c28c9ee1eed9", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

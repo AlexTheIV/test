@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best real-time cloud big-data 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d8d4b994-4db7-49bf-8620-96c000f79e40", 
+    "name": "google-orangeswirl-google", 
+    "parent": "78abe015-d69c-49c3-8ec7-4561a839cf9c", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

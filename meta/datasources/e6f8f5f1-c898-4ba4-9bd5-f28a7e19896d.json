@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud great great sunny 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e6f8f5f1-c898-4ba4-9bd5-f28a7e19896d", 
+    "name": "orangeswirl-azure-google", 
+    "parent": "b79c2203-bbae-466d-8949-9d45246dd929", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

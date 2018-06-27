@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc ssc runinng 1.8 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "40a72694-932d-4c1d-874b-ca53f69d744b", 
+    "name": "aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws", 
+    "parent": "3427a1c5-deb8-4b36-9fd1-e8b321ab668e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

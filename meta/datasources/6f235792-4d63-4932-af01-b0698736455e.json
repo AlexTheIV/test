@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 runinng resistors 3.4 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6f235792-4d63-4932-af01-b0698736455e", 
+    "name": "google-minty-azure", 
+    "parent": "f5da6935-b9b8-4e18-a39a-710a841cb4e6", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

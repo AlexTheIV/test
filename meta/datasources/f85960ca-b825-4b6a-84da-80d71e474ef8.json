@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc great crypto real-time real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f85960ca-b825-4b6a-84da-80d71e474ef8", 
+    "name": "facebook-cicso-cicso", 
+    "parent": "b91c8a79-0359-45e9-9996-2c75fb6e39db", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

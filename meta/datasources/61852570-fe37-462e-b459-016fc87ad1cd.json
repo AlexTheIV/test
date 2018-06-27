@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum scale hybrid ssc cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "61852570-fe37-462e-b459-016fc87ad1cd", 
+    "name": "nightlight-microsoft-azure", 
+    "parent": "665c75bd-fec0-43a8-9598-d4bf3b99c538", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

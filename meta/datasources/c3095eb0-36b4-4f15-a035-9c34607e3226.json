@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud big-data big-data sunny best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c3095eb0-36b4-4f15-a035-9c34607e3226", 
+    "name": "orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "cc6d009c-4ca9-4c69-9ec1-cd447a03e4df", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data cloud runinng \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f034386d-f044-439e-a6b9-d7f72d802423", 
+    "name": "minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk", 
+    "parent": "ae2a8562-9db1-4c5e-8ebf-881cdd5098c1", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny resistors sunny 42 real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e156c39f-3b81-4030-8bf1-0fd577e9efcc", 
+    "name": "minty-splunk-facebook", 
+    "parent": "0d2676c9-6379-49a5-88de-66e46396925a", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

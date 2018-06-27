@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 time quantum best 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f6037fa9-c572-4080-921c-f2137ad529ef", 
+    "name": "cicso-aws-nightlight", 
+    "parent": "5b509ad5-0933-4bf2-815a-003d8a1a45ff", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

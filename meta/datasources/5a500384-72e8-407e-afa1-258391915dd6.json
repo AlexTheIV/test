@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 42 scale 4.2 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5a500384-72e8-407e-afa1-258391915dd6", 
+    "name": "aws-azure-microsoft", 
+    "parent": "a264658b-370b-42a2-a5fe-b0b2e0874396", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

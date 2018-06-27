@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny hybrid great 42 best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8637fde0-6498-4c37-8fb7-afc7ffc2edcb", 
+    "name": "azure-orangeswirl-cicso", 
+    "parent": "c576a4b9-0d5c-4782-b825-e4e433877dc9", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

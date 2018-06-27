@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great runinng ssc resistors hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fa17ab10-0c94-44cb-9bad-3cce2b3dc948", 
+    "name": "azure-aws-nightlight", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

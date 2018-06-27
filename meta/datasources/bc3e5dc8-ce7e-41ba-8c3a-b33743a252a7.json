@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice resistors big-data 3.4 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bc3e5dc8-ce7e-41ba-8c3a-b33743a252a7", 
+    "name": "microsoft-nightlight-nightlight", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

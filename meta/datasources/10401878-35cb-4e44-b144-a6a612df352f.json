@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time real real ssc crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "10401878-35cb-4e44-b144-a6a612df352f", 
+    "name": "minty-azure-orangeswirl", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

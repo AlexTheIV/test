@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 big-data runinng resistors real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "154e6a7f-3e5b-4562-b77d-ad8810e1c33f", 
+    "name": "splunk-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc real-time resistors great best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e19c0888-536c-433e-8608-6de558a27645", 
+    "name": "minty-nightlight-splunk", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

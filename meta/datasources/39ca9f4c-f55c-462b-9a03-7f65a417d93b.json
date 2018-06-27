@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 great 42 quantum hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "39ca9f4c-f55c-462b-9a03-7f65a417d93b", 
+    "name": "minty-azure-nightlight", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

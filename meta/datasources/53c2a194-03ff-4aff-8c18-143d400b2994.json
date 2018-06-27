@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time ssc real cloud scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "53c2a194-03ff-4aff-8c18-143d400b2994", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty-nightlight", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc real-time ssc \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f1c94fa0-66e4-4add-8d9f-fb6abf88893c", 
+    "name": "minty-aws-orangeswirl", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

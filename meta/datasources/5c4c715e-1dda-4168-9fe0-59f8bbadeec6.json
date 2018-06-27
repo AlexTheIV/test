@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 42 resistors \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5c4c715e-1dda-4168-9fe0-59f8bbadeec6", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws-cicso", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

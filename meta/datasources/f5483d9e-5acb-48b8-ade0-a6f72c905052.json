@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 sunny sunny sunny resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f5483d9e-5acb-48b8-ade0-a6f72c905052", 
+    "name": "microsoft-minty-nightlight", 
+    "parent": "20c62f32-8f8c-4c2d-b379-ab0a5906fafc", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

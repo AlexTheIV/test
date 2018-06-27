@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 1.8 big-data 1.8 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "610f7d64-d64c-4e92-9e14-5035a4830e9b", 
+    "name": "microsoft-minty-cicso", 
+    "parent": "d33b7dfc-c00e-4785-a6f0-e3a7681056ce", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

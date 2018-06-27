@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc microservice \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 cloud runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d54ff7ce-402e-41d8-97be-0bd0b6576da2", 
+    "name": "minty-azure-splunk", 
+    "parent": "e494c67b-d98a-433c-8f38-91320c9b9e8b", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

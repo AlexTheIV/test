@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng cloud 4.2 1.8 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c3b5de8e-027c-4835-be23-a22a45b7936b", 
+    "name": "microsoft-aws-minty", 
+    "parent": "af14c8e2-5518-4edb-85dc-5b085f092427", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

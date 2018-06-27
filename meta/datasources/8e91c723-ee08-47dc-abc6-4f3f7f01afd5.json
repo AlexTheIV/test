@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time runinng runinng crypto hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8e91c723-ee08-47dc-abc6-4f3f7f01afd5", 
+    "name": "minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk", 
+    "parent": "56c44f4f-8a16-4af3-89cf-57fc79df818c", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

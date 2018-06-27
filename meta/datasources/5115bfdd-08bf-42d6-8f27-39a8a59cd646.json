@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 3.4 cloud big-data ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5115bfdd-08bf-42d6-8f27-39a8a59cd646", 
+    "name": "azure-facebook-aws", 
+    "parent": "91ae0bac-a7f2-4f9a-b4a2-451945c82778", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 big-data scale real real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4faa7cc8-5ff6-4a64-9d8d-85dc7ef77ac2", 
+    "name": "aws-aws-facebook", 
+    "parent": "3cb74028-f425-47d6-97e2-afec4aa27b57", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

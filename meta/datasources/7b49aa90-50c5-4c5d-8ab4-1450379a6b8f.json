@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great quantum 4.2 1.8 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7b49aa90-50c5-4c5d-8ab4-1450379a6b8f", 
+    "name": "orangeswirl-aws-nightlight", 
+    "parent": "ad755c57-464b-45b4-888e-73c102ff0e27", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

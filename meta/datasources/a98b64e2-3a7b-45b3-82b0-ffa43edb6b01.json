@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid big-data great hybrid runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a98b64e2-3a7b-45b3-82b0-ffa43edb6b01", 
+    "name": "azure-aws-nightlight", 
+    "parent": "4b3a223c-5184-4c65-ae9f-66ce469b704a", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

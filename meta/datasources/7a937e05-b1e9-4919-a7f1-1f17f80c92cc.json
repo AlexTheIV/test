@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real best best 3.4 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7a937e05-b1e9-4919-a7f1-1f17f80c92cc", 
+    "name": "azure-minty-minty", 
+    "parent": "4c0e43d4-7214-4074-97de-36223383442c", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

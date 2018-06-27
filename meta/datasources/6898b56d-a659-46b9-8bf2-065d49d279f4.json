@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 big-data quantum runinng \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6898b56d-a659-46b9-8bf2-065d49d279f4", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk-azure", 
+    "parent": "efef6a87-2fdf-477f-ad27-821b71a303d7", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

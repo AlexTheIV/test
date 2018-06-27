@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 quantum real cloud 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4b110ea0-6754-44a8-b8c9-23089c55797b", 
+    "name": "google-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "939c344d-ae01-431b-a1e8-2642a4840145", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

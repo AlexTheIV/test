@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 real real great ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8cd3b4a7-74ef-49ff-a86a-e1b885d716e3", 
+    "name": "cicso-minty-nightlight", 
+    "parent": "5ee0d663-c6a7-4e80-88e4-abbfa4050884", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

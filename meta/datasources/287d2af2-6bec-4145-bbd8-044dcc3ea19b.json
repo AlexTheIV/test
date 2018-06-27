@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 big-data time crypto 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "287d2af2-6bec-4145-bbd8-044dcc3ea19b", 
+    "name": "cicso-facebook-minty", 
+    "parent": "9ccaf9a5-e486-4ec2-8f0e-20956732714a", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

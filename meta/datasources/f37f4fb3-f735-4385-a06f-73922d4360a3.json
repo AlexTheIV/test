@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale crypto 42 cloud runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f37f4fb3-f735-4385-a06f-73922d4360a3", 
+    "name": "aws-aws-splunk", 
+    "parent": "d0dcb320-1f79-4849-a1f9-b20da26552df", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

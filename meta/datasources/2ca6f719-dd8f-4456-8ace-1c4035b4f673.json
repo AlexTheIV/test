@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data microservice 1.8 sunny \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2ca6f719-dd8f-4456-8ace-1c4035b4f673", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty-azure", 
+    "parent": "aaaa4af3-7a53-4c6b-b8e1-380c370044b5", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

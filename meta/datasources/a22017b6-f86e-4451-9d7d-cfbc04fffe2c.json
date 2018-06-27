@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng microservice 4.2 runinng quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a22017b6-f86e-4451-9d7d-cfbc04fffe2c", 
+    "name": "splunk-minty-orangeswirl", 
+    "parent": "0b7f8439-c1d6-402f-81ab-93848b44a52b", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

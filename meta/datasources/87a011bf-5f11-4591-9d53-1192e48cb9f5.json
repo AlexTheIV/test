@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid runinng hybrid 1.8 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "87a011bf-5f11-4591-9d53-1192e48cb9f5", 
+    "name": "facebook-minty-splunk", 
+    "parent": "9939f8dd-f7d3-4b87-9627-7b0f1f7e0c94", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

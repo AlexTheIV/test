@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng crypto time great 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "65a00d02-0a2c-49db-9d96-875bd950565d", 
+    "name": "microsoft-facebook-nightlight", 
+    "parent": "1ad0d028-4528-4392-bfde-1ce112b5dbd0", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

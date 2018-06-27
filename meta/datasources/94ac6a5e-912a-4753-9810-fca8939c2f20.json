@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 hybrid scale 4.2 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "94ac6a5e-912a-4753-9810-fca8939c2f20", 
+    "name": "orangeswirl-orangeswirl-google", 
+    "parent": "37e0f738-a8af-4f44-b522-36c8f56fa119", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 cloud hybrid runinng time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0627ae26-08a9-45d7-ad02-54316310384b", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk-google", 
+    "parent": "6dc9e593-c645-4556-8df6-2b8a0f7bed1f", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

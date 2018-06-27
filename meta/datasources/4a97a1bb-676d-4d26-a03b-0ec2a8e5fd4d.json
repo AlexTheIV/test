@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 4.2 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 real microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4a97a1bb-676d-4d26-a03b-0ec2a8e5fd4d", 
+    "name": "microsoft-google-cicso", 
+    "parent": "200edf97-7225-4827-a8c9-5190c8f5a42e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

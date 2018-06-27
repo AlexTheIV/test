@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real-time 4.2 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "30d2721b-cc68-40c5-ba30-98e5fbcbb912", 
+    "name": "cicso-minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "b1f0fd60-14e5-49bb-af1d-8b31134522ef", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

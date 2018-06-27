@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors hybrid 4.2 real-time quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3863810a-175f-4a3a-b8da-a44297dda4d3", 
+    "name": "nightlight-aws-minty", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

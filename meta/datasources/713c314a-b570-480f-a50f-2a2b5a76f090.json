@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time big-data \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 4.2 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "713c314a-b570-480f-a50f-2a2b5a76f090", 
+    "name": "nightlight-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

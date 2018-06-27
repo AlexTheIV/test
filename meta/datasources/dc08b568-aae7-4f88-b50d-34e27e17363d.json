@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data ssc real-time real resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dc08b568-aae7-4f88-b50d-34e27e17363d", 
+    "name": "minty-azure-cicso", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

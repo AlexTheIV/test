@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 great big-data quantum real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fad9f538-e8be-4580-bcf5-8463199c7285", 
+    "name": "cicso-nightlight-cicso", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

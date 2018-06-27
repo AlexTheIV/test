@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 3.4 sunny 1.8 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "73f80da8-04db-4669-85fa-8019362a3984", 
+    "name": "splunk-nightlight-azure", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud quantum 42 microservice sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "098b76fd-843e-479b-a372-7fadf7ef8544", 
+    "name": "cicso-microsoft-facebook", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

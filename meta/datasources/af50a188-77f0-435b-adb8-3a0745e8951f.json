@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 4.2 runinng great runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "af50a188-77f0-435b-adb8-3a0745e8951f", 
+    "name": "orangeswirl-aws-google", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

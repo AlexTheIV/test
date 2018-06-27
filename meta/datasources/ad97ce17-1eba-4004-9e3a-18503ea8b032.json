@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc quantum sunny big-data quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ad97ce17-1eba-4004-9e3a-18503ea8b032", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty-nightlight", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

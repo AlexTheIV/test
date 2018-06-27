@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum microservice quantum hybrid microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8347fe00-4db8-4758-a231-0e9c86d0b53a", 
+    "name": "azure-aws-aws", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

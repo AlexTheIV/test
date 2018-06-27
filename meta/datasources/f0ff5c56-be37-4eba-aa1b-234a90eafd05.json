@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best sunny real real-time great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f0ff5c56-be37-4eba-aa1b-234a90eafd05", 
+    "name": "minty-aws-aws", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

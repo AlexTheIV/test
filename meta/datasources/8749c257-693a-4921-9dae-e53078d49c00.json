@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 4.2 resistors real real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8749c257-693a-4921-9dae-e53078d49c00", 
+    "name": "nightlight-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

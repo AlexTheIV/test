@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best time cloud microservice real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "62f6bc24-cdec-4ff8-9c70-fcf0b37d3aea", 
+    "name": "aws-facebook-google", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

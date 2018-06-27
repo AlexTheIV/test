@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 great 3.4 crypto hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b92304c8-679b-454a-97a9-4162cfbc251c", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso-minty", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny hybrid sunny 42 real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "edf8a5b4-daf6-43d2-ac3f-12caf64df452", 
+    "name": "microsoft-minty-nightlight", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

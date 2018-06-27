@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data time 4.2 42 real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "62357a71-c64a-469b-af17-b2e18dbbff59", 
+    "name": "nightlight-nightlight-azure", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

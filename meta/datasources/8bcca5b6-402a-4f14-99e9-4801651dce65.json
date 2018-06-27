@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 great resistors scale resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8bcca5b6-402a-4f14-99e9-4801651dce65", 
+    "name": "cicso-cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "9fbf5b85-236d-4372-b019-d947442854a8", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

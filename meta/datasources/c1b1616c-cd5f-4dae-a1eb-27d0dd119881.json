@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 cloud time great quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c1b1616c-cd5f-4dae-a1eb-27d0dd119881", 
+    "name": "azure-azure-azure", 
+    "parent": "f12d950d-b57a-4f34-bd9d-d92886f3a524", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

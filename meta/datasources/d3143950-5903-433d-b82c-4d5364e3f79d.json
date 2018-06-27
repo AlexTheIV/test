@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 3.4 1.8 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d3143950-5903-433d-b82c-4d5364e3f79d", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-google-facebook", 
+    "parent": "a809f00f-e01d-4306-b3c3-2a73f1089f74", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

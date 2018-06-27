@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 scale crypto runinng 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d0b3d787-d861-4a64-8f7e-20d622e8a987", 
+    "name": "orangeswirl-minty-azure", 
+    "parent": "d7c563a2-aec1-4256-9fc6-2d6125acdccf", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

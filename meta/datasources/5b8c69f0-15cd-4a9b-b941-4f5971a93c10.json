@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 4.2 3.4 4.2 microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5b8c69f0-15cd-4a9b-b941-4f5971a93c10", 
+    "name": "azure-cicso-cicso", 
+    "parent": "9e1d6138-6c36-4f57-8ab3-278d676a093c", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

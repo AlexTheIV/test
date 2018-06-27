@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 hybrid 42 cloud quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9f9b38f9-fd78-4bea-86ca-92fd96b74d84", 
+    "name": "aws-facebook-splunk", 
+    "parent": "0ab118f0-2288-4053-a69d-5302156c3fa4", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

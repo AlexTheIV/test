@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42 cloud time sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9f42a6f3-e3d7-4569-a1c1-c227985346e7", 
+    "name": "splunk-facebook-google", 
+    "parent": "dc81f772-f566-41d5-b955-f711240e7efd", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

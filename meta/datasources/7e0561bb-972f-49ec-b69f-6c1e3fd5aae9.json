@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best quantum \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 real ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7e0561bb-972f-49ec-b69f-6c1e3fd5aae9", 
+    "name": "splunk-aws-orangeswirl", 
+    "parent": "eb075a61-53c4-4632-8fe4-eeb1fbeb1992", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

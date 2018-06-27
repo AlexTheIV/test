@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng sunny 1.8 1.8 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ab040a6b-8d03-4d01-af3a-25a9efb24d39", 
+    "name": "minty-azure-azure", 
+    "parent": "03a5478c-1b5f-44fb-bcc3-f67c33b65108", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

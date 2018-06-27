@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data cloud 3.4 big-data crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b3e2366f-4e75-48a2-80fc-61ce062abf7a", 
+    "name": "cicso-splunk-minty", 
+    "parent": "d9632d03-fc08-4258-872f-b5f3f5af695a", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 42 ssc hybrid 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "84d87c65-42cf-448f-9de3-0076f1e9fa92", 
+    "name": "cicso-facebook-google", 
+    "parent": "422f161b-e805-40e3-ba3f-b89339e6ed14", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

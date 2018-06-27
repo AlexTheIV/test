@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 42 3.4 real-time ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "65ffaec1-5296-4fdd-9c09-3e3a390b626a", 
+    "name": "orangeswirl-nightlight-facebook", 
+    "parent": "daa41c26-0a1a-4a10-a4d7-3b4ff67cbdde", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

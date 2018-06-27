@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 1.8 resistors 4.2 microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6d91608b-78c6-4137-95e1-d956039c6f3d", 
+    "name": "google-azure-minty", 
+    "parent": "bd9c4941-3618-494a-99b4-1d7b53ebddc4", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

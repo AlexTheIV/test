@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 4.2 real-time ssc 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "68690711-10c4-4ee1-978d-3936b990f3fa", 
+    "name": "cicso-orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "27aeb38d-0ebc-4a88-b3e9-6b843e76b451", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

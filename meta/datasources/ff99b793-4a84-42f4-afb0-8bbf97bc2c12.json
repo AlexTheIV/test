@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc crypto 4.2 ssc 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ff99b793-4a84-42f4-afb0-8bbf97bc2c12", 
+    "name": "azure-facebook-microsoft", 
+    "parent": "b1ee4bb1-f911-4f2f-8963-d85cb4d2f6ff", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

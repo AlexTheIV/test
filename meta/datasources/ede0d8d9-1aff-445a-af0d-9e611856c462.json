@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto hybrid microservice microservice runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ede0d8d9-1aff-445a-af0d-9e611856c462", 
+    "name": "minty-minty-aws", 
+    "parent": "de9b90fc-c205-49e0-b04f-22450ff532e3", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

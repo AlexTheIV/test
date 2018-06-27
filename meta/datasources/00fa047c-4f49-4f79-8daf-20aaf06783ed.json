@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud hybrid best real-time hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "00fa047c-4f49-4f79-8daf-20aaf06783ed", 
+    "name": "microsoft-aws-facebook", 
+    "parent": "80217ab0-70cd-4bc8-b09d-0536503a12e5", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

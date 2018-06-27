@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto crypto microservice time best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bdce5761-cbd6-4236-9b66-787ebe7a5598", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk-aws", 
+    "parent": "8b769798-d7a9-410a-9356-c7fe36e2f788", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

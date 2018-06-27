@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 1.8 3.4 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c3207378-20d0-4f4d-9270-d7ecb62c2eab", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-google-facebook", 
+    "parent": "1e7c77be-e4af-4631-a114-76f682ad0c1d", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

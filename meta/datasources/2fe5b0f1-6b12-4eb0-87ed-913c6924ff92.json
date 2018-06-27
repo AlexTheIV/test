@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best 42 quantum time scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2fe5b0f1-6b12-4eb0-87ed-913c6924ff92", 
+    "name": "minty-nightlight-azure", 
+    "parent": "5f0b4e42-9cca-4d9d-a855-59384d872f2a", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum scale quantum time real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "703ba3a9-4b41-410e-90b9-ca8777ac45a9", 
+    "name": "nightlight-splunk-orangeswirl", 
+    "parent": "2205fe0c-18db-4025-aed5-ffe8e3e28f4b", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

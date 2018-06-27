@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time best big-data hybrid 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ca8bad1b-4e1d-429a-840d-b372542b5986", 
+    "name": "facebook-orangeswirl-facebook", 
+    "parent": "39671fa5-8aed-4389-93c1-c27d439d7d80", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale microservice great \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6f5f51d3-10e0-40d9-86fa-1f1cd5357e56", 
+    "name": "orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "a7072d6f-5420-4a45-8cef-df001b9d0cf4", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

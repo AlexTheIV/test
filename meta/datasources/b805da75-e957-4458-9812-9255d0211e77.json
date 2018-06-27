@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors microservice runinng crypto sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b805da75-e957-4458-9812-9255d0211e77", 
+    "name": "minty-aws-splunk", 
+    "parent": "f54b81d1-fb1d-4ed6-93da-c987ce4384f6", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

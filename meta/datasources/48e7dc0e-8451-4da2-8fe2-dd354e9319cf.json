@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 crypto microservice best hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "48e7dc0e-8451-4da2-8fe2-dd354e9319cf", 
+    "name": "splunk-nightlight-google", 
+    "parent": "fa8d6978-b980-43fb-8f87-a28b206bdef8", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

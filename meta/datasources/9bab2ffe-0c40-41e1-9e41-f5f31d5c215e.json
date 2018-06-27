@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc big-data cloud \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9bab2ffe-0c40-41e1-9e41-f5f31d5c215e", 
+    "name": "nightlight-splunk-minty", 
+    "parent": "f317f4c3-891e-4022-806b-feefa840361d", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

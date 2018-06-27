@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 time 42 resistors great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d1e1babb-20a0-4bf6-b8b5-2afc8af82e77", 
+    "name": "aws-aws-azure", 
+    "parent": "ebb64a78-3322-496a-afb5-df182c36fc5a", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

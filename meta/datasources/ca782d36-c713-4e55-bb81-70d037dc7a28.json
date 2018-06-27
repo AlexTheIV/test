@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 4.2 hybrid big-data scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ca782d36-c713-4e55-bb81-70d037dc7a28", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-google-google", 
+    "parent": "27de11c2-244f-4269-ac19-6a3cbdddf1d9", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

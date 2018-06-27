@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto time 4.2 time real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7a52d395-dc05-442c-9c83-3c95a461d550", 
+    "name": "azure-microsoft-aws", 
+    "parent": "3bf3a57e-0245-42fb-b9f4-e968657cca7e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real cloud crypto quantum \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5c850046-e816-4f1b-af32-fc5aecc068e4", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-orangeswirl-microsoft", 
+    "parent": "1215c729-6694-41fc-a595-dd3972a8b600", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 scale 3.4 best microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "23e1aea8-e2cb-4d2f-a2d4-a1dae5d9145a", 
+    "name": "orangeswirl-cicso-orangeswirl", 
+    "parent": "91134b7f-7ea4-43e7-96cf-ccf8d0e99a66", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

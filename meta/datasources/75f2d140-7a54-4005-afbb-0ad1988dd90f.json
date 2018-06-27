@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors best ssc real-time runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "75f2d140-7a54-4005-afbb-0ad1988dd90f", 
+    "name": "splunk-microsoft-orangeswirl", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

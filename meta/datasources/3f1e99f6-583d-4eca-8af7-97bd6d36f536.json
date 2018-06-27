@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid hybrid 1.8 sunny 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3f1e99f6-583d-4eca-8af7-97bd6d36f536", 
+    "name": "azure-facebook-facebook", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

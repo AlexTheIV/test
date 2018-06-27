@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng time great quantum 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f8d0e6f2-37e8-4dd9-8d7a-c2b5d04a57a2", 
+    "name": "minty-microsoft-splunk", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

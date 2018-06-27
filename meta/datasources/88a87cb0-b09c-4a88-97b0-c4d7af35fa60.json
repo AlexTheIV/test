@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time real-time ssc hybrid crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "88a87cb0-b09c-4a88-97b0-c4d7af35fa60", 
+    "name": "microsoft-aws-minty", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

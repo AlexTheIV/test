@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 1.8 big-data 1.8 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "39c46ec1-8fc3-4bd1-83c3-1e17b303afd7", 
+    "name": "cicso-azure-orangeswirl", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

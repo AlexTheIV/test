@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum hybrid time 4.2 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6c2d8cef-7477-4443-9bf4-9ab6e12221f9", 
+    "name": "facebook-azure-facebook", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

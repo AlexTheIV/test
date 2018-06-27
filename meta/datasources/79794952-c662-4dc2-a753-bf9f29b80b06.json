@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc runinng microservice 3.4 runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "79794952-c662-4dc2-a753-bf9f29b80b06", 
+    "name": "facebook-azure-microsoft", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

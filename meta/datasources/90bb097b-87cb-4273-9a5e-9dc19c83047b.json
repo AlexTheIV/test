@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 cloud 42 real-time 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "90bb097b-87cb-4273-9a5e-9dc19c83047b", 
+    "name": "orangeswirl-facebook-aws", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

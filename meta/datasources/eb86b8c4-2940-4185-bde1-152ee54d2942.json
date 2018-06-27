@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 best microservice real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "eb86b8c4-2940-4185-bde1-152ee54d2942", 
+    "name": "splunk-cicso-cicso", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

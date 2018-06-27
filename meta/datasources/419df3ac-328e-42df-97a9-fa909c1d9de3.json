@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 1.8 real 1.8 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "419df3ac-328e-42df-97a9-fa909c1d9de3", 
+    "name": "cicso-minty-azure", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

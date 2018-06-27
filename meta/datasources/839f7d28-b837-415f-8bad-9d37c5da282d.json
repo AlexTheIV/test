@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 scale best runinng resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "839f7d28-b837-415f-8bad-9d37c5da282d", 
+    "name": "splunk-microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

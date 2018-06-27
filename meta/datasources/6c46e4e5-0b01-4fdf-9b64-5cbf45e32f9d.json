@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 1.8 42 big-data hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6c46e4e5-0b01-4fdf-9b64-5cbf45e32f9d", 
+    "name": "splunk-nightlight-splunk", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

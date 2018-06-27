@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum best microservice runinng hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4650d8e8-3bbb-4c84-9a09-a4999053f608", 
+    "name": "nightlight-minty-splunk", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 3.4 hybrid microservice quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "38086810-8abb-46ed-b4d3-8726f22119c9", 
+    "name": "nightlight-orangeswirl-microsoft", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

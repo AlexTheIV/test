@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors quantum real-time ssc 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cff7f817-7cc8-4946-b7a0-2c821debb1c2", 
+    "name": "splunk-minty-microsoft", 
+    "parent": "3bc2aba4-ea6f-4df2-afe2-1ef08c917ec2", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

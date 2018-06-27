@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny best 1.8 best runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e2a6dbf6-f647-46e0-88a4-85c5d77856aa", 
+    "name": "cicso-cicso-facebook", 
+    "parent": "5b52dc5e-5fa2-4159-9e75-ad9eb0592e37", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

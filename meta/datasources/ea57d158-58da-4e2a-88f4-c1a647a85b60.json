@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 cloud real sunny time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ea57d158-58da-4e2a-88f4-c1a647a85b60", 
+    "name": "minty-google-cicso", 
+    "parent": "47cf33c1-c097-4c04-8b95-3bbe190a113f", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

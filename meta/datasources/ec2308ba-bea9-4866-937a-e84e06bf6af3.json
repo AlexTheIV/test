@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 resistors great 42 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ec2308ba-bea9-4866-937a-e84e06bf6af3", 
+    "name": "minty-facebook-orangeswirl", 
+    "parent": "9a314632-863c-4fa8-9a31-14e9d5911c2e", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

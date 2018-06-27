@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time quantum 42 quantum microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ad775857-ed7c-40e7-834a-7b5f083d9f20", 
+    "name": "azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-microsoft", 
+    "parent": "d0fe6475-ec5a-4b21-91e0-3a6b0ba3fb4f", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

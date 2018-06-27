@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum hybrid crypto resistors quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fa007547-a753-4871-9699-4dafe31f87b0", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty-minty", 
+    "parent": "1ee4d82a-c45f-4c03-bc02-df58bb709c15", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

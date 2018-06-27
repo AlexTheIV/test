@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto real-time 3.4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9056240b-656d-4923-84e3-10f53934e5f3", 
+    "name": "microsoft-azure-orangeswirl", 
+    "parent": "c8f25279-8fe9-4889-9f3d-8339ae7f961d", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

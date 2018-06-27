@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 crypto 4.2 scale real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "082f7e53-ef83-4410-83ed-dbd3ebbb5e18", 
+    "name": "azure-azure-nightlight", 
+    "parent": "095a3ed8-01cb-4a29-b147-f16f2368b0c4", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

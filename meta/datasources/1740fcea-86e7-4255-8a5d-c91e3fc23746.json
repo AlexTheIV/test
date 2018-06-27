@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 quantum 42 1.8 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1740fcea-86e7-4255-8a5d-c91e3fc23746", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty-splunk", 
+    "parent": "185d751d-5a2b-43b3-9780-7eab1c33399b", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 microservice cloud resistors sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a5694cc0-9ddd-47f1-8acf-22df7b7abd0f", 
+    "name": "google-azure-orangeswirl", 
+    "parent": "3b3e5938-7193-40fb-9828-2534276a0247", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 real 4.2 great cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "104264d8-fee3-458d-9df2-f1f23010661a", 
+    "name": "azure-minty-azure", 
+    "parent": "68c05462-7467-4028-a8dd-42d4fa0cbd8c", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

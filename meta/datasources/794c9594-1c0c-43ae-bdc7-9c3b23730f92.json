@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 quantum time quantum crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "794c9594-1c0c-43ae-bdc7-9c3b23730f92", 
+    "name": "facebook-azure-cicso", 
+    "parent": "2b6e065e-9e68-4132-b352-fb02a285b50c", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

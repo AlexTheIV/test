@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time scale quantum runinng real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d17cb99a-84e6-4e12-9766-537ae9beb5dc", 
+    "name": "facebook-cicso-orangeswirl", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

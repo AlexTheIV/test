@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 3.4 real-time sunny time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4496a841-2863-4f45-8820-4618701fda3e", 
+    "name": "orangeswirl-aws-aws", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

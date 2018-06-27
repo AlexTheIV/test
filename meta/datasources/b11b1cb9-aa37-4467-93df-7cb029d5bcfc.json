@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 cloud 42 big-data ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b11b1cb9-aa37-4467-93df-7cb029d5bcfc", 
+    "name": "aws-cicso-nightlight", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

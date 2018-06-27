@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time microservice resistors best great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "45e6f2f1-2381-4d9d-b78d-1eb9d85e7642", 
+    "name": "azure-orangeswirl-azure", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

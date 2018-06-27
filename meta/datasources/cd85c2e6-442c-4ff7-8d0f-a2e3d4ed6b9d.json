@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 1.8 resistors scale cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cd85c2e6-442c-4ff7-8d0f-a2e3d4ed6b9d", 
+    "name": "microsoft-aws-aws", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

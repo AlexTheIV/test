@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time scale sunny time resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6ab338d4-f39d-462d-8980-c72a1edc0b82", 
+    "name": "aws-splunk-microsoft", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 4.2 hybrid resistors great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dcd84f81-d7e6-4e75-8377-37173933893e", 
+    "name": "splunk-cicso-nightlight", 
+    "parent": "c43b4aa9-77e4-455a-bb9c-1824f618d709", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

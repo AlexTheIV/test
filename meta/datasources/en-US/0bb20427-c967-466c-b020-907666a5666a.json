@@ -1,0 +1,8 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid ssc hybrid big-data 3.4", 
+    "icon": "images/icon_datasource.png", 
+    "id": "0bb20427-c967-466c-b020-907666a5666a", 
+    "name": "microsoft-cicso-nightlight", 
+    "parent": "5e2bf4b3-a0bb-4f8c-9382-5af4e7eb1bd2", 
+    "sourcetype": "linux_messages_syslog"
+}

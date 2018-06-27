@@ -1,0 +1,14 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "0bb20427-c967-466c-b020-907666a5666a"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice sunny 42 quantum hybrid", 
+    "id": "b64e2d2a-3007-4204-a1d9-c70ffd9677b3", 
+    "instruction": {
+        "steps": [], 
+        "url": "cloudtrail-sqs-based-s3.html"
+    }, 
+    "name": "orangeswirl-cicso-azure", 
+    "parent": "198760ec-c697-45c2-8c37-199a2805ca0b"
+}

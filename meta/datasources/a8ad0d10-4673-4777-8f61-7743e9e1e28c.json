@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time real sunny runinng best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a8ad0d10-4673-4777-8f61-7743e9e1e28c", 
+    "name": "facebook-orangeswirl-aws", 
+    "parent": "d7774d86-4863-445b-9360-726a0da2b48b", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

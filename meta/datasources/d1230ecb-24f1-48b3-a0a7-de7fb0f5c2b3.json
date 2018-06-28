@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale scale scale ssc time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d1230ecb-24f1-48b3-a0a7-de7fb0f5c2b3", 
+    "name": "minty-microsoft-azure", 
+    "parent": "c2f9218f-93b6-4fa5-a344-28031f45c916", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

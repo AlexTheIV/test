@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud real resistors 3.4 hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ed653462-53f1-4f88-a0dc-53982e86f51f", 
+    "name": "azure-cicso-microsoft", 
+    "parent": "bdd30d67-cf47-4944-9ab9-5c250b323791", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

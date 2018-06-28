@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 42 42 big-data hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d2e7081d-fb1a-46df-af4a-647f2362978b", 
+    "name": "cicso-azure-orangeswirl", 
+    "parent": "873b5c65-9f19-48a0-a2a3-9bcbb1019bbd", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

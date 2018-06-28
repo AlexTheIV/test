@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice real-time ssc runinng ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e9a4f29b-6369-4238-84f0-dfb90c947163", 
+    "name": "splunk-facebook-google", 
+    "parent": "3073f06b-0183-4a4d-82c8-922c72ed5750", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

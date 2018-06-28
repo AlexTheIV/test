@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors quantum resistors 3.4 great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f9f79b22-5c5f-44b3-b68a-6dc3b247bdfd", 
+    "name": "nightlight-splunk-google", 
+    "parent": "2ba82269-d755-44ee-9da2-81ae2fb28004", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

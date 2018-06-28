@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice 3.4 resistors hybrid 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2e406ee7-5261-4dea-809f-35151cd4805d", 
+    "name": "orangeswirl-aws-facebook", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

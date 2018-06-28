@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice big-data runinng hybrid ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4736873d-2cf8-4fc5-8217-7b5e6ad89472", 
+    "name": "microsoft-orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

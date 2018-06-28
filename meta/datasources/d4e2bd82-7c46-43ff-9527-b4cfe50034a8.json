@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto real-time ssc scale hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d4e2bd82-7c46-43ff-9527-b4cfe50034a8", 
+    "name": "orangeswirl-aws-aws", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

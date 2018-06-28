@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice big-data cloud microservice sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4f306668-8851-4bba-bb3a-1fd45dc8f465", 
+    "name": "google-azure-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc great time microservice best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8765f5b6-44c9-41b9-9698-93e142300fa6", 
+    "name": "nightlight-aws-google", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

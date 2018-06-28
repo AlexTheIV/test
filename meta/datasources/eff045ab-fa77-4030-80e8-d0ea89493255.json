@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 42 time 42 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "eff045ab-fa77-4030-80e8-d0ea89493255", 
+    "name": "azure-minty-microsoft", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

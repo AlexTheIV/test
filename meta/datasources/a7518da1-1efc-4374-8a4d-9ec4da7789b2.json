@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 great great cloud ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a7518da1-1efc-4374-8a4d-9ec4da7789b2", 
+    "name": "splunk-microsoft-azure", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

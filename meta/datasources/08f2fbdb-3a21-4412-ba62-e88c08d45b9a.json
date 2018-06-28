@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data time 4.2 1.8 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "08f2fbdb-3a21-4412-ba62-e88c08d45b9a", 
+    "name": "nightlight-nightlight-aws", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

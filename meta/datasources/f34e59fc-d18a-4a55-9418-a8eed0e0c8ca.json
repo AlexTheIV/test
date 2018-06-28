@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 4.2 cloud ssc big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f34e59fc-d18a-4a55-9418-a8eed0e0c8ca", 
+    "name": "facebook-microsoft-microsoft", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

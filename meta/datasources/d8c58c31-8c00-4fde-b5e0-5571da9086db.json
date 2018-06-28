@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best best time resistors big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d8c58c31-8c00-4fde-b5e0-5571da9086db", 
+    "name": "cicso-microsoft-facebook", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

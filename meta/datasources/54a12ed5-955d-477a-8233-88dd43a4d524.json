@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real runinng microservice 3.4 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "54a12ed5-955d-477a-8233-88dd43a4d524", 
+    "name": "orangeswirl-splunk-facebook", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

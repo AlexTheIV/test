@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng resistors \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 real-time scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f4a36fc3-0af4-4e1f-9f96-30c7ba76e596", 
+    "name": "facebook-azure-splunk", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

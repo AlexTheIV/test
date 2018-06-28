@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid sunny 3.4 cloud time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8abdf10a-c699-4d72-8e59-be90576ec57c", 
+    "name": "microsoft-microsoft-facebook", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

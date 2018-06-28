@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great quantum real-time quantum great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1a6c1fe7-59dc-45d5-b6be-132850bc2b55", 
+    "name": "cicso-cicso-facebook", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

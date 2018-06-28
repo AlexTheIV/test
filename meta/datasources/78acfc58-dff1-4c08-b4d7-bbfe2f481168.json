@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 4.2 scale hybrid time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "78acfc58-dff1-4c08-b4d7-bbfe2f481168", 
+    "name": "google-orangeswirl-microsoft", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

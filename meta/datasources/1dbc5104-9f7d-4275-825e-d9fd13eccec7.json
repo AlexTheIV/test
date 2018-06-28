@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time big-data great 4.2 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1dbc5104-9f7d-4275-825e-d9fd13eccec7", 
+    "name": "azure-microsoft-splunk", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

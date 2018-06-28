@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 microservice resistors cloud 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ba0a3dee-998a-45b7-9702-b9fbed078987", 
+    "name": "microsoft-minty-facebook", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

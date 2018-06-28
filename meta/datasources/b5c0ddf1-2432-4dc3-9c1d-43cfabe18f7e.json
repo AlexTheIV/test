@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny quantum quantum hybrid real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b5c0ddf1-2432-4dc3-9c1d-43cfabe18f7e", 
+    "name": "azure-azure-orangeswirl", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 3.4 real quantum 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4151499a-9aaf-4b5b-9c21-e3415f680cb5", 
+    "name": "nightlight-minty-orangeswirl", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice great microservice sunny 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "342f117a-1956-475b-b5b9-f1bbe51e24b6", 
+    "name": "splunk-minty-minty", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

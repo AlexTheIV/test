@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 42 microservice cloud big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7ee21606-99c0-4b34-afed-ab74a1a517a6", 
+    "name": "nightlight-splunk-facebook", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

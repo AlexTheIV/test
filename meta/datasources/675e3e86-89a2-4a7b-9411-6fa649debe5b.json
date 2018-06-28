@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc real-time runinng resistors real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "675e3e86-89a2-4a7b-9411-6fa649debe5b", 
+    "name": "aws-splunk-aws", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

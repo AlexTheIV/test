@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time microservice sunny great 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ed8873ef-990c-4677-90a7-1a8958a4ee13", 
+    "name": "azure-microsoft-nightlight", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

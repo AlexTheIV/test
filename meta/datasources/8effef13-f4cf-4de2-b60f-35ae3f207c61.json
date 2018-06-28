@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time great big-data microservice hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8effef13-f4cf-4de2-b60f-35ae3f207c61", 
+    "name": "microsoft-minty-azure", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

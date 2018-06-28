@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto cloud sunny scale cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "64422f74-bffc-45c5-b419-9a2996552198", 
+    "name": "azure-cicso-nightlight", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny great hybrid sunny 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "db4581a6-1d33-4844-8a98-4060d23b7cfc", 
+    "name": "microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud crypto time real best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "18b66a09-6dfa-4bc9-9862-7605c228980a", 
+    "name": "aws-splunk-nightlight", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

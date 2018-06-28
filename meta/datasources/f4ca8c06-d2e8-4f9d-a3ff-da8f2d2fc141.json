@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time microservice best 42 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f4ca8c06-d2e8-4f9d-a3ff-da8f2d2fc141", 
+    "name": "microsoft-google-splunk", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

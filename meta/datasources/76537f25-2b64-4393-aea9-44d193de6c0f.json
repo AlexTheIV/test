@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great real-time time 1.8 great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "76537f25-2b64-4393-aea9-44d193de6c0f", 
+    "name": "google-facebook-facebook", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

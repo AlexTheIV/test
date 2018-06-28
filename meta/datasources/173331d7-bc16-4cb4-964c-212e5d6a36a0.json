@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 quantum best crypto runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "173331d7-bc16-4cb4-964c-212e5d6a36a0", 
+    "name": "minty-minty-microsoft", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

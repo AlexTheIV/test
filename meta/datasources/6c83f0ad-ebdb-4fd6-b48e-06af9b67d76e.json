@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid quantum quantum great scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6c83f0ad-ebdb-4fd6-b48e-06af9b67d76e", 
+    "name": "azure-cicso-facebook", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 4.2 great microservice 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2fe49144-6320-4ae7-aab1-061aacc79818", 
+    "name": "orangeswirl-nightlight-azure", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

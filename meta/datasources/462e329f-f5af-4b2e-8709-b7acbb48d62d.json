@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 crypto real great resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "462e329f-f5af-4b2e-8709-b7acbb48d62d", 
+    "name": "splunk-microsoft-facebook", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

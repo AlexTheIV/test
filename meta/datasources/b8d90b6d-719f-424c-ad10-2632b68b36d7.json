@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud runinng scale hybrid great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b8d90b6d-719f-424c-ad10-2632b68b36d7", 
+    "name": "facebook-azure-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

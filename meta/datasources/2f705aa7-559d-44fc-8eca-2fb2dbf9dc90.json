@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data 3.4 quantum best microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2f705aa7-559d-44fc-8eca-2fb2dbf9dc90", 
+    "name": "orangeswirl-orangeswirl-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

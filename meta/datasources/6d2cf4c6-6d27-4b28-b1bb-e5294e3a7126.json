@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale cloud great crypto time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6d2cf4c6-6d27-4b28-b1bb-e5294e3a7126", 
+    "name": "minty-nightlight-microsoft", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

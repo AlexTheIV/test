@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 crypto real 1.8 great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "07b58a55-c88d-4fa5-813e-1786fb978521", 
+    "name": "minty-cicso-cicso", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

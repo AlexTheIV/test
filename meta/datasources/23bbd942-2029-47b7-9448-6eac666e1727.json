@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 big-data best best great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "23bbd942-2029-47b7-9448-6eac666e1727", 
+    "name": "azure-google-splunk", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real 42 resistors 1.8 best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c2e3dd91-5ac1-4e4a-a40c-09f6143a333e", 
+    "name": "microsoft-orangeswirl-facebook", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

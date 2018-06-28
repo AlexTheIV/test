@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto best crypto hybrid 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0faee282-0231-475f-97e9-1c264dd7f2b3", 
+    "name": "nightlight-minty-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

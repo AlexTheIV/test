@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 3.4 crypto runinng 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "15794b15-bd05-4414-b21e-16ba6a8ee61b", 
+    "name": "cicso-splunk-facebook", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

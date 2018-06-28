@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time quantum 42 sunny real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "edc77eeb-ce92-4fc7-a381-d798b3bf0318", 
+    "name": "cicso-cicso-google", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

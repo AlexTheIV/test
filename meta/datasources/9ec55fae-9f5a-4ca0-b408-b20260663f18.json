@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time real-time real-time scale ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9ec55fae-9f5a-4ca0-b408-b20260663f18", 
+    "name": "azure-azure-azure", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

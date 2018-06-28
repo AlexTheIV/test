@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc hybrid ssc time crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fcb100a0-050d-450a-8002-75d5bc2f1d86", 
+    "name": "cicso-aws-azure", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

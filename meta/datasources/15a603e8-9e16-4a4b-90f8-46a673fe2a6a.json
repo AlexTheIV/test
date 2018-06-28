@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 ssc crypto 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "15a603e8-9e16-4a4b-90f8-46a673fe2a6a", 
+    "name": "azure-orangeswirl-azure", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

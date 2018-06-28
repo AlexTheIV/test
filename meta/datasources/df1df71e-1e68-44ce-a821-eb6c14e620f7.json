@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real resistors great microservice sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "df1df71e-1e68-44ce-a821-eb6c14e620f7", 
+    "name": "aws-azure-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

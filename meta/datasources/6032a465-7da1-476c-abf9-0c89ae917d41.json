@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real crypto microservice quantum sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6032a465-7da1-476c-abf9-0c89ae917d41", 
+    "name": "facebook-splunk-minty", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

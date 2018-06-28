@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 big-data scale 1.8 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bdd23e85-8c47-4883-a1f6-0bbb6b43c0c4", 
+    "name": "facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-facebook", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

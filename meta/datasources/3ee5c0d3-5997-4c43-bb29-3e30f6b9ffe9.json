@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud runinng crypto time best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3ee5c0d3-5997-4c43-bb29-3e30f6b9ffe9", 
+    "name": "orangeswirl-cicso-cicso", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

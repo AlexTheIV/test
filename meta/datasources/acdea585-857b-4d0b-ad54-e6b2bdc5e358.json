@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data sunny crypto best crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "acdea585-857b-4d0b-ad54-e6b2bdc5e358", 
+    "name": "orangeswirl-facebook-azure", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

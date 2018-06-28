@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum ssc 1.8 best microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7acd5add-f696-4771-a3fa-5ee53a2bcb46", 
+    "name": "minty-cicso-microsoft", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

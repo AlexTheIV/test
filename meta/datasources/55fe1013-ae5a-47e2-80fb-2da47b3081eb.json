@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto quantum time 4.2 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "55fe1013-ae5a-47e2-80fb-2da47b3081eb", 
+    "name": "orangeswirl-nightlight-orangeswirl", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

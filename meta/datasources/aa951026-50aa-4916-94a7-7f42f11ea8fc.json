@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 scale sunny cloud quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "aa951026-50aa-4916-94a7-7f42f11ea8fc", 
+    "name": "facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

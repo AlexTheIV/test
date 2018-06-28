@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum great time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "43511e02-9963-4f10-88a5-9db9d688bc8a", 
+    "name": "azure-azure-aws", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

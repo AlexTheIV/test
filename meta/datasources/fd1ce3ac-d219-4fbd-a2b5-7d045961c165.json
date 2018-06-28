@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best cloud best \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fd1ce3ac-d219-4fbd-a2b5-7d045961c165", 
+    "name": "aws-minty-facebook", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

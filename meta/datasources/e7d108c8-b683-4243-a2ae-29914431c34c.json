@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice time 4.2 resistors 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e7d108c8-b683-4243-a2ae-29914431c34c", 
+    "name": "nightlight-aws-microsoft", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

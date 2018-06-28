@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 42 runinng 1.8 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "45aedb17-4d2d-434a-8bbb-82e8dfc1b917", 
+    "name": "azure-orangeswirl-facebook", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

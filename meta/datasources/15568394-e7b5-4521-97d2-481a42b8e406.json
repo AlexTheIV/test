@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud quantum cloud resistors real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "15568394-e7b5-4521-97d2-481a42b8e406", 
+    "name": "minty-minty-splunk", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

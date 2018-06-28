@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors resistors resistors big-data real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7d620245-9883-4708-91a2-8baadf6fb77b", 
+    "name": "aws-aws-splunk", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data hybrid hybrid microservice sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2e7baea6-36d1-48f4-856a-41ed29b36db1", 
+    "name": "aws-minty-aws", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

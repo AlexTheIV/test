@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid ssc cloud best scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "71458913-8848-4458-8f81-792a9180f045", 
+    "name": "splunk-cicso-google", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

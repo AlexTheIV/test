@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 1.8 quantum sunny cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bfc327f9-f182-4f02-a31d-6e285a69f5f4", 
+    "name": "microsoft-splunk-azure", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

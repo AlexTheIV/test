@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 4.2 time big-data 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "130d55ad-ea0b-4216-83b3-92fafff6be68", 
+    "name": "cicso-minty-orangeswirl", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data big-data runinng best resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3aef4f04-cb73-4fe0-8068-cb932a10c049", 
+    "name": "minty-google-splunk", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

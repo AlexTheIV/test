@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 resistors time microservice 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "58f32356-8ef7-494c-a17f-67aa019539bc", 
+    "name": "orangeswirl-cicso-nightlight", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

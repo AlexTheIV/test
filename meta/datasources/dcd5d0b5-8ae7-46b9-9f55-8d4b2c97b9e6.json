@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 3.4 3.4 cloud scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dcd5d0b5-8ae7-46b9-9f55-8d4b2c97b9e6", 
+    "name": "facebook-microsoft-splunk", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

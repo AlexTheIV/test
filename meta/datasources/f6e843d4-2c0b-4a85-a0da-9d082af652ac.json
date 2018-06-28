@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng real-time hybrid big-data sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f6e843d4-2c0b-4a85-a0da-9d082af652ac", 
+    "name": "aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

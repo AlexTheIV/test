@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 microservice big-data great best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "78ed6fa3-ec70-4519-b4be-60f7c0f8e9f9", 
+    "name": "microsoft-google-google", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

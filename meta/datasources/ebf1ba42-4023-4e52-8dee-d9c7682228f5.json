@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc great best ssc great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ebf1ba42-4023-4e52-8dee-d9c7682228f5", 
+    "name": "facebook-azure-minty", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

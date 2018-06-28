@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great great great great time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4683790f-ee01-49f1-b607-82e309c71fc9", 
+    "name": "azure-microsoft-azure", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

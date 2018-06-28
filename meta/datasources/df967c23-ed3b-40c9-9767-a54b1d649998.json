@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid real resistors microservice ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "df967c23-ed3b-40c9-9767-a54b1d649998", 
+    "name": "orangeswirl-minty-minty", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great cloud quantum ssc resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "79360a6c-f3c1-4ccb-bd3d-56de00a88e50", 
+    "name": "microsoft-azure-nightlight", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

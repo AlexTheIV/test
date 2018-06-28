@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale runinng cloud best 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e7141672-32c1-42ec-a23c-bbd348b3e8da", 
+    "name": "orangeswirl-cicso-microsoft", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

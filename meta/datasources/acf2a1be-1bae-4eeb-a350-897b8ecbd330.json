@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid real-time quantum best real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "acf2a1be-1bae-4eeb-a350-897b8ecbd330", 
+    "name": "splunk-cicso-facebook", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

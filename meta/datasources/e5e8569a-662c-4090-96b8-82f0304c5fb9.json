@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best quantum 42 time ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e5e8569a-662c-4090-96b8-82f0304c5fb9", 
+    "name": "splunk-microsoft-orangeswirl", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

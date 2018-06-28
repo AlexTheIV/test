@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 great 1.8 great hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bed975d5-eb0f-443d-92c9-51d5be2e9b5b", 
+    "name": "microsoft-cicso-azure", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

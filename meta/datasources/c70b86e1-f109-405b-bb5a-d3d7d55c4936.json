@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great hybrid resistors runinng scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c70b86e1-f109-405b-bb5a-d3d7d55c4936", 
+    "name": "cicso-facebook-orangeswirl", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

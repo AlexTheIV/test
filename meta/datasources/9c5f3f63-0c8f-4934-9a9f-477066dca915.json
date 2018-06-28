@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real runinng real quantum crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9c5f3f63-0c8f-4934-9a9f-477066dca915", 
+    "name": "nightlight-azure-microsoft", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud time ssc hybrid best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4dcf48c8-265e-4ede-8937-5ec94bf84edb", 
+    "name": "azure-splunk-facebook", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

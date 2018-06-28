@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data 4.2 4.2 1.8 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2004eaa2-a9e1-4b72-b93d-22197c9c8b1a", 
+    "name": "google-minty-aws", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 4.2 real-time real-time resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d90c55df-cf3e-4990-acb9-5b05bfca847e", 
+    "name": "azure-cicso-cicso", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

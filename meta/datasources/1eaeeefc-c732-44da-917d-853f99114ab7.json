@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data microservice best cloud 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1eaeeefc-c732-44da-917d-853f99114ab7", 
+    "name": "nightlight-google-minty", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

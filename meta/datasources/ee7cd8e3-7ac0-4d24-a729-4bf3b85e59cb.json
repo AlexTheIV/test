@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 1.8 cloud best crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ee7cd8e3-7ac0-4d24-a729-4bf3b85e59cb", 
+    "name": "nightlight-orangeswirl-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

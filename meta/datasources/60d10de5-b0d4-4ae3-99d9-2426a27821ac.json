@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real real-time quantum real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "60d10de5-b0d4-4ae3-99d9-2426a27821ac", 
+    "name": "nightlight-nightlight-microsoft", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

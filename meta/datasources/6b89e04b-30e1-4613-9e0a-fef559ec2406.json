@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice real-time best runinng great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6b89e04b-30e1-4613-9e0a-fef559ec2406", 
+    "name": "cicso-splunk-microsoft", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

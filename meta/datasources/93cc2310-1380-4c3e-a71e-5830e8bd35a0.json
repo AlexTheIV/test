@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time resistors crypto resistors crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "93cc2310-1380-4c3e-a71e-5830e8bd35a0", 
+    "name": "orangeswirl-splunk-orangeswirl", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

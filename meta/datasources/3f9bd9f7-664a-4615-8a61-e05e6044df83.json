@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 time scale microservice 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3f9bd9f7-664a-4615-8a61-e05e6044df83", 
+    "name": "nightlight-facebook-azure", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

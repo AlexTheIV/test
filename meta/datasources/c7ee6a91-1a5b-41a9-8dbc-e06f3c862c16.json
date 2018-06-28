@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 1.8 crypto 3.4 best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c7ee6a91-1a5b-41a9-8dbc-e06f3c862c16", 
+    "name": "google-splunk-minty", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

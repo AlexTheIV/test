@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale scale resistors runinng 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "64d109b7-86ed-40e3-bb27-a01f59ffbf20", 
+    "name": "orangeswirl-minty-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

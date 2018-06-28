@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 1.8 quantum time runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4c8e3281-c318-4fd9-8740-ee946940db89", 
+    "name": "aws-aws-google", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

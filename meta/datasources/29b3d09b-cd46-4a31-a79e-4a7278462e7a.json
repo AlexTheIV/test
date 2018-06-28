@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 best great microservice scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "29b3d09b-cd46-4a31-a79e-4a7278462e7a", 
+    "name": "minty-google-minty", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud scale quantum resistors great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2ee910fb-6751-4727-8217-da0335e64f80", 
+    "name": "aws-microsoft-minty", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

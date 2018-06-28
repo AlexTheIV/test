@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny runinng 42 quantum runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fd219cf1-f936-4023-8379-5ee21fc75776", 
+    "name": "nightlight-microsoft-google", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

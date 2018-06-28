@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 hybrid ssc time time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6059c265-8286-45b7-a5a8-b6a812ff73a0", 
+    "name": "google-nightlight-splunk", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

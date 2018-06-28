@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real microservice crypto 4.2 microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bf5ee7ea-f0d2-43e9-9470-59281d4d39e9", 
+    "name": "microsoft-azure-splunk", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

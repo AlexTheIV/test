@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng time big-data hybrid quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2fb1cfea-a069-458c-b6d3-9003ecf6981d", 
+    "name": "aws-facebook-cicso", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud quantum real-time big-data crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3b05d658-5165-445f-8901-a9c21a69dfa5", 
+    "name": "cicso-aws-cicso", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

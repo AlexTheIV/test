@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 crypto ssc 42 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b25ab1c5-6c36-427a-aa6b-09025c77c383", 
+    "name": "microsoft-minty-microsoft", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

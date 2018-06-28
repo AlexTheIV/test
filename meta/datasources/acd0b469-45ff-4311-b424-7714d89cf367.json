@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time big-data real real-time 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "acd0b469-45ff-4311-b424-7714d89cf367", 
+    "name": "aws-azure-cicso", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

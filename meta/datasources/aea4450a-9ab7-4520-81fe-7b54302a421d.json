@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc cloud 3.4 best time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "aea4450a-9ab7-4520-81fe-7b54302a421d", 
+    "name": "minty-aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

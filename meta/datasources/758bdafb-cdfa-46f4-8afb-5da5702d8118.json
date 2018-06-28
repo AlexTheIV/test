@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real great sunny scale resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "758bdafb-cdfa-46f4-8afb-5da5702d8118", 
+    "name": "orangeswirl-splunk-azure", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

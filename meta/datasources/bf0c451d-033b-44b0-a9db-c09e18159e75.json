@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 4.2 real-time 1.8 time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bf0c451d-033b-44b0-a9db-c09e18159e75", 
+    "name": "facebook-azure-splunk", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

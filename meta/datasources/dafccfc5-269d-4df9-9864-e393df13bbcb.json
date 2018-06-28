@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc resistors scale time 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dafccfc5-269d-4df9-9864-e393df13bbcb", 
+    "name": "aws-cicso-azure", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

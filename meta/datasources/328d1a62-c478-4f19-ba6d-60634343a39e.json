@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum cloud runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "328d1a62-c478-4f19-ba6d-60634343a39e", 
+    "name": "orangeswirl-facebook-facebook", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

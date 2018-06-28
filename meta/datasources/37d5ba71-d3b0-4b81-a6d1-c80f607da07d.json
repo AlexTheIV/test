@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum scale ssc 1.8 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "37d5ba71-d3b0-4b81-a6d1-c80f607da07d", 
+    "name": "nightlight-orangeswirl-nightlight", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

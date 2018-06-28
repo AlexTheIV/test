@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 crypto microservice cloud resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "31b6d92e-dd80-41b6-b950-adbca3de5aea", 
+    "name": "minty-aws-nightlight", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

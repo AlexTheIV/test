@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale best runinng cloud great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1e40a3d9-db50-4e19-851b-47d7cccc235e", 
+    "name": "splunk-google-cicso", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

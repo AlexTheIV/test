@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud real-time best 1.8 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7844d842-dfff-4924-9621-6dc68e68be37", 
+    "name": "microsoft-splunk-orangeswirl", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real best sunny microservice 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e2bd0f50-2b4b-430f-9fde-40a8985468bf", 
+    "name": "azure-microsoft-microsoft", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

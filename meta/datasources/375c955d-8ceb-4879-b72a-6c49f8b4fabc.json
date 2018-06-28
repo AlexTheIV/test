@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale hybrid 4.2 sunny sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "375c955d-8ceb-4879-b72a-6c49f8b4fabc", 
+    "name": "nightlight-orangeswirl-orangeswirl", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale runinng 3.4 best resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "378df2bc-19c6-41c9-8060-239b92aa9bd0", 
+    "name": "facebook-azure-aws", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

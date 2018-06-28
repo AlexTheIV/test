@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best scale real-time big-data microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a9ee692b-42ad-44b9-b4bd-3bb48cde8e6e", 
+    "name": "orangeswirl-cicso-nightlight", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

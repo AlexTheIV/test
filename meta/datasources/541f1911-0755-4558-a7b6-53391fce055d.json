@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 4.2 time 4.2 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "541f1911-0755-4558-a7b6-53391fce055d", 
+    "name": "azure-google-splunk", 
+    "parent": "36291a94-3379-46e6-a047-610bc2450710", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 3.4 real resistors 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f6bc7728-43f3-45ae-bf43-93e386a212ac", 
+    "name": "splunk-microsoft-splunk", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

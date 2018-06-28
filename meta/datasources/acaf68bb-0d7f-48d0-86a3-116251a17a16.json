@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid scale time great crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "acaf68bb-0d7f-48d0-86a3-116251a17a16", 
+    "name": "azure-aws-orangeswirl", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

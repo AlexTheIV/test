@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto cloud great 42 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c35357c1-0005-4298-a7dc-11748b7f33c1", 
+    "name": "splunk-splunk-microsoft", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud microservice hybrid sunny 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f1386518-569f-43ad-be9c-248eed80cab4", 
+    "name": "splunk-azure-azure", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

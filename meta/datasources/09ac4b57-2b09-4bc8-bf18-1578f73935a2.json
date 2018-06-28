@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum great hybrid 4.2 time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "09ac4b57-2b09-4bc8-bf18-1578f73935a2", 
+    "name": "azure-microsoft-cicso", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

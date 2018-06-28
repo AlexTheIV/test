@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 real time quantum microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d222e3aa-5f93-471a-90fd-3714e2fad773", 
+    "name": "orangeswirl-microsoft-splunk", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

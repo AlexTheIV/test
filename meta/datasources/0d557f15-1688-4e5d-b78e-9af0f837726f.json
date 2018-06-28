@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid crypto runinng hybrid quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0d557f15-1688-4e5d-b78e-9af0f837726f", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws-nightlight", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

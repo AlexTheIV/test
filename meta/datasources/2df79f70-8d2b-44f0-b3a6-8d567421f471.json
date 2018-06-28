@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 4.2 resistors 4.2 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2df79f70-8d2b-44f0-b3a6-8d567421f471", 
+    "name": "aws-aws-facebook", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

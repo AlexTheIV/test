@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time big-data runinng best runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "01accf7c-b84b-4360-b07d-1a3e32609dd6", 
+    "name": "cicso-azure-minty", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

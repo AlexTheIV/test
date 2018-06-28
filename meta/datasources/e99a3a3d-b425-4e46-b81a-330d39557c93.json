@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid hybrid 42 ssc cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e99a3a3d-b425-4e46-b81a-330d39557c93", 
+    "name": "aws-nightlight-orangeswirl", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

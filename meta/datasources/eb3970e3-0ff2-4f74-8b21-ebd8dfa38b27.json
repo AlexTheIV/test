@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 time big-data quantum best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "eb3970e3-0ff2-4f74-8b21-ebd8dfa38b27", 
+    "name": "nightlight-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

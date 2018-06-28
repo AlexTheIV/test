@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data best hybrid time real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d720e68e-660f-4276-95d4-8f1aa4d88a45", 
+    "name": "cicso-google-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

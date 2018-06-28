@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud scale \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 best scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "98467873-7abb-4c25-9779-11c98162385f", 
+    "name": "cicso-facebook-facebook", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

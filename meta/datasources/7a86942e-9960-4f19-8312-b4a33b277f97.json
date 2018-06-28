@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 crypto 3.4 real cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7a86942e-9960-4f19-8312-b4a33b277f97", 
+    "name": "nightlight-splunk-cicso", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

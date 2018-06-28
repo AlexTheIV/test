@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 microservice best runinng crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1becfcd8-6335-43f8-b9bd-1ae6c87d8745", 
+    "name": "azure-facebook-cicso", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

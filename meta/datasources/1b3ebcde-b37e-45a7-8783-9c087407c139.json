@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 crypto big-data scale time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1b3ebcde-b37e-45a7-8783-9c087407c139", 
+    "name": "azure-splunk-orangeswirl", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

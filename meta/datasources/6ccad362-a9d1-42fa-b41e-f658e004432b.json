@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice quantum time sunny big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6ccad362-a9d1-42fa-b41e-f658e004432b", 
+    "name": "aws-cicso-nightlight", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

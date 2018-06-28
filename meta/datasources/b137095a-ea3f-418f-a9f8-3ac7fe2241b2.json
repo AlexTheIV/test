@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 3.4 ssc hybrid quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b137095a-ea3f-418f-a9f8-3ac7fe2241b2", 
+    "name": "azure-azure-microsoft", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

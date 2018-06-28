@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud scale great \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c09a09ef-3f0c-481b-adce-a69199f97eee", 
+    "name": "nightlight-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-nightlight", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

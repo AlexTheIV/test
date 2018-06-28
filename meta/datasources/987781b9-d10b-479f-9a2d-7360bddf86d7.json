@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best sunny 1.8 ssc sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "987781b9-d10b-479f-9a2d-7360bddf86d7", 
+    "name": "splunk-nightlight-azure", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

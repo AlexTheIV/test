@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 resistors real runinng quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1a5850c1-2b8a-4f3f-9964-f253dcc0da51", 
+    "name": "cicso-splunk-nightlight", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great great hybrid hybrid hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b0d0cc70-cbf4-430a-bfb3-36e766ae4edb", 
+    "name": "microsoft-nightlight-azure", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

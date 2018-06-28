@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud real-time 4.2 scale resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dbef2fbc-e117-48d9-9f76-86a62ad73662", 
+    "name": "splunk-minty-google", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 crypto resistors microservice great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a0a6033a-86fd-412c-a778-59fde8a9311e", 
+    "name": "azure-nightlight-azure", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

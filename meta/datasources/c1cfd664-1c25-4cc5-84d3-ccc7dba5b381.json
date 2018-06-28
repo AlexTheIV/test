@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time best cloud quantum 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c1cfd664-1c25-4cc5-84d3-ccc7dba5b381", 
+    "name": "facebook-aws-facebook", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

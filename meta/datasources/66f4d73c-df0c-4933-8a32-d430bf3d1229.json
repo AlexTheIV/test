@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 resistors real crypto ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "66f4d73c-df0c-4933-8a32-d430bf3d1229", 
+    "name": "aws-azure-orangeswirl", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

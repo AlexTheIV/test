@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid resistors hybrid resistors 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7bc59e98-f862-4909-88e0-2b306ef65d3f", 
+    "name": "aws-nightlight-minty", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

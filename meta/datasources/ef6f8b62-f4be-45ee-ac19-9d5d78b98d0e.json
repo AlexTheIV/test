@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 4.2 hybrid cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ef6f8b62-f4be-45ee-ac19-9d5d78b98d0e", 
+    "name": "microsoft-cicso-cicso", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

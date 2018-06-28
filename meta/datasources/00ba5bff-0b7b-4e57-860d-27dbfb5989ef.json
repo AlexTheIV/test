@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 4.2 resistors sunny best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "00ba5bff-0b7b-4e57-860d-27dbfb5989ef", 
+    "name": "facebook-google-orangeswirl", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

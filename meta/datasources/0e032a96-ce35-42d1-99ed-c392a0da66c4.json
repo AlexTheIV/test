@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid big-data scale best 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0e032a96-ce35-42d1-99ed-c392a0da66c4", 
+    "name": "orangeswirl-minty-azure", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best cloud ssc crypto great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "553c568f-a71b-42d3-94ec-57b9729dbfc1", 
+    "name": "cicso-minty-splunk", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

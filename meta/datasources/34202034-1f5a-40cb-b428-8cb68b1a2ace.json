@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time best scale ssc 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "34202034-1f5a-40cb-b428-8cb68b1a2ace", 
+    "name": "orangeswirl-google-aws", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

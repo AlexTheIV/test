@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real-time ssc hybrid 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e4bb867b-f81e-497d-a9e8-f28cfbf88556", 
+    "name": "cicso-azure-microsoft", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

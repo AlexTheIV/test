@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng cloud ssc cloud time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b0a3064b-1c52-42a6-bf3a-3b4734c68819", 
+    "name": "azure-google-facebook", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice sunny time quantum 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8f4757ff-cdee-4979-8d7f-6880173be1d0", 
+    "name": "cicso-cicso-azure", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

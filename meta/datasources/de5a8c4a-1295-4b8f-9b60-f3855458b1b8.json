@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real best big-data scale hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "de5a8c4a-1295-4b8f-9b60-f3855458b1b8", 
+    "name": "aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

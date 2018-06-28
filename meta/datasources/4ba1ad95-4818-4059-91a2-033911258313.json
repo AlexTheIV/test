@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 quantum resistors best 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4ba1ad95-4818-4059-91a2-033911258313", 
+    "name": "splunk-microsoft-google", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

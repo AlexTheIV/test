@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc microservice big-data scale microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8e56cfea-d9d4-4d51-9aad-930468d5a14f", 
+    "name": "aws-aws-orangeswirl", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

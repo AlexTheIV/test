@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 best resistors crypto 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a716b3c5-b2ed-4aa6-9b61-51aad742b01b", 
+    "name": "minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

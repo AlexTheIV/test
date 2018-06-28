@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny cloud 3.4 microservice resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "903e947b-0572-4ef9-9f72-f5ff6d71a6ec", 
+    "name": "nightlight-minty-microsoft", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

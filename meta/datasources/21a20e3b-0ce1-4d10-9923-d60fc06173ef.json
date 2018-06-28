@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great resistors microservice 1.8 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "21a20e3b-0ce1-4d10-9923-d60fc06173ef", 
+    "name": "splunk-cicso-cicso", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

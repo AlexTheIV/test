@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud runinng cloud quantum cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e0100167-377d-4a74-af3f-9680ae1cb30e", 
+    "name": "facebook-google-aws", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

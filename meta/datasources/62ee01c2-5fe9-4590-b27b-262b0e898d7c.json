@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng hybrid crypto hybrid scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "62ee01c2-5fe9-4590-b27b-262b0e898d7c", 
+    "name": "orangeswirl-microsoft-aws", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng crypto 42 best great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6a004a1c-13b3-468d-9bae-f212fa65e94d", 
+    "name": "google-cicso-nightlight", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

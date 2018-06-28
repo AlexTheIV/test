@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 4.2 microservice sunny ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "287d114a-064c-4ccb-9bea-4a1f8222a543", 
+    "name": "facebook-azure-splunk", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

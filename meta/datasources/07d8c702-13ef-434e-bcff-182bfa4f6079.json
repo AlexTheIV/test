@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 42 scale big-data 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "07d8c702-13ef-434e-bcff-182bfa4f6079", 
+    "name": "nightlight-nightlight-orangeswirl", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

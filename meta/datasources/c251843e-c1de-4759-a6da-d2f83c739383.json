@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 real-time 42 3.4 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c251843e-c1de-4759-a6da-d2f83c739383", 
+    "name": "minty-cicso-google", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

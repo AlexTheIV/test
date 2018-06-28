@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc cloud real best big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "91460cc0-eb0b-4095-bcd2-73005e56ac53", 
+    "name": "cicso-aws-cicso", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

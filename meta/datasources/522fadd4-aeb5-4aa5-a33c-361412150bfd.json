@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time 42 real-time sunny runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "522fadd4-aeb5-4aa5-a33c-361412150bfd", 
+    "name": "google-microsoft-facebook", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 42 hybrid sunny 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "50e47c35-3a16-4845-b41a-641e164e8c47", 
+    "name": "cicso-nightlight-nightlight", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

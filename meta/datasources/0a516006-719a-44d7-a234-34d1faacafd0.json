@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto best microservice great quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0a516006-719a-44d7-a234-34d1faacafd0", 
+    "name": "cicso-orangeswirl-azure", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

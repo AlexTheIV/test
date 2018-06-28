@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 hybrid quantum quantum best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "525247ef-d20c-4403-8d0e-59615d7911ba", 
+    "name": "google-cicso-microsoft", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud real-time 4.2 real 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "39d0e4e2-0379-41f3-96df-7539a949717f", 
+    "name": "orangeswirl-aws-facebook", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

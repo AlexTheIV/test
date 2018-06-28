@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 crypto \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 resistors 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fabff51e-de17-46eb-8345-156211d695c3", 
+    "name": "azure-nightlight-azure", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

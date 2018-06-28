@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum time 3.4 4.2 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4a6a5e35-8189-465f-8ab7-8ea3c43789d9", 
+    "name": "nightlight-aws-nightlight", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

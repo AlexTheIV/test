@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto time time 1.8 hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b3295861-40a5-40f0-ab5a-f175361d9049", 
+    "name": "minty-azure-cicso", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

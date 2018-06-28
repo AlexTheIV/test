@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 hybrid 1.8 hybrid time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d184c025-dccd-4953-9c5c-9d16d7cb98b6", 
+    "name": "orangeswirl-nightlight-aws", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

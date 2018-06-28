@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time great crypto 4.2 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8389236f-87be-4a0f-9b3c-2a580e335d92", 
+    "name": "nightlight-nightlight-azure", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

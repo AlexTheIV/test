@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc great microservice cloud microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f038315e-aba6-44f2-894b-dbd71d0e130a", 
+    "name": "cicso-nightlight-orangeswirl", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

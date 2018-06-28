@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 1.8 1.8 resistors great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ab40a255-579f-4902-b946-a423a7f28e82", 
+    "name": "orangeswirl-minty-nightlight", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

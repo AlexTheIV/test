@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 resistors real microservice scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3d14fa8a-f0c6-480b-b3a7-38554585bca3", 
+    "name": "nightlight-splunk-minty", 
+    "parent": "fa531578-80e2-4b9d-94d4-4db4305e2acc", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

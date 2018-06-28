@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum microservice 42 real scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2784bb4e-83a9-428d-a854-0f450a5b3660", 
+    "name": "facebook-splunk-aws", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

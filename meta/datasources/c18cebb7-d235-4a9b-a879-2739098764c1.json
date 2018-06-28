@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 quantum crypto microservice resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c18cebb7-d235-4a9b-a879-2739098764c1", 
+    "name": "azure-google-azure", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

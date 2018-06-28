@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors runinng real-time great hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6243d5d2-0780-466e-9d34-ca4f9645e689", 
+    "name": "azure-facebook-minty", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

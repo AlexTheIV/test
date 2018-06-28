@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice runinng 4.2 hybrid 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "839a1e44-f4f9-4a9b-bf91-ff21db10d64f", 
+    "name": "microsoft-minty-minty", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

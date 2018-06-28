@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 crypto resistors real-time great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "934a1aad-c958-4c3e-90a1-2de6cf1139b3", 
+    "name": "minty-azure-orangeswirl", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

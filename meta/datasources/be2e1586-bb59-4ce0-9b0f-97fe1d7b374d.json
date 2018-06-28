@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data best 42 hybrid sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "be2e1586-bb59-4ce0-9b0f-97fe1d7b374d", 
+    "name": "cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-orangeswirl", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

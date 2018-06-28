@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time microservice cloud great big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e3092829-acf5-42b4-8ba8-9f5d04d46046", 
+    "name": "minty-minty-aws", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

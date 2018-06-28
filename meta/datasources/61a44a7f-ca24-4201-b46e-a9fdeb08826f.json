@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud time runinng cloud cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "61a44a7f-ca24-4201-b46e-a9fdeb08826f", 
+    "name": "google-minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time resistors time sunny real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "83583d15-3cda-4daa-a4b7-5a4ba20db47e", 
+    "name": "cicso-cicso-orangeswirl", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

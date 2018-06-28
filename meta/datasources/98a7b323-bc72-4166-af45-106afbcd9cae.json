@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale real-time resistors sunny real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "98a7b323-bc72-4166-af45-106afbcd9cae", 
+    "name": "azure-splunk-splunk", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng best resistors crypto cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fe8006f4-1d03-497b-8063-feba2309da2d", 
+    "name": "orangeswirl-azure-azure", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 time hybrid real-time runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "73b29b79-1364-4ec4-8d0d-4223c76349fc", 
+    "name": "splunk-azure-google", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

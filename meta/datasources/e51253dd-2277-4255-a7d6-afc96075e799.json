@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud resistors real-time cloud 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e51253dd-2277-4255-a7d6-afc96075e799", 
+    "name": "azure-azure-azure", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

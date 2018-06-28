@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice 42 quantum quantum 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "af88a811-94cf-471b-a125-2a6c17597df0", 
+    "name": "cicso-azure-minty", 
+    "parent": "cf1d61ed-4070-4a77-9eb5-c0b87ab7954d", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

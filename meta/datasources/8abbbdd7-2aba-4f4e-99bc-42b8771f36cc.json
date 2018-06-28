@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud sunny sunny 4.2 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8abbbdd7-2aba-4f4e-99bc-42b8771f36cc", 
+    "name": "splunk-facebook-microsoft", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

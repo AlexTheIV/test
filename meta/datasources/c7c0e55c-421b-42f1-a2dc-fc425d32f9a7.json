@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 42 1.8 1.8 runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c7c0e55c-421b-42f1-a2dc-fc425d32f9a7", 
+    "name": "google-minty-nightlight", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

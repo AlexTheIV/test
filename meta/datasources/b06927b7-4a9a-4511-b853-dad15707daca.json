@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 42 big-data 4.2 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b06927b7-4a9a-4511-b853-dad15707daca", 
+    "name": "cicso-cicso-cicso", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

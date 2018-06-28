@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc real real resistors hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f3fede95-0044-4547-8862-8749728d4301", 
+    "name": "minty-cicso-cicso", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time microservice 4.2 real 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c18bf83c-2791-43bf-9ca5-2a2f1f0277d4", 
+    "name": "nightlight-facebook-minty", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

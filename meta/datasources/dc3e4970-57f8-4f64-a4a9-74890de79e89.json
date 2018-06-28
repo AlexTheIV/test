@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real sunny big-data quantum 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dc3e4970-57f8-4f64-a4a9-74890de79e89", 
+    "name": "aws-orangeswirl-microsoft", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

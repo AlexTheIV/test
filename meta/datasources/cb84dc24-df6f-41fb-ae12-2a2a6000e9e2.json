@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid great real-time resistors big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cb84dc24-df6f-41fb-ae12-2a2a6000e9e2", 
+    "name": "google-microsoft-azure", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

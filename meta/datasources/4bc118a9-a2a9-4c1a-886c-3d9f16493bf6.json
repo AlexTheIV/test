@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice best great great 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4bc118a9-a2a9-4c1a-886c-3d9f16493bf6", 
+    "name": "aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-orangeswirl", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

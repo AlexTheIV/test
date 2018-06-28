@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data sunny cloud hybrid microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d6cca327-085b-4843-a049-8f1943304d25", 
+    "name": "microsoft-nightlight-facebook", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

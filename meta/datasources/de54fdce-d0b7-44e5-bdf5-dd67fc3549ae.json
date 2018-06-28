@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 microservice quantum time time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "de54fdce-d0b7-44e5-bdf5-dd67fc3549ae", 
+    "name": "splunk-nightlight-splunk", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

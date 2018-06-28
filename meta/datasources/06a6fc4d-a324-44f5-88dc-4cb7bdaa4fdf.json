@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud sunny ssc sunny ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "06a6fc4d-a324-44f5-88dc-4cb7bdaa4fdf", 
+    "name": "microsoft-microsoft-minty", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

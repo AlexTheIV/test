@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 42 time great quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c9814e4e-714b-4b4b-aa3f-080a946e705e", 
+    "name": "cicso-facebook-cicso", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 sunny sunny ssc scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "46660147-9385-4e45-89ea-9720c75ee4c8", 
+    "name": "minty-cicso-microsoft", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

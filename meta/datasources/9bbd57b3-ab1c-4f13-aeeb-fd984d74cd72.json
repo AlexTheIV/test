@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great scale 4.2 great hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9bbd57b3-ab1c-4f13-aeeb-fd984d74cd72", 
+    "name": "facebook-orangeswirl-nightlight", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

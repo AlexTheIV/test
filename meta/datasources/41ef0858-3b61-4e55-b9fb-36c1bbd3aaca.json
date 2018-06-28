@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time cloud crypto cloud real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "41ef0858-3b61-4e55-b9fb-36c1bbd3aaca", 
+    "name": "minty-cicso-aws", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

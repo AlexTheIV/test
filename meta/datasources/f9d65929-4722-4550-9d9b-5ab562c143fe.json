@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng cloud real-time real-time hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f9d65929-4722-4550-9d9b-5ab562c143fe", 
+    "name": "azure-aws-minty", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

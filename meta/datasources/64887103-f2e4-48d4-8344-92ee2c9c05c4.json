@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time 4.2 3.4 hybrid real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "64887103-f2e4-48d4-8344-92ee2c9c05c4", 
+    "name": "microsoft-azure-azure", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

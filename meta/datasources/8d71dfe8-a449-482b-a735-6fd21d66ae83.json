@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best quantum real-time real-time time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8d71dfe8-a449-482b-a735-6fd21d66ae83", 
+    "name": "nightlight-orangeswirl-facebook", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

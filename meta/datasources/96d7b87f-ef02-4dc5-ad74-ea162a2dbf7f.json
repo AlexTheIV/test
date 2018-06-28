@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale time best runinng crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "96d7b87f-ef02-4dc5-ad74-ea162a2dbf7f", 
+    "name": "aws-splunk-splunk", 
+    "parent": "fbf68a07-5f73-48e6-8d0a-b427ebfd8a43", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best hybrid real hybrid 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ea31f323-165f-46c4-97ae-7258a51232ac", 
+    "name": "microsoft-microsoft-nightlight", 
+    "parent": "afeaed64-b640-4252-822c-ca164d777440", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

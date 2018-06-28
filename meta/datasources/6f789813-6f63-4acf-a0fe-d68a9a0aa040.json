@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real hybrid hybrid real-time 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6f789813-6f63-4acf-a0fe-d68a9a0aa040", 
+    "name": "nightlight-aws-microsoft", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

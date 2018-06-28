@@ -1,0 +1,323 @@
+{
+    "bestPractice": "TODO", 
+    "dataSources": [
+        "7fcd408b-e42d-435f-8226-4fac0fe528ac", 
+        "1cc50951-ad44-4633-84a5-10946247bad4", 
+        "6948ea82-5c6d-495e-a9bd-38bb04bc7643", 
+        "b8d90b6d-719f-424c-ad10-2632b68b36d7", 
+        "ec5c18e6-2f2f-48c2-9d04-2cfad2c756be", 
+        "62658b17-5b3b-460c-bfd4-0605ac5c6e34", 
+        "05a97a2c-b034-4494-b95d-7547c5d2b181", 
+        "9c5f3f63-0c8f-4934-9a9f-477066dca915", 
+        "0b46659b-3db0-4ea4-a1b9-794a3c0c7765", 
+        "8f543cbd-12c3-4782-a176-91e6b4beef92", 
+        "6b89e04b-30e1-4613-9e0a-fef559ec2406", 
+        "a5c88993-6e2b-40b2-998a-d9a8f3fafa1b", 
+        "01fbbc16-729d-42b0-a6c1-8f42a9360441", 
+        "5862fae8-6266-4a72-a9f9-4367df000d1b", 
+        "ac780732-e626-45fb-9452-57c3887725b2", 
+        "18ccd085-b158-4d51-91b3-dda3840172b2", 
+        "f9bc7790-07c4-4e77-b6ae-256d43075008", 
+        "1a4efb9e-d92b-4069-8680-3164a9258fd0", 
+        "e8dc8e7d-51ab-4054-9d3e-c5f603add77c", 
+        "003a24e5-c69f-4145-9f16-16c6f6528d94", 
+        "e3d07a05-7c73-450a-93cb-ab02b01324d8", 
+        "ddbddf79-7b6d-4f3a-a00f-781e9d479ff5", 
+        "4fd4c0ca-6cd7-4fa8-bef8-5a2f8b3aafd1", 
+        "c7196c90-755d-41ed-a615-46f06f8eb1bb", 
+        "e5e8569a-662c-4090-96b8-82f0304c5fb9", 
+        "5050ac8e-59e1-4cf7-a7e4-80f04fa759a0", 
+        "3f9bd9f7-664a-4615-8a61-e05e6044df83", 
+        "e4082f58-0525-4ad2-ac34-31272f3cb6c0", 
+        "2767e7ad-c4da-4cb2-b980-80728b6e7721", 
+        "9fbb38bd-37e8-498c-a993-990814aaafa5", 
+        "2b7873ba-324d-480b-867c-54a17595c759", 
+        "a17503ca-b154-4fab-8334-557f6d1c328c", 
+        "15a603e8-9e16-4a4b-90f8-46a673fe2a6a", 
+        "64d109b7-86ed-40e3-bb27-a01f59ffbf20", 
+        "936dae53-3bf2-4a2a-bff9-d9c5382cb294", 
+        "3570f2a8-59aa-4bc7-951f-a8949da9da03", 
+        "1e23d06b-d5a2-4a4e-8d39-cac31256f49b", 
+        "f69dc1e3-192f-4e59-ab2f-be5b66f143ab", 
+        "3c114b92-f3a4-430a-9153-da29950ed6a2", 
+        "15794b15-bd05-4414-b21e-16ba6a8ee61b", 
+        "49643080-21fb-4e4f-a61f-39d829af0c5f", 
+        "c20bddd8-f6cc-4fc6-b68a-63384a6cd228", 
+        "2588fe4a-ecae-4e98-89a5-b9ad3f327572", 
+        "2679cf4e-65f1-45c0-a152-c60432793cdc", 
+        "52eb3420-b569-4e85-8432-f047d71a989b", 
+        "1c1ce441-1b8d-49d3-a38e-205fc30f592c", 
+        "4c8e3281-c318-4fd9-8740-ee946940db89", 
+        "f08b9ab0-f5df-4eb5-95ca-ea97d9914f67", 
+        "5d77b93d-e71a-496f-80de-6ff67230a8d5", 
+        "26e061b8-bd48-4246-b363-0c60157b8aa3", 
+        "28f226ec-5127-4896-aa23-cef85dfc31ae", 
+        "a714a562-4cab-4709-a83b-0f3921539482", 
+        "c2e640ca-fe45-46a0-ae27-499ac553abbb", 
+        "ee7cd8e3-7ac0-4d24-a729-4bf3b85e59cb", 
+        "df1df71e-1e68-44ce-a821-eb6c14e620f7", 
+        "39fed219-85df-45c7-8d73-7542f0ba4e34", 
+        "6f789813-6f63-4acf-a0fe-d68a9a0aa040", 
+        "a3f3be6b-1207-4ac5-a0d5-23bbec591dc5", 
+        "d90c55df-cf3e-4990-acb9-5b05bfca847e", 
+        "93cc2310-1380-4c3e-a71e-5830e8bd35a0", 
+        "9ec55fae-9f5a-4ca0-b408-b20260663f18", 
+        "bed975d5-eb0f-443d-92c9-51d5be2e9b5b", 
+        "6f1738ae-a573-4a53-9d35-92dde206c102", 
+        "27682ca1-3698-4286-9e33-632ea91c696a", 
+        "8c1e9c5a-9fe7-4c91-ba58-a7a4d3e1c360", 
+        "b8398b53-7b16-401b-8563-6eef8502b16f", 
+        "5e6e93a8-dc02-47a8-8fb8-78842ec85283", 
+        "96a2dfd9-76a2-4541-9c26-629e79fc6c12", 
+        "0461d8b4-2492-4565-bc2f-1b2e5dd08afa", 
+        "3a13ad22-0092-4834-b2d8-0169f5803535", 
+        "b034f161-4623-441b-83d8-54add982a67d", 
+        "2004eaa2-a9e1-4b72-b93d-22197c9c8b1a", 
+        "05bdf5a7-ad9a-4a2d-b59d-c4257571fe08", 
+        "5d70d2b8-bbf1-464e-aa63-4967165ebce2", 
+        "a65f9d60-8aa7-4cb5-a4ac-58c53ce09847", 
+        "a25308e9-db8e-4d77-93f3-76158e725d8f", 
+        "fcb100a0-050d-450a-8002-75d5bc2f1d86", 
+        "c69d3f6e-4f02-447c-9758-d477361bbd8d", 
+        "c2e3dd91-5ac1-4e4a-a40c-09f6143a333e", 
+        "23feeaba-22dd-4581-9173-84a2df9fa5f8", 
+        "4e0d3352-df0b-49d8-bb9a-23f1ee4c2e67", 
+        "9604bc9c-b24c-4ffd-87fc-8ba2d41f7927", 
+        "0faee282-0231-475f-97e9-1c264dd7f2b3", 
+        "6f2e10ec-4661-448c-9f24-9f4af185240f", 
+        "c70b86e1-f109-405b-bb5a-d3d7d55c4936", 
+        "3ae1750e-dd73-45cb-8fdc-f0f76ffb6d26", 
+        "008d7d55-8130-485f-b693-3fbc7e510563", 
+        "23bbd942-2029-47b7-9448-6eac666e1727", 
+        "e8dbd9f3-76ac-4a8a-8feb-a2e5587a4824", 
+        "93ed7b35-a92b-44ae-bd55-6b15f462588e", 
+        "f3978b6f-7c72-4060-86b1-dae21f846bb2", 
+        "aebf27e7-3191-4249-91ab-310e8e6fadf8", 
+        "6032a465-7da1-476c-abf9-0c89ae917d41", 
+        "1eaeeefc-c732-44da-917d-853f99114ab7", 
+        "2ee910fb-6751-4727-8217-da0335e64f80", 
+        "32e83553-1a2b-4ea5-9674-9ab81153512d", 
+        "cc6981b1-3cbf-470d-a195-3a350a046a6a", 
+        "871d4c30-ba83-4dc1-aa52-1a32210d618d", 
+        "d838e152-1db3-4bfb-a5c7-3d9358ad244c", 
+        "71d0891f-933d-46f1-8d70-c1804da45828", 
+        "d561b0ca-1e1d-4ab6-8998-fa3ed07ae164", 
+        "862a1e3a-2afc-4ddd-9859-d25ae82cda67", 
+        "acf2a1be-1bae-4eeb-a350-897b8ecbd330", 
+        "c7ee6a91-1a5b-41a9-8dbc-e06f3c862c16", 
+        "29b3d09b-cd46-4a31-a79e-4a7278462e7a", 
+        "c9da2aac-e736-4e27-84a7-201e95b2d165", 
+        "4b85facc-77b3-4012-b268-da5ac3e3a20d", 
+        "ac22cf74-85af-4167-aa81-9ce0abfa93a5", 
+        "2bd1c8e8-7156-48a4-ac9f-c43f462164fa", 
+        "9ecffd59-723d-4928-a071-6fc7e2a83257", 
+        "4dcf48c8-265e-4ede-8937-5ec94bf84edb", 
+        "d8d22e45-8a76-4d98-b017-41d47be8ba54", 
+        "5f7408f0-7857-438e-8e54-d378d4fcaf40", 
+        "5503db22-fe10-4357-a383-25e6e4394879", 
+        "40b89188-5dcf-4a97-afb2-95fdd2caf3b5", 
+        "7ec3f8f5-2e4d-4af6-a13a-eab264650589", 
+        "2c3fd30d-5f39-4d78-9db4-eed3ed5f2af4", 
+        "32b8869b-5277-4dde-881e-84905d90d4cb", 
+        "f7190354-0fea-4ca9-a98e-a32862f2cc12", 
+        "e50b2bfc-0ef7-483d-b01b-d97ceffaf053", 
+        "1ca66cf6-4404-457a-bbb5-c806e9a87f46", 
+        "6c83f0ad-ebdb-4fd6-b48e-06af9b67d76e", 
+        "c546a8c3-5235-4834-9b18-be82a8fa4036", 
+        "07b58a55-c88d-4fa5-813e-1786fb978521", 
+        "edbe2863-b72d-47d2-97b7-cd2d56cd75f1", 
+        "439c0217-004d-4f7c-a1ae-9e9afccd34f8", 
+        "a108769e-0d9f-443f-91dc-217f5c2e3b6c", 
+        "24ff2c98-06de-4474-b523-d37c22dc5ce9", 
+        "fd219cf1-f936-4023-8379-5ee21fc75776", 
+        "6d2cf4c6-6d27-4b28-b1bb-e5294e3a7126", 
+        "2f705aa7-559d-44fc-8eca-2fb2dbf9dc90", 
+        "c2d02b2c-a4bc-4116-9382-9badaced177a", 
+        "edc77eeb-ce92-4fc7-a381-d798b3bf0318", 
+        "8e3e2f79-a4f0-43a6-9c69-c0b1c1fe4703", 
+        "1c75c55c-47fe-4839-bf0f-99fb5449c005", 
+        "f9c001c5-40f4-42aa-a0bb-f3e4d7c6b076", 
+        "052f73c0-29ea-4d62-9b37-1115e7344e4f", 
+        "462e329f-f5af-4b2e-8709-b7acbb48d62d", 
+        "6059c265-8286-45b7-a5a8-b6a812ff73a0", 
+        "241f5472-28c0-4358-9cbd-83515695b223", 
+        "c387e7a3-bafd-4298-9fe4-51f96144d883", 
+        "bdbd5c78-6542-45f0-8605-a32c80647ae3", 
+        "19d83a18-c4c3-48a1-92fd-53dad7ff9f67", 
+        "2fe49144-6320-4ae7-aab1-061aacc79818", 
+        "dedfd24e-80c0-44f3-a9cd-6726204ceb9f", 
+        "0dbe689f-e619-47f3-81dd-d63fd0812d2d", 
+        "7e73bfa6-7776-4c96-9693-209da84ff2af", 
+        "a236b9e9-141f-4362-8d40-5a1c27b8474e", 
+        "5af82763-8c42-4252-99bf-e5f4fcf465d0", 
+        "60d10de5-b0d4-4ae3-99d9-2426a27821ac"
+    ], 
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 microservice real-time real-time 3.4", 
+    "id": "4195fb83-9a82-4f90-887f-58431e916b21", 
+    "instruction": {
+        "overview": {
+            "config": [
+                {
+                    "#document_ref": "singleInstance", 
+                    "topologies": [
+                        "SingleInstance"
+                    ]
+                }, 
+                {
+                    "#document_ref": "distributed", 
+                    "topologies": [
+                        "SHC", 
+                        "INC"
+                    ]
+                }, 
+                {
+                    "#document_ref": "distributed", 
+                    "topologies": [
+                        "SHC", 
+                        "INX"
+                    ]
+                }, 
+                {
+                    "#document_ref": "distributed", 
+                    "topologies": [
+                        "SH", 
+                        "INX"
+                    ]
+                }, 
+                {
+                    "#document_ref": "cloud", 
+                    "topologies": [
+                        "Cloud"
+                    ]
+                }
+            ], 
+            "deployment": [
+                {
+                    "desc": "A single instance that combines indexing and search management functions.", 
+                    "name": "Single Instance", 
+                    "topology": "SingleInstance"
+                }, 
+                {
+                    "desc": "1. Small enterprise. One search head with two or three indexers.\n2. Medium enterprise. A small search head cluster, with several indexers.\n3. Large enterprise. A large search head cluster, with large numbers of indexers.", 
+                    "more_options": [
+                        {
+                            "name": "Search Head", 
+                            "options": [
+                                {
+                                    "name": "Single Search Head", 
+                                    "topology": "SH"
+                                }, 
+                                {
+                                    "name": "Search Head Cluster", 
+                                    "topology": "SHC"
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Indexer", 
+                            "options": [
+                                {
+                                    "name": "Multiple Indexers", 
+                                    "topology": "INX"
+                                }, 
+                                {
+                                    "name": "Indexers Cluster", 
+                                    "topology": "INC"
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "TAs", 
+                            "options": [
+                                {
+                                    "name": "hello", 
+                                    "topology": "INX"
+                                }, 
+                                {
+                                    "name": "name1", 
+                                    "topology": "name1"
+                                }, 
+                                {
+                                    "name": "name2", 
+                                    "topology": "name2"
+                                }, 
+                                {
+                                    "name": "name3", 
+                                    "topology": "name3"
+                                }, 
+                                {
+                                    "name": "name4", 
+                                    "topology": "name4"
+                                }, 
+                                {
+                                    "name": "name5", 
+                                    "topology": "name5"
+                                }, 
+                                {
+                                    "name": "name6", 
+                                    "topology": "name6"
+                                }, 
+                                {
+                                    "name": "name5", 
+                                    "topology": "name5"
+                                }
+                            ]
+                        }
+                    ], 
+                    "name": "Distributed"
+                }, 
+                {
+                    "desc": "You can get data into your Splunk Cloud deployment as follows:\n1. Forward data from data sources\n2. Install Splunk apps and add-ons\n3. Send data using HTTP protocol", 
+                    "name": "Cloud", 
+                    "topology": "Cloud"
+                }
+            ], 
+            "document_ref": {
+                "cloud": {
+                    "_name": "Splunk Cloud Configurations", 
+                    "diagram": "images/image_single.png", 
+                    "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview", 
+                    "steps": [
+                        "Cloud Step 1", 
+                        "Cloud Step 2", 
+                        "Cloud Step 3", 
+                        "Cloud Step 4", 
+                        "Cloud Step 5", 
+                        "Cloud Step 6", 
+                        "Cloud Step 7", 
+                        "\u00c7, \u00e9, \u00e2, \u00ea, \u00ee, \u00f4, \u00fb, \u00e0, \u00e8, \u00f9, \u00eb, \u00ef, \u00fc\n\u3131, \u3134, \u3137, \u3139, \u3141, \u3142, \u3145, \u3147\nIch h\u00e4tte gern, Es gef\u00e4llt mir nicht.\nL'orologio segna otto minuti alle dodici.", 
+                        "\u6b63\u9ad4\u5b57/\u7e41\u9ad4\u5b57, \u6e1b\u7b46, \u7adc, \u9f99, \u9f8d\n", 
+                        "\u5bfc\u5b57\u793e, \u7b80\u5316\u5b57\u603b\u8868\n", 
+                        "\u3042\u30a2\u304b\u30ab\n"
+                    ]
+                }, 
+                "distributed": {
+                    "_name": "Splunk Distributed Configurations", 
+                    "diagram": "images/image_single.png", 
+                    "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview", 
+                    "steps": [
+                        "Install AWS Add-on", 
+                        "Create dead letter queue", 
+                        "Distributed Step 3", 
+                        "Distributed Step 4", 
+                        "Distributed Step 5", 
+                        "Distributed Step 6"
+                    ]
+                }, 
+                "singleInstance": {
+                    "_name": "Splunk Single Configurations", 
+                    "diagram": "images/image_single.png", 
+                    "pony_doc_link": "http://docs.splunk.com/Documentation/AddonBuilder/2.2.0/UserGuide/ExtractFields", 
+                    "steps": [
+                        "create CloudTrail", 
+                        "Configure AWS account", 
+                        "Install AWS Add-on", 
+                        "Create dead letter queue", 
+                        "Single Instance Step 5"
+                    ]
+                }
+            }
+        }
+    }, 
+    "name": "azure-microsoft-splunk"
+}

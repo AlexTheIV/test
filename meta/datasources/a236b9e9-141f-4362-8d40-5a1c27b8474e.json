@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real real ssc 42 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a236b9e9-141f-4362-8d40-5a1c27b8474e", 
+    "name": "azure-minty-facebook", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

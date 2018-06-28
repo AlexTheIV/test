@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 real runinng microservice real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "008d7d55-8130-485f-b693-3fbc7e510563", 
+    "name": "cicso-facebook-orangeswirl", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

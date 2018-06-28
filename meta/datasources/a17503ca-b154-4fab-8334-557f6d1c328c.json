@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 scale 1.8 runinng time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a17503ca-b154-4fab-8334-557f6d1c328c", 
+    "name": "cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

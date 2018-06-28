@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 3.4 real-time great runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b8398b53-7b16-401b-8563-6eef8502b16f", 
+    "name": "google-minty-azure", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

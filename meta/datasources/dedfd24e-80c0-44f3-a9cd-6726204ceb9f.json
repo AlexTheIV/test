@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale microservice resistors crypto microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dedfd24e-80c0-44f3-a9cd-6726204ceb9f", 
+    "name": "nightlight-facebook-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny ssc resistors 42 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b034f161-4623-441b-83d8-54add982a67d", 
+    "name": "facebook-facebook-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

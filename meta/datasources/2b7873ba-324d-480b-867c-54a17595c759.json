@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors runinng best crypto quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2b7873ba-324d-480b-867c-54a17595c759", 
+    "name": "google-splunk-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

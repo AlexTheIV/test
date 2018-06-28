@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real-time scale real-time big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f3978b6f-7c72-4060-86b1-dae21f846bb2", 
+    "name": "nightlight-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

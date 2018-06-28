@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time hybrid crypto resistors ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7e73bfa6-7776-4c96-9693-209da84ff2af", 
+    "name": "azure-microsoft-facebook", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 resistors time hybrid 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2588fe4a-ecae-4e98-89a5-b9ad3f327572", 
+    "name": "microsoft-google-orangeswirl", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

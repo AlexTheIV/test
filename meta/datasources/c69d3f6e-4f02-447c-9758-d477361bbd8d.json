@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data quantum quantum big-data microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c69d3f6e-4f02-447c-9758-d477361bbd8d", 
+    "name": "minty-microsoft-microsoft", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

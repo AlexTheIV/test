@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny real ssc time best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "936dae53-3bf2-4a2a-bff9-d9c5382cb294", 
+    "name": "azure-google-microsoft", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

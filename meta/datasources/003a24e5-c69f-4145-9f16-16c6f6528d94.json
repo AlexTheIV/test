@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real 1.8 ssc resistors scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "003a24e5-c69f-4145-9f16-16c6f6528d94", 
+    "name": "cicso-azure-cicso", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

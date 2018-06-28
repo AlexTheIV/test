@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 big-data ssc real crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2c3fd30d-5f39-4d78-9db4-eed3ed5f2af4", 
+    "name": "azure-cicso-google", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto ssc microservice 42 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0dbe689f-e619-47f3-81dd-d63fd0812d2d", 
+    "name": "azure-orangeswirl-google", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

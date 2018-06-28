@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors resistors microservice quantum real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c20bddd8-f6cc-4fc6-b68a-63384a6cd228", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure-orangeswirl", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

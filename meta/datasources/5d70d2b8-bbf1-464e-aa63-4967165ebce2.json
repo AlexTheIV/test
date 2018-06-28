@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum hybrid \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 4.2 real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5d70d2b8-bbf1-464e-aa63-4967165ebce2", 
+    "name": "facebook-aws-nightlight", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

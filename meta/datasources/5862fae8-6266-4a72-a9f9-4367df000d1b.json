@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 1.8 42 real-time quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5862fae8-6266-4a72-a9f9-4367df000d1b", 
+    "name": "splunk-splunk-cicso", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

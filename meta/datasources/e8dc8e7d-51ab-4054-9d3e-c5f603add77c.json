@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny microservice time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e8dc8e7d-51ab-4054-9d3e-c5f603add77c", 
+    "name": "microsoft-nightlight-facebook", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

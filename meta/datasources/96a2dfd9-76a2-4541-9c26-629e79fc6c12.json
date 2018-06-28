@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny real cloud great real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "96a2dfd9-76a2-4541-9c26-629e79fc6c12", 
+    "name": "nightlight-azure-microsoft", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

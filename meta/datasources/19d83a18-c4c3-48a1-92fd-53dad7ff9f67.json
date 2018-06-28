@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time microservice big-data resistors 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "19d83a18-c4c3-48a1-92fd-53dad7ff9f67", 
+    "name": "google-aws-aws", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

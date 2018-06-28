@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great hybrid time microservice 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a65f9d60-8aa7-4cb5-a4ac-58c53ce09847", 
+    "name": "google-azure-orangeswirl", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

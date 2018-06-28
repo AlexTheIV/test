@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid big-data real ssc runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ddbddf79-7b6d-4f3a-a00f-781e9d479ff5", 
+    "name": "cicso-splunk-aws", 
+    "parent": "512cdbb2-e37e-4025-9647-bc5ad4610a04", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

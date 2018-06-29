@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great 3.4 time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "955a5407-ac65-49d5-b671-b95d446046cd", 
+    "name": "orangeswirl-splunk-cicso", 
+    "parent": "a09b3ca1-e8b8-4bf1-962b-557ecf48404a", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

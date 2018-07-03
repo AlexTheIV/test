@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real big-data hybrid hybrid 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ea75221d-0537-44d4-bcff-5f12e4effb6f", 
+    "name": "aws-facebook-cicso", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

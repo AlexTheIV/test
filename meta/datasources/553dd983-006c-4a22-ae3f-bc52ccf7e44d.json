@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best real ssc resistors real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "553dd983-006c-4a22-ae3f-bc52ccf7e44d", 
+    "name": "google-cicso-aws", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

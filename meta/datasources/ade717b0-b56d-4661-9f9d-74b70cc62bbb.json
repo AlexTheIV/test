@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great best 4.2 4.2 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ade717b0-b56d-4661-9f9d-74b70cc62bbb", 
+    "name": "microsoft-aws-nightlight", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

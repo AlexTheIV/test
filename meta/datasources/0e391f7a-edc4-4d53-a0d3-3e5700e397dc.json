@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 42 runinng resistors runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0e391f7a-edc4-4d53-a0d3-3e5700e397dc", 
+    "name": "orangeswirl-cicso-orangeswirl", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

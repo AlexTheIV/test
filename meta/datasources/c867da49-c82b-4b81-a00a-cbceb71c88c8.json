@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 microservice runinng crypto real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c867da49-c82b-4b81-a00a-cbceb71c88c8", 
+    "name": "cicso-nightlight-cicso", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

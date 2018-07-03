@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale ssc crypto quantum microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "53e819bd-bbf6-4c2d-a495-b4998f927c82", 
+    "name": "cicso-minty-microsoft", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

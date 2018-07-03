@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 quantum ssc real-time runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fb3768dc-c1fa-4023-9f71-dbc273856cb3", 
+    "name": "facebook-nightlight-microsoft", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng 4.2 microservice resistors quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "107ef254-9fbf-44f6-8d7c-1b77e3677307", 
+    "name": "aws-facebook-facebook", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

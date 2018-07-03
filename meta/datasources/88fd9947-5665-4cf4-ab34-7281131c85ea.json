@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 3.4 best big-data hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "88fd9947-5665-4cf4-ab34-7281131c85ea", 
+    "name": "nightlight-splunk-microsoft", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

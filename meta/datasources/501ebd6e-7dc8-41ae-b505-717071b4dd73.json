@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 crypto great crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "501ebd6e-7dc8-41ae-b505-717071b4dd73", 
+    "name": "facebook-minty-facebook", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

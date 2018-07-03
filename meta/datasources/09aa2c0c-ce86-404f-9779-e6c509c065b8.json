@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny cloud ssc real-time 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "09aa2c0c-ce86-404f-9779-e6c509c065b8", 
+    "name": "aws-facebook-aws", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

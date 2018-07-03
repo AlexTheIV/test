@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time microservice microservice scale 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "72ede01e-3cd9-4b09-9121-728fe4885046", 
+    "name": "azure-azure-aws", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto microservice sunny 1.8 real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c5180db7-cc70-48bf-ac6d-20197033a460", 
+    "name": "orangeswirl-microsoft-facebook", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

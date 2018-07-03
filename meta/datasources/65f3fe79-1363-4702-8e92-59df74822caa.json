@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time cloud microservice scale 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "65f3fe79-1363-4702-8e92-59df74822caa", 
+    "name": "splunk-nightlight-cicso", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

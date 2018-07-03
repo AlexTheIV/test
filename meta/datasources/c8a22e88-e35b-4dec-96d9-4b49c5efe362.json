@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 ssc crypto scale 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c8a22e88-e35b-4dec-96d9-4b49c5efe362", 
+    "name": "facebook-azure-minty", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time quantum big-data quantum best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d519567a-e63b-4a49-afd4-1a5ffd9a47ab", 
+    "name": "facebook-azure-minty", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

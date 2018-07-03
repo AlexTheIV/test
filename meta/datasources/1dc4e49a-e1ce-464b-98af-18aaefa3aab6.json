@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 42 crypto 1.8 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1dc4e49a-e1ce-464b-98af-18aaefa3aab6", 
+    "name": "azure-minty-azure", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

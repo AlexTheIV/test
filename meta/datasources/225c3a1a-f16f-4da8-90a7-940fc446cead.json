@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 big-data resistors big-data 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "225c3a1a-f16f-4da8-90a7-940fc446cead", 
+    "name": "cicso-cicso-azure", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

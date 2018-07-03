@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 3.4 time time real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6ccca981-888f-46dd-b60c-4fe089f3e33f", 
+    "name": "microsoft-minty-orangeswirl", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

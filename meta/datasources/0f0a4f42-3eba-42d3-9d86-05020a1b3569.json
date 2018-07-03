@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great 42 time real-time 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0f0a4f42-3eba-42d3-9d86-05020a1b3569", 
+    "name": "orangeswirl-orangeswirl-orangeswirl", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

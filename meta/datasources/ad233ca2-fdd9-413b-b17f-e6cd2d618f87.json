@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real resistors time time microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ad233ca2-fdd9-413b-b17f-e6cd2d618f87", 
+    "name": "azure-nightlight-azure", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

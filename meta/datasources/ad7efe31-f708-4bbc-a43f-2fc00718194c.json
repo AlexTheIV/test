@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc cloud real-time scale runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ad7efe31-f708-4bbc-a43f-2fc00718194c", 
+    "name": "minty-orangeswirl-google", 
+    "parent": "4882a413-3dff-449e-a2c0-34e6a28ed944", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

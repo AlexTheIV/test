@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum quantum runinng cloud crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f3ecd68b-9e1c-4d3e-b86f-769bebc8bc1c", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-facebook-cicso", 
+    "parent": "0073385e-fb3b-4f42-9356-f5f209a7e472", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

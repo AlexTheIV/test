@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 3.4 time microservice crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "605b19a4-3149-4f26-8b91-23ed7cec8e17", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws-microsoft", 
+    "parent": "5f69b654-0c9a-4e9c-89ef-241944017f68", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

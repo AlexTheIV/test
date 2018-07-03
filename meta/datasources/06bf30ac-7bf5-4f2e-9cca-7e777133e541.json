@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale real-time great quantum cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "06bf30ac-7bf5-4f2e-9cca-7e777133e541", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso-facebook", 
+    "parent": "1909b381-d5a4-44e1-8efb-5011758debdb", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

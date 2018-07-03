@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best microservice 3.4 great crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6dfaad0a-1653-4c14-95f6-0eb8f49ecccb", 
+    "name": "aws-nightlight-nightlight", 
+    "parent": "a3690b33-3082-4286-b8c9-c0555ba58552", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

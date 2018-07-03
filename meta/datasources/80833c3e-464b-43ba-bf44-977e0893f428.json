@@ -1,0 +1,7 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time scale 1.8 3.4 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "80833c3e-464b-43ba-bf44-977e0893f428", 
+    "name": "microsoft-aws-azure", 
+    "parent": "67795b19-38c5-4ece-bac6-cd9be1a92241"
+}

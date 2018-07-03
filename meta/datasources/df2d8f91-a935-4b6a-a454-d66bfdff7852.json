@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid resistors microservice 3.4 quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "df2d8f91-a935-4b6a-a454-d66bfdff7852", 
+    "name": "google-google-minty", 
+    "parent": "4bb4dbf5-8497-46bd-9b22-c570ba794d87", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 quantum resistors resistors sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "73c4d09c-5dba-478e-8004-a9ef78bbb811", 
+    "name": "cicso-nightlight-cicso", 
+    "parent": "95b880e8-56fc-4a04-bb5d-3c90291cab9c", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

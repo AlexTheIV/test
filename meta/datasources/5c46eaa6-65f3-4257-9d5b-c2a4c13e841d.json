@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 3.4 3.4 scale cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5c46eaa6-65f3-4257-9d5b-c2a4c13e841d", 
+    "name": "aws-nightlight-google", 
+    "parent": "da31ed58-70c6-4e54-aca6-9a25d76ef4cd", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

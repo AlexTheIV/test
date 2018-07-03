@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 best quantum resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "38045ab8-e1ca-498e-903b-a2a162941bf0", 
+    "name": "aws-google-facebook", 
+    "parent": "bbed8750-dced-494e-a9a6-65a374be0155", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

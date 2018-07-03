@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 crypto ssc big-data quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "69526321-5b3f-445c-995f-0063cb86cff5", 
+    "name": "orangeswirl-microsoft-nightlight", 
+    "parent": "42bf3807-9640-4c16-a034-1bea536bd070", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

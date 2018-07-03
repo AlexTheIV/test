@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real great big-data real-time ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3c1ee837-886d-4225-89e1-024183298897", 
+    "name": "cicso-aws-microsoft", 
+    "parent": "8475c99d-0406-4c9a-aca4-0f16afa56b0f", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

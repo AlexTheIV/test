@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real sunny microservice big-data sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4e040972-0d44-41fb-98f7-37e3eb3572a7", 
+    "name": "aws-azure-azure", 
+    "parent": "43e129a9-0f81-4eaf-89ff-e7cb31c9d4a0", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

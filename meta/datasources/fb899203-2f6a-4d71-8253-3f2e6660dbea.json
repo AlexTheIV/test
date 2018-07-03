@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great scale 1.8 resistors best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fb899203-2f6a-4d71-8253-3f2e6660dbea", 
+    "name": "orangeswirl-facebook-facebook", 
+    "parent": "4fb78616-9ee2-46c1-800d-860b894cdcbd", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

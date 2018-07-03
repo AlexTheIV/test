@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale hybrid scale cloud 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7d72289a-a910-4443-ba15-6c0edbd712d9", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure-orangeswirl", 
+    "parent": "4923f6cf-2804-4776-8c8a-58f930ddf937", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

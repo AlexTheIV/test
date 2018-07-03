@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid real sunny real-time great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c749bc7a-7cfc-456f-b17a-7d6ccbff0b1d", 
+    "name": "cicso-google-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "efb60030-1b59-4c56-b656-59dd6d37bcf4", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

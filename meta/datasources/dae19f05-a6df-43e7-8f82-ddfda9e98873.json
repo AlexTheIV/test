@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum quantum 1.8 cloud time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dae19f05-a6df-43e7-8f82-ddfda9e98873", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-nightlight", 
+    "parent": "8dcb34ea-e087-4fb2-9717-719a20e2b47a", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

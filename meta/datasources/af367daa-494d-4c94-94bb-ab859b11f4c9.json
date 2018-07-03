@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best sunny sunny big-data quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "af367daa-494d-4c94-94bb-ab859b11f4c9", 
+    "name": "cicso-aws-nightlight", 
+    "parent": "add64679-8e99-4f11-9b81-b9d97a5205c7", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

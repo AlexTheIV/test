@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 runinng time cloud resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "67198e63-737c-4374-b8cc-7ceacc4384c9", 
+    "name": "azure-nightlight-aws", 
+    "parent": "1dc79020-b33a-4099-8bf1-139a38a25bb7", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

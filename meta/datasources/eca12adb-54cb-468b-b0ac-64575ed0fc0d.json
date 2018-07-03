@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors big-data 4.2 microservice ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "eca12adb-54cb-468b-b0ac-64575ed0fc0d", 
+    "name": "nightlight-minty-splunk", 
+    "parent": "5fbbdfed-c538-4bf0-96e9-bb5ecbd9e6a0", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

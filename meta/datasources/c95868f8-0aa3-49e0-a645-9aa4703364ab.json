@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 best 1.8 cloud great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c95868f8-0aa3-49e0-a645-9aa4703364ab", 
+    "name": "minty-azure-aws", 
+    "parent": "09db88f5-b5bc-40f5-90cc-e432d81dcbe5", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

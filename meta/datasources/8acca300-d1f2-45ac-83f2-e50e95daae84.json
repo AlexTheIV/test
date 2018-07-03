@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data quantum 1.8 1.8 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8acca300-d1f2-45ac-83f2-e50e95daae84", 
+    "name": "splunk-microsoft-orangeswirl", 
+    "parent": "42bf3807-9640-4c16-a034-1bea536bd070", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

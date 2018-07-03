@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale crypto crypto real-time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "69cdb594-e3a5-4a1b-a432-154d0b66d010", 
+    "name": "google-minty-nightlight", 
+    "parent": "0f526bd7-bcaa-450b-8af2-b2135c50f93b", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

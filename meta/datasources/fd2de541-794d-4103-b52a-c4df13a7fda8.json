@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data best great time 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fd2de541-794d-4103-b52a-c4df13a7fda8", 
+    "name": "azure-minty-orangeswirl", 
+    "parent": "4ed6419e-80cf-4d9c-b754-0bd60c31bbe4", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

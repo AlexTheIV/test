@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto best great microservice scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9365d181-9900-41ed-b3e1-a7a8cf7b136e", 
+    "name": "orangeswirl-aws-splunk", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

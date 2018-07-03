@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny microservice scale microservice sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ee06c41a-432f-4389-9d7b-8e3cb3c9cc7d", 
+    "name": "nightlight-minty-cicso", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

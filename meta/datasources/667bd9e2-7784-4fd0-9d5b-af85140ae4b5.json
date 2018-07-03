@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 resistors runinng 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "667bd9e2-7784-4fd0-9d5b-af85140ae4b5", 
+    "name": "facebook-splunk-splunk", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

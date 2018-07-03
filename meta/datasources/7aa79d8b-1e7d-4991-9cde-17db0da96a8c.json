@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best hybrid best crypto 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7aa79d8b-1e7d-4991-9cde-17db0da96a8c", 
+    "name": "splunk-cicso-nightlight", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

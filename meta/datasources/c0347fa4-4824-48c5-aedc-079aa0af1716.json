@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 sunny ssc scale real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c0347fa4-4824-48c5-aedc-079aa0af1716", 
+    "name": "azure-orangeswirl-facebook", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

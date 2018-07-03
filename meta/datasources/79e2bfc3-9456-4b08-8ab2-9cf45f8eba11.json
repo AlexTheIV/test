@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice 1.8 quantum great 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "79e2bfc3-9456-4b08-8ab2-9cf45f8eba11", 
+    "name": "microsoft-azure-splunk", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

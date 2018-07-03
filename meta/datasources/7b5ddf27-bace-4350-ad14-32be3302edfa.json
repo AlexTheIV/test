@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 quantum ssc 4.2 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7b5ddf27-bace-4350-ad14-32be3302edfa", 
+    "name": "azure-aws-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

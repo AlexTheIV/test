@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny best real-time real-time sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3d33b171-8d76-40ed-80e7-e1f0e27256e7", 
+    "name": "nightlight-facebook-facebook", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time great crypto 4.2 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8bd874e6-fb8d-424e-a39c-2d4ff58dc241", 
+    "name": "cicso-facebook-google", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

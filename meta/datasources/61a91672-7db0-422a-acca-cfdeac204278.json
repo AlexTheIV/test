@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data 42 time quantum 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "61a91672-7db0-422a-acca-cfdeac204278", 
+    "name": "facebook-google-facebook", 
+    "parent": "10712e8a-1b86-476a-a9e7-c74a065adb69", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time 1.8 1.8 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c623945c-f04e-4c8b-9b0c-b252c834dc86", 
+    "name": "facebook-nightlight-aws", 
+    "parent": "3ed27743-ddde-41b7-bd47-16d7f36736ca", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

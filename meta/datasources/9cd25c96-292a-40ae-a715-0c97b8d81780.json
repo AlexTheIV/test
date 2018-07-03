@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 great \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 scale 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9cd25c96-292a-40ae-a715-0c97b8d81780", 
+    "name": "azure-microsoft-google", 
+    "parent": "ec50438a-8c76-4d8e-93a5-19e450e46a75", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

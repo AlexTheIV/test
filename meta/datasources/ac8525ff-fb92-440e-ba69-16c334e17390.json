@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors time time sunny resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ac8525ff-fb92-440e-ba69-16c334e17390", 
+    "name": "nightlight-cicso-nightlight", 
+    "parent": "3ed27743-ddde-41b7-bd47-16d7f36736ca", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

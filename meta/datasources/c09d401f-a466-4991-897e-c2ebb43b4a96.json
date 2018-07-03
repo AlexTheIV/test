@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 crypto resistors resistors runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c09d401f-a466-4991-897e-c2ebb43b4a96", 
+    "name": "google-microsoft-cicso", 
+    "parent": "4390c085-7e7b-467e-99bc-00c9c58304e5", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

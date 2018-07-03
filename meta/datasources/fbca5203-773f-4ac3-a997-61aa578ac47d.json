@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice big-data hybrid real 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fbca5203-773f-4ac3-a997-61aa578ac47d", 
+    "name": "minty-aws-facebook", 
+    "parent": "40aaf477-159e-477f-90c2-c11ff037166c", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

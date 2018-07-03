@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud best runinng crypto 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "21448ba3-ba04-4e5c-9d5d-d4cc46e2fd20", 
+    "name": "orangeswirl-splunk-orangeswirl", 
+    "parent": "9891e732-8e46-4cd4-907f-122b1c8564e6", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

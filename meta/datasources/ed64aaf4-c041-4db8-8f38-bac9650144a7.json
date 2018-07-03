@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng ssc microservice sunny time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ed64aaf4-c041-4db8-8f38-bac9650144a7", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-google-cicso", 
+    "parent": "50e47a56-d2d1-4aeb-811b-eba818e54a2d", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

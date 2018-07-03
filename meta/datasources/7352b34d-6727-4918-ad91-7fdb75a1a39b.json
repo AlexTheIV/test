@@ -6,7 +6,6 @@
     "sourcetypes": [
         "linux_messages_syslog",
         "log4j",
-        "log4k",
-        "log4b"
+        "log4k"
     ]
 }

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time hybrid microservice real real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3009d7a5-1e47-4651-a803-b36678c6b6aa", 
+    "name": "cicso-cicso-nightlight", 
+    "parent": "fc075810-aa53-4a7a-aad1-6f68633c1685", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid resistors 4.2 best runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "556eb9ab-79ed-4bcd-93cd-7f6e27164eae", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-orangeswirl", 
+    "parent": "fd336ed0-cc2d-4415-8084-41c400961fca", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

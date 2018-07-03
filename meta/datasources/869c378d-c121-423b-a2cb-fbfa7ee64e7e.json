@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny hybrid 42 real quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "869c378d-c121-423b-a2cb-fbfa7ee64e7e", 
+    "name": "nightlight-facebook-cicso", 
+    "parent": "50e47a56-d2d1-4aeb-811b-eba818e54a2d", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

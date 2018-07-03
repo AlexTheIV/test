@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud quantum big-data 3.4 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f3a8e678-8dcd-4af8-baf8-3d00b95c1c16", 
+    "name": "splunk-nightlight-splunk", 
+    "parent": "233cd147-fd95-499c-b91c-64ec5f4d7dc6", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

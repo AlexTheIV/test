@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng great hybrid ssc best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3a1f3a03-1d02-4378-ae74-e2718b86172c", 
+    "name": "cicso-facebook-splunk", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

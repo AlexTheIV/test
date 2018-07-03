@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 1.8 resistors runinng real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "bf12cde4-245f-40c3-84c0-789d6efd7c47", 
+    "name": "cicso-nightlight-google", 
+    "parent": "eb8404fc-6da9-4146-8bc7-78ff52048c3a", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 real-time ssc resistors \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "36364db1-a7a7-42fd-a67a-4b800b11f7dd", 
+    "name": "nightlight-azure-facebook", 
+    "parent": "4bb4dbf5-8497-46bd-9b22-c570ba794d87", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

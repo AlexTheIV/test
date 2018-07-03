@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time best 4.2 scale great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1af82009-bea9-48fb-a0bb-a1a55fb4ccfe", 
+    "name": "orangeswirl-orangeswirl-google", 
+    "parent": "4ce65e10-ad36-4383-8fe4-8ab9acb69401", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

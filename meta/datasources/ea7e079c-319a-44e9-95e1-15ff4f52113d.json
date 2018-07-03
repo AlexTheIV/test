@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time ssc sunny great best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ea7e079c-319a-44e9-95e1-15ff4f52113d", 
+    "name": "splunk-orangeswirl-facebook", 
+    "parent": "593213df-2a02-4f52-8ae3-ad86d81cdd54", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 great real real quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "51a27610-a75c-4787-bac1-fb9ab8beb01f", 
+    "name": "minty-azure-splunk", 
+    "parent": "9a8305f2-6795-4ca9-891a-5695edf6bfd5", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

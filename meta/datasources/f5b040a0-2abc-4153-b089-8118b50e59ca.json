@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 ssc microservice resistors scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f5b040a0-2abc-4153-b089-8118b50e59ca", 
+    "name": "minty-orangeswirl-facebook", 
+    "parent": "3ca9cf25-5159-461b-9904-029537e48d57", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

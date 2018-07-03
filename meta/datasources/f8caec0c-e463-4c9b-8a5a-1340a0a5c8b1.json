@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors scale big-data 42 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f8caec0c-e463-4c9b-8a5a-1340a0a5c8b1", 
+    "name": "cicso-google-facebook", 
+    "parent": "9ea65b88-98bb-4194-b939-d3a8be912ef6", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

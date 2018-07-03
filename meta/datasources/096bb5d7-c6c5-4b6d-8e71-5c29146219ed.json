@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 scale great cloud time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "096bb5d7-c6c5-4b6d-8e71-5c29146219ed", 
+    "name": "azure-nightlight-nightlight", 
+    "parent": "69b3909b-6899-4a39-9252-a19caa26745f", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

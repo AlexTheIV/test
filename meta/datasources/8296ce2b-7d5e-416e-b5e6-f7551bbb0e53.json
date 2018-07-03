@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid ssc real-time 42 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8296ce2b-7d5e-416e-b5e6-f7551bbb0e53", 
+    "name": "nightlight-facebook-facebook", 
+    "parent": "2ea87b8c-00eb-432c-983f-0cff305c185f", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

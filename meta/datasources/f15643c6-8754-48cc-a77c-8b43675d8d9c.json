@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 microservice crypto big-data 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f15643c6-8754-48cc-a77c-8b43675d8d9c", 
+    "name": "aws-splunk-aws", 
+    "parent": "c1dafa3e-77c5-4b2d-aa0b-274f51d7c77e", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

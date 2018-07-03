@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real resistors runinng time scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b9f297dc-f075-4be8-a9ac-f797c1e27993", 
+    "name": "nightlight-azure-azure", 
+    "parent": "4234f34f-f0ea-40a5-b611-8ebd6e1c1765", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

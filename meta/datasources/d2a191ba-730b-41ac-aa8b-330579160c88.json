@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data 42 runinng scale resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d2a191ba-730b-41ac-aa8b-330579160c88", 
+    "name": "nightlight-splunk-microsoft", 
+    "parent": "8dcb34ea-e087-4fb2-9717-719a20e2b47a", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

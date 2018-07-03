@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 4.2 4.2 big-data sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "04e8c82d-0ea0-454d-9830-50d674848350", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-splunk", 
+    "parent": "1b6740ce-5bd6-4433-b265-26a0cd96a36a", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

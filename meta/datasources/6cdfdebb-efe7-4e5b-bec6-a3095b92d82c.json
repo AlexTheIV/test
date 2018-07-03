@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time ssc scale resistors real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6cdfdebb-efe7-4e5b-bec6-a3095b92d82c", 
+    "name": "google-cicso-minty", 
+    "parent": "8475c99d-0406-4c9a-aca4-0f16afa56b0f", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

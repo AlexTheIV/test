@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice time scale \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "061bddcb-a88a-4d7a-b1d9-ac6085396607", 
+    "name": "minty-azure-facebook", 
+    "parent": "46dc17d7-2e50-48d1-93ab-95ddf1987c43", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 big-data best 42 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d21e1b81-59f2-4872-8c02-4ba9571f7247", 
+    "name": "google-minty-cicso", 
+    "parent": "6e6c3113-0e60-458f-9559-eced3cca1bb4", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

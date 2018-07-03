@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data best big-data real-time resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7352b34d-6727-4918-ad91-7fdb75a1a39b", 
+    "name": "microsoft-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

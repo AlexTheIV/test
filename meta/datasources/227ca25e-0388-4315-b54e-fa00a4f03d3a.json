@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 cloud cloud crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "227ca25e-0388-4315-b54e-fa00a4f03d3a", 
+    "name": "facebook-aws-splunk", 
+    "parent": "b7c7317c-98a2-478d-81f9-2f6de83425e3", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

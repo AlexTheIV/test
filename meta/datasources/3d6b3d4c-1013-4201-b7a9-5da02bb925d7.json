@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 great great real ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3d6b3d4c-1013-4201-b7a9-5da02bb925d7", 
+    "name": "orangeswirl-google-aws", 
+    "parent": "ba6d78bf-2fde-4afe-a0b9-1abd9eb0e8e0", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

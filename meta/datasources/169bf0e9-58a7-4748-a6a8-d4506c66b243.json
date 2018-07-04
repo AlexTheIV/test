@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors 1.8 big-data crypto ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "169bf0e9-58a7-4748-a6a8-d4506c66b243", 
+    "name": "splunk-aws-orangeswirl", 
+    "parent": "562e005d-2807-4eda-9afc-c7d59244ae7e", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny runinng 42 runinng big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "08a06412-2666-4b1e-ad9f-76a84fd3f889", 
+    "name": "azure-splunk-facebook", 
+    "parent": "bed930b0-1d26-4a2c-a95c-5ac290fd0b7f", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

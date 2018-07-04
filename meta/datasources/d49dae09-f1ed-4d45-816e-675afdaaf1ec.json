@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice quantum real-time crypto real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d49dae09-f1ed-4d45-816e-675afdaaf1ec", 
+    "name": "google-google-minty", 
+    "parent": "fcef5048-6324-4fa6-8dbb-c5ae24d7cbaf", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

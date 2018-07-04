@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 microservice time 42 real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f3d208c5-8d2b-4e6a-aefc-1b6b0b8654fb", 
+    "name": "orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "b33504ab-3ce5-4963-838d-2cde7df47d65", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

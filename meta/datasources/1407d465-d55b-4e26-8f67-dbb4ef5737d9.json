@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto sunny sunny 4.2 time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1407d465-d55b-4e26-8f67-dbb4ef5737d9", 
+    "name": "cicso-facebook-splunk", 
+    "parent": "c4150fe4-e294-4c58-8b3f-88d048210804", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

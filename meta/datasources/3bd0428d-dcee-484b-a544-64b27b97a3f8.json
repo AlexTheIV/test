@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum runinng microservice real big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3bd0428d-dcee-484b-a544-64b27b97a3f8", 
+    "name": "cicso-aws-cicso", 
+    "parent": "cbd54aa3-843a-4d66-98d5-04fb9cbcd30e", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

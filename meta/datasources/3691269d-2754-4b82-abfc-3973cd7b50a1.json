@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc real time ssc cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3691269d-2754-4b82-abfc-3973cd7b50a1", 
+    "name": "splunk-cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "1baec45a-7534-4cb7-9604-3084145d1a61", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

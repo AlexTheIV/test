@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 crypto real-time 4.2 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "86f97b21-6d66-4c33-a8c0-2202783d6d57", 
+    "name": "google-aws-minty", 
+    "parent": "754115a4-7e1e-4d7e-ab65-7ba038fb888b", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best sunny 3.4 sunny resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1dfb4d4d-efa1-4eab-818a-2bb44e2753ca", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "6d9d4875-d7a8-46cc-b3b8-f1cccb84359f", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

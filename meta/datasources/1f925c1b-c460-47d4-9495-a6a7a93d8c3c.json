@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 4.2 cloud resistors ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1f925c1b-c460-47d4-9495-a6a7a93d8c3c", 
+    "name": "facebook-facebook-nightlight", 
+    "parent": "c627c6df-0d62-4a2a-985e-6272d0456e4c", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

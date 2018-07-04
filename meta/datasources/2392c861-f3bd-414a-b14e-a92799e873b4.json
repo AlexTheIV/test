@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 resistors 42 great \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2392c861-f3bd-414a-b14e-a92799e873b4", 
+    "name": "minty-google-splunk", 
+    "parent": "4257e4ed-2a60-4329-8922-d411bd041efb", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

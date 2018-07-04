@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng scale runinng hybrid 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "81ea41f3-035b-4714-904a-3aeb24ec4d35", 
+    "name": "orangeswirl-cicso-minty", 
+    "parent": "4360a999-0ba0-4334-b5b2-ebbf5e71e2bd", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

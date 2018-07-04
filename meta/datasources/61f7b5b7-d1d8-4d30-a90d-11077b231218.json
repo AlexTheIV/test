@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc 42 real microservice sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "61f7b5b7-d1d8-4d30-a90d-11077b231218", 
+    "name": "cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty", 
+    "parent": "6d86ee3d-3eff-484e-a962-be3f3ed42506", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

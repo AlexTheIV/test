@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors ssc resistors scale 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "da8e30d2-fe98-44f1-8ddc-55709f489c95", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso-orangeswirl", 
+    "parent": "cab09bee-3f04-442f-afdc-1634b16a7dfd", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

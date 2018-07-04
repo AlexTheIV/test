@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 42 3.4 ssc time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ffefbde0-417a-4fab-bf2d-8f6469112766", 
+    "name": "aws-cicso-nightlight", 
+    "parent": "671a4e41-47bb-46c6-80f2-16797a20985e", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

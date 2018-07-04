@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto hybrid quantum real-time 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "458c3940-bdcf-40d6-8d1c-0156d489c199", 
+    "name": "orangeswirl-orangeswirl-minty", 
+    "parent": "0eea47bc-0b52-4f47-abc7-c4973388d525", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

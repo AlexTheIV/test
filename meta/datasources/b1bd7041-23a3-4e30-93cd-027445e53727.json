@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 quantum 42 crypto scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b1bd7041-23a3-4e30-93cd-027445e53727", 
+    "name": "facebook-orangeswirl-nightlight", 
+    "parent": "671a4e41-47bb-46c6-80f2-16797a20985e", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

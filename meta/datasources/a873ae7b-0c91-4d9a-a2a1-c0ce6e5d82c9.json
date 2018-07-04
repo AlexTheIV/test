@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 1.8 real cloud 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a873ae7b-0c91-4d9a-a2a1-c0ce6e5d82c9", 
+    "name": "azure-azure-facebook", 
+    "parent": "71f9d6a5-6e02-49d8-8d2e-fd33747194a4", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

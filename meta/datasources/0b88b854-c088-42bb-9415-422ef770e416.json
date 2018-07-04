@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 microservice time microservice 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0b88b854-c088-42bb-9415-422ef770e416", 
+    "name": "microsoft-splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "b71f3af8-8dc2-4c79-89d7-4e930b0c8efa", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

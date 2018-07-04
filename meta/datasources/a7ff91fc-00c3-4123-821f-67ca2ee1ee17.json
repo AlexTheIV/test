@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice big-data time 42 great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a7ff91fc-00c3-4123-821f-67ca2ee1ee17", 
+    "name": "facebook-aws-splunk", 
+    "parent": "4686a984-989d-40e3-83f1-c7a3a2500a15", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

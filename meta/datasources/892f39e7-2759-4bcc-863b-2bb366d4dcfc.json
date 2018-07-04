@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 4.2 great sunny runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "892f39e7-2759-4bcc-863b-2bb366d4dcfc", 
+    "name": "cicso-facebook-nightlight", 
+    "parent": "c9f2ee73-b4ad-4e4b-bc91-a11003c0cebb", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

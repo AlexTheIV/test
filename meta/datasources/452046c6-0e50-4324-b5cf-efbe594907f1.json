@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time 3.4 hybrid hybrid 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "452046c6-0e50-4324-b5cf-efbe594907f1", 
+    "name": "google-microsoft-google", 
+    "parent": "cab09bee-3f04-442f-afdc-1634b16a7dfd", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

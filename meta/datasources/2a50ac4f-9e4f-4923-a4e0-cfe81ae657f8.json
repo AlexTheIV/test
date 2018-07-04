@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc time 3.4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2a50ac4f-9e4f-4923-a4e0-cfe81ae657f8", 
+    "name": "splunk-cicso-microsoft", 
+    "parent": "5187db72-829f-4c81-a73b-4b5c21c4b562", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

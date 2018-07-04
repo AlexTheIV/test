@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud hybrid quantum sunny real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b6011d8a-b3c0-479a-80af-55ffdb2439ba", 
+    "name": "google-cicso-microsoft", 
+    "parent": "4257e4ed-2a60-4329-8922-d411bd041efb", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

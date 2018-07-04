@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng 3.4 cloud great ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "267bd45c-5c6f-4cc7-b74e-86de4de20c13", 
+    "name": "nightlight-google-azure", 
+    "parent": "c627c6df-0d62-4a2a-985e-6272d0456e4c", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

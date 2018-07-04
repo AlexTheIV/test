@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data real cloud 3.4 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ea70987f-a923-4323-92b7-fbe0e5453749", 
+    "name": "microsoft-cicso-minty", 
+    "parent": "27256a69-b47d-4f8d-81ff-3b79fbcb9d15", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

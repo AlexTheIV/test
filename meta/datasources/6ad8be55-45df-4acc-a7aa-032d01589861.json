@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng best best runinng scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6ad8be55-45df-4acc-a7aa-032d01589861", 
+    "name": "aws-facebook-aws", 
+    "parent": "e69601ea-5a4f-4377-8bf3-3237568cf4d1", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

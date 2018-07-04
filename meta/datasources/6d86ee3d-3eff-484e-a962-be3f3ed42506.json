@@ -1,0 +1,7 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 3.4 quantum time sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6d86ee3d-3eff-484e-a962-be3f3ed42506", 
+    "name": "splunk-microsoft-orangeswirl", 
+    "parent": "6da21253-fa72-46fb-a1c6-3997c9804c4e"
+}

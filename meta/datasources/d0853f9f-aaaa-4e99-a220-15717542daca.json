@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 runinng 42 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d0853f9f-aaaa-4e99-a220-15717542daca", 
+    "name": "orangeswirl-minty-google", 
+    "parent": "74ff3f6a-e394-47a9-9067-291ab832e68f", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

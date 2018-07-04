@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great runinng real runinng 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a8dea40e-5f83-4a98-8fcb-a9dd64b2bdcb", 
+    "name": "nightlight-orangeswirl-facebook", 
+    "parent": "63652cde-ff34-4017-b8c6-63b3ac6ea818", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

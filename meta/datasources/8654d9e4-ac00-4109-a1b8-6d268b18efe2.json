@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real best runinng real-time quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8654d9e4-ac00-4109-a1b8-6d268b18efe2", 
+    "name": "cicso-cicso-microsoft", 
+    "parent": "63652cde-ff34-4017-b8c6-63b3ac6ea818", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

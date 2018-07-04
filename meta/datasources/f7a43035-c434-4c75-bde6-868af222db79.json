@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny ssc 3.4 sunny time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f7a43035-c434-4c75-bde6-868af222db79", 
+    "name": "orangeswirl-azure-cicso", 
+    "parent": "c4150fe4-e294-4c58-8b3f-88d048210804", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

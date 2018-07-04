@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great 1.8 quantum crypto quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "24363dea-467b-4d1a-85c2-c3d18dcbb87b", 
+    "name": "google-splunk-minty", 
+    "parent": "a6303df0-c17f-4aa6-b76a-7ae23628ee35", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

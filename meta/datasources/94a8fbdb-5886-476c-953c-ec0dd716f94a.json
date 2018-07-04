@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid scale scale best 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "94a8fbdb-5886-476c-953c-ec0dd716f94a", 
+    "name": "google-minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "754115a4-7e1e-4d7e-ab65-7ba038fb888b", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

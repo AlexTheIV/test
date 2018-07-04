@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc crypto big-data 4.2 hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f2b664f2-c65e-47b7-9969-fddc164c9a89", 
+    "name": "minty-aws-splunk", 
+    "parent": "d9f50a98-7838-4cce-a0d8-bf1c8927826a", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

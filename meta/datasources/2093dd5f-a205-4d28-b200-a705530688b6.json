@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 real-time best resistors 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2093dd5f-a205-4d28-b200-a705530688b6", 
+    "name": "aws-cicso-nightlight", 
+    "parent": "cab09bee-3f04-442f-afdc-1634b16a7dfd", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

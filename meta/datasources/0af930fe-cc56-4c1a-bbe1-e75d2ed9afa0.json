@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 scale runinng great runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0af930fe-cc56-4c1a-bbe1-e75d2ed9afa0", 
+    "name": "aws-azure-splunk", 
+    "parent": "0600afb8-1403-4ffc-9dbb-a047f039ee4a", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

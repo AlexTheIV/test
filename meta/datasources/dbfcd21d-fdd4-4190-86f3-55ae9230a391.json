@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 sunny 1.8 resistors crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dbfcd21d-fdd4-4190-86f3-55ae9230a391", 
+    "name": "aws-microsoft-microsoft", 
+    "parent": "cff4d5f2-0c2f-4d7a-96db-b591e649153f", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

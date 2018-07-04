@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 4.2 3.4 4.2 time", 
-    "icon": "icons/icon_datasource.png", 
-    "id": "7f608ddd-0cae-46e7-94fc-9c6dcf0e1822", 
-    "name": "splunk-orangeswirl-aws", 
-    "parent": "0349d34b-2242-4b7c-9f5c-f025336ba207"
-}

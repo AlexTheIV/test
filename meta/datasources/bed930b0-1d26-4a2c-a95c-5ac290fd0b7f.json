@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 time quantum ssc", 
-    "icon": "icons/icon_datasource.png", 
-    "id": "bed930b0-1d26-4a2c-a95c-5ac290fd0b7f", 
-    "name": "splunk-azure-google", 
-    "parent": "8f91b3d0-812a-4153-a5c0-70ad816007bf"
-}

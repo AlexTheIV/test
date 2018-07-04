@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data crypto time \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dc9bb976-b666-44e8-914b-ae6d1df5d309", 
+    "name": "facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "26db7544-9ecf-494c-a94f-f15d48ba8e4a", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

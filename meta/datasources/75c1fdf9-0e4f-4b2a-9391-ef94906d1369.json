@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny runinng hybrid time real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "75c1fdf9-0e4f-4b2a-9391-ef94906d1369", 
+    "name": "cicso-azure-azure", 
+    "parent": "6d86ee3d-3eff-484e-a962-be3f3ed42506", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

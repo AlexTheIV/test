@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real great crypto cloud real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6ca82bbf-413b-4093-90d6-b9040502889c", 
+    "name": "facebook-google-facebook", 
+    "parent": "0c60cf25-2cce-46f7-b7d1-057c9f3bd13d", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

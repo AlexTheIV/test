@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. big-data resistors crypto runinng scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1853a62e-c6c7-4205-8719-0a4e52498ca8", 
+    "name": "microsoft-cicso-splunk", 
+    "parent": "63652cde-ff34-4017-b8c6-63b3ac6ea818", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

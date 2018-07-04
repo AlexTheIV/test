@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 resistors runinng microservice 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8103d2e7-70b5-4519-bfc6-e233d89a45d8", 
+    "name": "aws-cicso-orangeswirl", 
+    "parent": "d9f50a98-7838-4cce-a0d8-bf1c8927826a", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

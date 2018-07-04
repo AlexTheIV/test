@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto real quantum scale 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ca855bed-13fa-4fbd-9b31-246ab91098e5", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso", 
+    "parent": "39ddf88a-b21b-4272-a28d-b62f075427ea", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

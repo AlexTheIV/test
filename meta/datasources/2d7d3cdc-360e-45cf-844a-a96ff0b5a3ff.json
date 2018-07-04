@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time sunny great resistors resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2d7d3cdc-360e-45cf-844a-a96ff0b5a3ff", 
+    "name": "google-minty-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "d1397f27-05c5-4823-9d7d-8b270bdd09b0", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

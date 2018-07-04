@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice runinng 42 cloud scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "36f9919f-0f00-48aa-a5fa-41f237c1aeb9", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-orangeswirl-minty", 
+    "parent": "e840e836-664b-4d54-a92c-cfa70b19368c", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

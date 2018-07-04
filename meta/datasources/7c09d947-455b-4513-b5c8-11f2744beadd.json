@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real 42 scale 4.2 scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7c09d947-455b-4513-b5c8-11f2744beadd", 
+    "name": "nightlight-minty-cicso", 
+    "parent": "bed930b0-1d26-4a2c-a95c-5ac290fd0b7f", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

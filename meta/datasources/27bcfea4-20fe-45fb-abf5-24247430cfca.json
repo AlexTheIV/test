@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice cloud great ssc great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "27bcfea4-20fe-45fb-abf5-24247430cfca", 
+    "name": "facebook-splunk-splunk", 
+    "parent": "8a7dab25-8e96-444d-ba92-c1776c6e2087", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

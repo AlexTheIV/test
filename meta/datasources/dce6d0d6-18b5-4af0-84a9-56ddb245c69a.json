@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time sunny 1.8 4.2 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "dce6d0d6-18b5-4af0-84a9-56ddb245c69a", 
+    "name": "cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure", 
+    "parent": "e69601ea-5a4f-4377-8bf3-3237568cf4d1", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

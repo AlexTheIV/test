@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best 1.8 microservice runinng quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4fe556c2-f99d-4577-9209-05ccef7b2046", 
+    "name": "orangeswirl-azure-facebook", 
+    "parent": "9e53ff1e-299c-446b-a4e2-47db3646423d", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

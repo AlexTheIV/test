@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time ssc \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 best ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c7c67bdb-cfb9-4d3e-bc0f-20cc6efb6951", 
+    "name": "aws-azure-microsoft", 
+    "parent": "c6983894-7369-4b02-ac86-7b09fd463752", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

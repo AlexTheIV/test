@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum time 4.2 great 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e1e9fc5c-f786-4ac2-9fb1-8e5aeac2d6f9", 
+    "name": "minty-nightlight-aws", 
+    "parent": "754115a4-7e1e-4d7e-ab65-7ba038fb888b", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

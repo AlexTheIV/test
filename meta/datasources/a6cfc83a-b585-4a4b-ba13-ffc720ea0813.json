@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 3.4 crypto quantum real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a6cfc83a-b585-4a4b-ba13-ffc720ea0813", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty-azure", 
+    "parent": "ffaea7c5-7b29-45b7-9b73-e9ba618f47c1", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum sunny runinng real resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ea46bb92-e879-4526-ae94-5b18bec9b786", 
+    "name": "microsoft-splunk-splunk", 
+    "parent": "71f9d6a5-6e02-49d8-8d2e-fd33747194a4", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

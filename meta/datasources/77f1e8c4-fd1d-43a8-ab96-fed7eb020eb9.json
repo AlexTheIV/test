@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best scale runinng \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "77f1e8c4-fd1d-43a8-ab96-fed7eb020eb9", 
+    "name": "google-nightlight-aws", 
+    "parent": "eb378b95-1d1f-444f-896f-a8fae194ec27", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

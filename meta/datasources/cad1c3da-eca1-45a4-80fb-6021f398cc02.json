@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time cloud quantum great hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cad1c3da-eca1-45a4-80fb-6021f398cc02", 
+    "name": "facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso", 
+    "parent": "db9ffb63-cc29-4bd7-8d82-d2486fea93c0", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

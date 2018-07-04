@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc runinng time sunny great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d505a15b-edf4-41b6-b17e-b17331a0517d", 
+    "name": "aws-cicso-aws", 
+    "parent": "0eea47bc-0b52-4f47-abc7-c4973388d525", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time 3.4 time quantum great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8173d6c3-df64-4c3c-b994-f970fa444542", 
+    "name": "cicso-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-cicso", 
+    "parent": "c6cb43b1-e26c-4e87-b9f7-e9f21d87c633", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc hybrid ssc ssc cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "47b243db-cbe4-470e-b571-c5230134178a", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-nightlight-splunk", 
+    "parent": "9373e071-3d4e-4011-bc33-5d27c58d4dab", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

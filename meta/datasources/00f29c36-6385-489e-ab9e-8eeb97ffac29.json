@@ -5,6 +5,7 @@
     "name": "minty-microsoft-orangeswirl", 
     "parent": "562e005d-2807-4eda-9afc-c7d59244ae7e", 
     "sourcetypes": [
-        "access_combined"
+        "access_combined",
+        "log4j"
     ]
 }

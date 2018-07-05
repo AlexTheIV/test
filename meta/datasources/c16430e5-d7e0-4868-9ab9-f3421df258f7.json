@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice crypto hybrid scale 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c16430e5-d7e0-4868-9ab9-f3421df258f7", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-azure-microsoft", 
+    "parent": "a0ea50b2-d0cb-4856-bb23-b9d7cdc90416", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

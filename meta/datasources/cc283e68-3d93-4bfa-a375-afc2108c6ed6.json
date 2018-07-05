@@ -1,0 +1,9 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best big-data sunny runinng 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cc283e68-3d93-4bfa-a375-afc2108c6ed6", 
+    "name": "google-minty-microsoft", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

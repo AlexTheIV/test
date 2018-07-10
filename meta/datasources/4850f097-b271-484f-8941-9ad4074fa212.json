@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best sunny hybrid 4.2 resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4850f097-b271-484f-8941-9ad4074fa212", 
+    "name": "orangeswirl-orangeswirl-microsoft", 
+    "parent": "4e9b12a6-afd2-447e-b31c-f7217eafaeba", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

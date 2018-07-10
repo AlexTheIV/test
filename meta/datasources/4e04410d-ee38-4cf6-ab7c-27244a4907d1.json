@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real resistors best real-time great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4e04410d-ee38-4cf6-ab7c-27244a4907d1", 
+    "name": "facebook-aws-aws", 
+    "parent": "f57340c8-8f7a-43ab-9336-0714b683baaa", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

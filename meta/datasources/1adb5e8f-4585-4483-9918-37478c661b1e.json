@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 sunny real-time real sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1adb5e8f-4585-4483-9918-37478c661b1e", 
+    "name": "splunk-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-microsoft", 
+    "parent": "f57340c8-8f7a-43ab-9336-0714b683baaa", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

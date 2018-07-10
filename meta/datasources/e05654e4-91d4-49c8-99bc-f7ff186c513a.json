@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc sunny 42 3.4 microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e05654e4-91d4-49c8-99bc-f7ff186c513a", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-aws-azure", 
+    "parent": "9eb11fd5-e0a0-4ba7-91b4-9e37e4b80150", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

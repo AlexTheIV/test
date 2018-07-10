@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid 4.2 great cloud great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "77430584-2d71-404a-89c1-90315685f6ea", 
+    "name": "orangeswirl-facebook-aws", 
+    "parent": "26370d3d-468f-404e-a0c4-2457bdd046ac", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

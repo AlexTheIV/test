@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time runinng resistors 42 big-data", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2e2a9f03-66c5-4abb-b28d-f009862f6818", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty-facebook", 
+    "parent": "c66b15ce-8924-40f2-a5fb-39508453b0fc", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

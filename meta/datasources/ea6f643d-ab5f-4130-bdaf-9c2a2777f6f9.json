@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time great resistors ssc ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ea6f643d-ab5f-4130-bdaf-9c2a2777f6f9", 
+    "name": "nightlight-google-facebook", 
+    "parent": "9c0d3791-6297-4d0e-95ef-812ae0ec284e", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

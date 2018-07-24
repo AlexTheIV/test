@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best real 42 resistors 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "6eefcad8-06c0-4448-a682-ce72596c031b", 
+    "name": "cicso-orangeswirl-nightlight", 
+    "parent": "a0cefb98-ac7a-4e2c-8128-3da139452f14", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

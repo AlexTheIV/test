@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc scale scale cloud cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d171244f-8ac4-41b6-b266-9416e96206fd", 
+    "name": "aws-azure-cicso", 
+    "parent": "bc4d434c-9184-4aea-8ae4-6182e1fdf43a", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

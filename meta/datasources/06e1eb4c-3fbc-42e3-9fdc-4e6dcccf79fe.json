@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 cloud great hybrid crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "06e1eb4c-3fbc-42e3-9fdc-4e6dcccf79fe", 
+    "name": "microsoft-google-cicso", 
+    "parent": "1413b5fb-4c54-4a3d-8b05-3b9cc56fc594", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

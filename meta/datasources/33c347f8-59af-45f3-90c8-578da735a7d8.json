@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 42 big-data hybrid scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "33c347f8-59af-45f3-90c8-578da735a7d8", 
+    "name": "splunk-aws-azure", 
+    "parent": "a3ccae23-7265-4128-b062-4f44e5a3feb6", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

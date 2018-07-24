@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time cloud \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 time hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f78a891f-c420-44e6-8e3f-0d604a6c6e5e", 
+    "name": "nightlight-orangeswirl-aws", 
+    "parent": "2d8607bb-3796-4c80-8ecc-08ebf450bd94", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

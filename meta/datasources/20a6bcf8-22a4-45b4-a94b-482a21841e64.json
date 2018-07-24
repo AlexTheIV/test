@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time cloud real real-time 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "20a6bcf8-22a4-45b4-a94b-482a21841e64", 
+    "name": "orangeswirl-microsoft-minty", 
+    "parent": "0c7b6211-74e2-4ee3-b8f4-150225d2cb02", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

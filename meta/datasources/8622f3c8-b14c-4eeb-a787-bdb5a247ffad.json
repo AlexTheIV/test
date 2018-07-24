@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 3.4 3.4 3.4 microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8622f3c8-b14c-4eeb-a787-bdb5a247ffad", 
+    "name": "aws-microsoft-nightlight", 
+    "parent": "2d8607bb-3796-4c80-8ecc-08ebf450bd94", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

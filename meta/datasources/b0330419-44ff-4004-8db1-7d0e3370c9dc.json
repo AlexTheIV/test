@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best resistors best cloud \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b0330419-44ff-4004-8db1-7d0e3370c9dc", 
+    "name": "google-facebook-cicso", 
+    "parent": "3d85d473-66a9-4390-9dc6-e4f02f2f411c", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

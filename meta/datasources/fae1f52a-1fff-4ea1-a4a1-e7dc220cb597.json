@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. runinng great runinng hybrid great", 
-    "icon": "icons/icon_datasource.png", 
-    "id": "fae1f52a-1fff-4ea1-a4a1-e7dc220cb597", 
-    "name": "splunk-aws-aws", 
-    "parent": "dc7e6553-20a7-4436-822c-41b5c900dee9"
-}

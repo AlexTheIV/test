@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny quantum best real 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "9f31dd7e-b3b2-4327-808c-9e03e8187fb4", 
+    "name": "cicso-orangeswirl-facebook", 
+    "parent": "20b7486d-e82d-4c1a-af6b-6b0787e5cfdf", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

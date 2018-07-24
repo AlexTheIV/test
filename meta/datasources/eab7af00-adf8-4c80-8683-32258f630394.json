@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc resistors 1.8 hybrid 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "eab7af00-adf8-4c80-8683-32258f630394", 
+    "name": "aws-nightlight-nightlight", 
+    "parent": "e8842909-27f4-478c-88b9-3a0da27d4809", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

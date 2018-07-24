@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum cloud 3.4 big-data \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "3f60254c-6be4-415b-b3c8-a0ffba94dd60", 
+    "name": "cicso-azure-minty", 
+    "parent": "e7f5acd2-0859-44a7-a8c0-c31c519b33ac", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 hybrid resistors time sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c0e86a12-7ae2-407f-a8fa-a73340af335e", 
+    "name": "azure-minty-azure", 
+    "parent": "20bd94da-914f-477f-8f32-3468e37c1aa2", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

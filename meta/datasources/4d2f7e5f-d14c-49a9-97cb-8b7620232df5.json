@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud 4.2 crypto 3.4 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4d2f7e5f-d14c-49a9-97cb-8b7620232df5", 
+    "name": "nightlight-facebook-microsoft", 
+    "parent": "a5ffad46-7e86-450f-be36-fc92d648e048", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

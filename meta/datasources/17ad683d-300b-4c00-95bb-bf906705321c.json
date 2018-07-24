@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors real scale great crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "17ad683d-300b-4c00-95bb-bf906705321c", 
+    "name": "minty-splunk-orangeswirl", 
+    "parent": "03db01ec-4e31-40df-be31-6f1c0de67932", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

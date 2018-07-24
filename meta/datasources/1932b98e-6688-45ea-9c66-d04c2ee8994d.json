@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 real-time sunny 3.4 cloud", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "1932b98e-6688-45ea-9c66-d04c2ee8994d", 
+    "name": "cicso-minty-orangeswirl", 
+    "parent": "a3ccae23-7265-4128-b062-4f44e5a3feb6", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

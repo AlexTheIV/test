@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 big-data 4.2 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8188f23e-ed6c-4c84-9119-0db59325c46e", 
+    "name": "nightlight-azure-facebook", 
+    "parent": "a0cefb98-ac7a-4e2c-8128-3da139452f14", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

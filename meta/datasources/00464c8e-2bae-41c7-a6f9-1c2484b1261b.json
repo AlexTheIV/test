@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud real-time big-data \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "00464c8e-2bae-41c7-a6f9-1c2484b1261b", 
+    "name": "cicso-cicso-nightlight", 
+    "parent": "cdff835d-404b-4f5b-849f-8eebc1e450b7", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

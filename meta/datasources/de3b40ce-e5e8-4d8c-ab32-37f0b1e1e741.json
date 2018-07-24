@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best best time scale real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "de3b40ce-e5e8-4d8c-ab32-37f0b1e1e741", 
+    "name": "azure-facebook-minty", 
+    "parent": "27b0e7a0-27ef-403b-90a1-e25581a91b48", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

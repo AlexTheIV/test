@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 runinng resistors 4.2 hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "42437c1b-8b04-4cf8-a2bc-4f00d7ecb937", 
+    "name": "orangeswirl-minty-nightlight", 
+    "parent": "822fc8d3-2950-4c6b-a042-e8ad8105ef4b", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

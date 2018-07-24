@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 resistors 3.4 crypto cloud", 
-    "icon": "icons/icon_datasource.png", 
-    "id": "9eb11fd5-e0a0-4ba7-91b4-9e37e4b80150", 
-    "name": "aws-google-azure", 
-    "parent": "6b0405d0-5088-4fc4-984c-6d33eab4d245"
-}

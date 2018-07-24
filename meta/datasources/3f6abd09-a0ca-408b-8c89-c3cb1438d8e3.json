@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great 3.4 quantum runinng 42", 
-    "icon": "icons/icon_datasource.png", 
-    "id": "3f6abd09-a0ca-408b-8c89-c3cb1438d8e3", 
-    "name": "splunk-google-google", 
-    "parent": "b9097f0d-6d26-47e8-a557-209ae2289b80"
-}

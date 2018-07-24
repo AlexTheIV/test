@@ -1,7 +1,0 @@
-{
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 3.4 scale 42 microservice", 
-    "icon": "icons/icon_datasource.png", 
-    "id": "9c0d3791-6297-4d0e-95ef-812ae0ec284e", 
-    "name": "aws-google-splunk", 
-    "parent": "6b0405d0-5088-4fc4-984c-6d33eab4d245"
-}

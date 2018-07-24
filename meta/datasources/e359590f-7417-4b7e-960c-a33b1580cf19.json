@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 resistors big-data real scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "e359590f-7417-4b7e-960c-a33b1580cf19", 
+    "name": "nightlight-nightlight-splunk", 
+    "parent": "a638ac6e-3371-4a65-a386-f227cde69721", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 3.4 time 4.2 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b1218fb0-ddb2-447e-af3a-b7f4415e1d77", 
+    "name": "google-google-cicso", 
+    "parent": "c10ce161-85f9-4bb5-96b6-706c3812a616", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

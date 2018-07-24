@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid time ssc real best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "828b5981-2d60-4d70-bd52-8d11e8c7c489", 
+    "name": "orangeswirl-nightlight-aws", 
+    "parent": "3e87c428-2336-4275-b83f-8efcab02d872", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

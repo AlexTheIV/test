@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 ssc 3.4 quantum real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4d7c6c4f-faaf-43fc-a22f-f0a7ea6dc6ba", 
+    "name": "minty-microsoft-azure", 
+    "parent": "3b9d9a8b-570a-400a-986c-4bc22d571f37", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

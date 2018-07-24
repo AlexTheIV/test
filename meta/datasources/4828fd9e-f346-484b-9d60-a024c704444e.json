@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 3.4 great real sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4828fd9e-f346-484b-9d60-a024c704444e", 
+    "name": "nightlight-nightlight-cicso", 
+    "parent": "e98833ad-b68a-48fd-9f54-620def89401e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny time best hybrid time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "2a6db008-f6c3-4460-ac3b-2b8f94cb6907", 
+    "name": "nightlight-cicso-splunk", 
+    "parent": "e8db8367-025f-4cd3-8c96-ee4e3a86f333", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

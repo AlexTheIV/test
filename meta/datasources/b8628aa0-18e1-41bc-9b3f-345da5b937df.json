@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. sunny 1.8 4.2 microservice great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b8628aa0-18e1-41bc-9b3f-345da5b937df", 
+    "name": "google-aws-minty", 
+    "parent": "a638ac6e-3371-4a65-a386-f227cde69721", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

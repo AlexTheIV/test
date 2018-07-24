@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real crypto cloud best quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "05ef54b8-a146-43da-9d25-2d0089771242", 
+    "name": "orangeswirl-orangeswirl-nightlight", 
+    "parent": "767ef640-0c89-4e78-a9a1-2c8fc99b5a13", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

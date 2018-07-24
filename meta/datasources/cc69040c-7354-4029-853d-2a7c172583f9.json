@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best real real 42 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "cc69040c-7354-4029-853d-2a7c172583f9", 
+    "name": "cicso-minty-google", 
+    "parent": "e19afae0-763e-48f9-ae42-053626cd4914", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

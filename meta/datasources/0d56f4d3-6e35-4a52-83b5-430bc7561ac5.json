@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real best scale 42 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0d56f4d3-6e35-4a52-83b5-430bc7561ac5", 
+    "name": "orangeswirl-cicso-minty", 
+    "parent": "e2114c3b-0900-4f84-a354-4dea97b91c03", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

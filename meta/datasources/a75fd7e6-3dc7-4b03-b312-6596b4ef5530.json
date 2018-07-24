@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best ssc resistors cloud sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "a75fd7e6-3dc7-4b03-b312-6596b4ef5530", 
+    "name": "splunk-splunk-aws", 
+    "parent": "f77ab5ba-487b-4023-be85-14f006204334", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

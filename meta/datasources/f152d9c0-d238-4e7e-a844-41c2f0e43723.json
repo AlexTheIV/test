@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time scale resistors time 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f152d9c0-d238-4e7e-a844-41c2f0e43723", 
+    "name": "facebook-orangeswirl-azure", 
+    "parent": "d540ca4b-1619-40ea-886f-8129fee005e4", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

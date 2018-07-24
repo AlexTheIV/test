@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. resistors microservice great runinng time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d64d43fa-b26f-46a6-ac8a-2ede312c9722", 
+    "name": "nightlight-microsoft-aws", 
+    "parent": "8e683485-e982-4c82-a8a1-0df951c9259c", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

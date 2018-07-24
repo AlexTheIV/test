@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great runinng ssc real time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "7fb85529-98c8-4f28-a5b6-7912ed5762d4", 
+    "name": "google-facebook-aws", 
+    "parent": "f77ab5ba-487b-4023-be85-14f006204334", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

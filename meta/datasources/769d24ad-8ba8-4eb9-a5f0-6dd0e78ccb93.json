@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 3.4 crypto time best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "769d24ad-8ba8-4eb9-a5f0-6dd0e78ccb93", 
+    "name": "cicso-aws-microsoft", 
+    "parent": "65ff7d7a-de6c-41b5-a5df-4110358c22b8", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

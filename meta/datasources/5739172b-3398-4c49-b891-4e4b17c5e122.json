@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto 1.8 best time sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "5739172b-3398-4c49-b891-4e4b17c5e122", 
+    "name": "minty-orangeswirl-facebook", 
+    "parent": "c10ce161-85f9-4bb5-96b6-706c3812a616", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

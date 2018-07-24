@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 42 1.8 42 quantum runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "85303f2d-4c43-45e0-83a4-a85c16fdbce8", 
+    "name": "splunk-microsoft-azure", 
+    "parent": "3a4b5744-b4af-485d-9860-f0a2d1e6918c", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

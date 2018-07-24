@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice sunny great crypto 42", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "ec81b605-bd11-4a3e-b0a9-5a28abb5d2c0", 
+    "name": "orangeswirl-splunk-nightlight", 
+    "parent": "3a4b5744-b4af-485d-9860-f0a2d1e6918c", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

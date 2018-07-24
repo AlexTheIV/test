@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. great great cloud resistors 3.4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fb94ac49-ad8a-4abd-bba7-b5a68c3fdf66", 
+    "name": "nightlight-facebook-cicso", 
+    "parent": "dfe80d4d-5b68-4fbe-b7fe-e0894b8f36ac", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

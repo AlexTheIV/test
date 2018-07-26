@@ -1,0 +1,94 @@
+{
+  "instruction": {
+    "overview": {
+      "deployment": [
+        {
+          "topology": "SingleInstance",
+          "desc": "A single instance Splunk Enterprise deployment that combines indexing and search management functions.",
+          "name": "Single instance"
+        },
+        {
+          "topology":"Distributed",
+          "desc": "A distributed Splunk Enterprise deployment that separates indexing and search management into separate nodes..",
+          "name": "Distributed"
+        },
+        {
+          "topology": "Cloud",
+          "desc": "A cloud-based Splunk software service that performs all indexing and search management functions.",
+          "name": "Splunk Cloud"
+        }
+      ],
+      "config": [
+        {
+          "#document_ref": "singleInstance",
+          "topologies": [
+            "SingleInstance"
+          ]
+        },
+        {
+          "#document_ref": "distributed",
+          "topologies": [
+            "Distributed"
+          ]
+        },
+        {
+          "#document_ref": "cloud",
+          "topologies": [
+            "Cloud"
+          ]
+        }
+      ],
+      "document_ref": {
+        "cloud": {
+          "_name": "Splunk Cloud Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.Paloaltonetworks.syslog.cloud.managednocluster",
+          "diagram": "images/pan_cloud.png",
+          "steps": [
+            "Install syslog-ng",
+            "Configure logging format for data to be received from Palo Alto Networks Appliance",
+            "Configure Palo Alto Networks Appliance logging, and output to syslog-ng",
+            "Install Splunk Universal Forwarder on the same host as syslog-ng",
+            "Configure forwarder to monitor syslog-ng logs, and forward data to Splunk",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for Palo Alto Networks"
+          ]
+        },
+        "singleInstance": {
+          "_name": "Splunk Single Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.Paloaltonetworks.syslog.single.singleinstance",
+          "diagram": "images/pan_single_instance.png",
+          "steps": [
+            "Install syslog-ng",
+            "Configure logging format for data to be received from Palo Alto Networks Appliance",
+            "Configure Palo Alto Networks Appliance logging, and output to syslog-ng",
+            "Install Splunk Universal Forwarder on the same host as syslog-ng",
+            "Configure forwarder to monitor syslog-ng logs, and forward data to Splunk",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for Palo Alto Networks"
+          ]
+        },
+        "distributed": {
+          "_name": "Splunk Distributed Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.Paloaltonetworks.syslog.distributed.IDXConly",
+          "diagram": "images/pan_distributed.png",
+          "steps": [
+            "Install syslog-ng",
+            "Configure logging format for data to be received from Palo Alto Networks Appliance",
+            "Configure Palo Alto Networks Appliance logging, and output to syslog-ng",
+            "Install Splunk Universal Forwarder on the same host as syslog-ng",
+            "Configure forwarder to monitor syslog-ng logs, and forward data to Splunk",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for Palo Alto Networks"
+          ]
+        }
+      }
+    }
+  },
+  "id": "d82ee69f-8b28-4065-a1ac-a7cf2e1990bd",
+  "name": "Forward data from syslog-ng",
+  "bestPractice": "Recommended for all deployment sizes",
+  "dataSources": [
+    "2a36c2a0-40d2-4088-8ee4-5c84e072dd89"
+  ],
+  "description": "Output Palo Alto Networks appliance data to syslog-ng and forward to Splunk indexers"
+}

@@ -1,0 +1,91 @@
+{
+  "instruction": {
+    "overview": {
+      "deployment": [
+        {
+          "topology": "SingleInstance",
+          "desc": "A single instance Splunk Enterprise deployment that combines indexing and search management functions.",
+          "name": "Single instance"
+        },
+        {
+          "topology":"Distributed",
+          "desc": "A distributed Splunk Enterprise deployment that separates indexing and search management into separate nodes.",
+          "name": "Distributed"
+        },
+        {
+          "topology": "Cloud",
+          "desc": "A cloud-based Splunk software service that performs all indexing and search management functions.",
+          "name": "Splunk Cloud"
+        }
+      ],
+      "config": [
+        {
+          "#document_ref": "singleInstance",
+          "topologies": [
+            "SingleInstance"
+          ]
+        },
+        {
+          "#document_ref": "distributed",
+          "topologies": [
+            "Distributed"
+          ]
+        },
+        {
+          "#document_ref": "cloud",
+          "topologies": [
+            "Cloud"
+          ]
+        }
+      ],
+      "document_ref": {
+        "cloud": {
+          "_name": "Splunk Cloud Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.mcafeeepo.syslog.cloud.managednocluster",
+          "diagram": "images/mcafee_cloud.png",
+          "steps": [
+            "Configure McAfee ePO",
+            "Install Heavy Forwarder",
+            "Install and configure Splunk DB Connect on Heavy Forwarder",
+            "Install and configure Splunk Add-on for McAfee on Heavy Forwarder",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for McAfee across Splunk Deployment"
+          ]
+        },
+        "singleInstance": {
+          "_name": "Splunk Single Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.mcafeeepo.syslog.single",
+          "diagram": "images/mcafee_single_instance.png",
+          "steps": [
+            "Configure McAfee ePO",
+            "Install Heavy Forwarder",
+            "Install and configure Splunk DB Connect on Heavy Forwarder",
+            "Install and configure Splunk Add-on for McAfee on Heavy Forwarder",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for McAfee across Splunk Deployment"
+          ]
+        },
+        "distributed": {
+          "_name": "Splunk Distributed Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.mcafeeepo.syslog.distributed.IDXConly",
+          "diagram": "images/mcafee_distributed.png",
+          "steps": [
+            "Configure McAfee ePO",
+            "Install Heavy Forwarder",
+            "Install and configure Splunk DB Connect on Heavy Forwarder",
+            "Install and configure Splunk Add-on for McAfee on Heavy Forwarder",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for McAfee across Splunk Deployment"
+          ]
+        }
+      }
+    }
+  },
+  "id": "3c88c918-f71c-4c3f-b1bf-36faa6984b46",
+  "name": "Forward data from syslog-ng",
+  "bestPractice": "Recommended for all deployment sizes",
+  "dataSources": [
+    "699645e5-8af1-4b20-823d-f900f5ecc7b7"
+  ],
+  "description": "Output McAfee data to syslog-ng and forward to Splunk indexers"
+}

@@ -1,0 +1,7 @@
+{
+    "description": "Get your identity managment data in to the Splunk platform.",
+    "icon": "/icons/identity_management.png",
+    "id": "a08a4f07-7a71-40bf-aac2-7fcdbee715ef",
+    "name": "Identity Management",
+    "parent": "3a82fb3e-acbd-40fb-8b55-fcdc1ab0cbe6"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "Windows event logs", 
+    "details": {}, 
+    "icon": "/icons/ms_windows.png", 
+    "id": "405551d9-f2b3-4d58-b1be-12555fee7ee7", 
+    "name": "Microsoft Windows", 
+    "parent": "2e5dd2a8-63f6-4771-998b-a197c37036cc",
+    "sourcetypes": ["Perfmon:Process","WMI:LocalProcesses","fs_notification","WMI:Uptime","WinRegistry","DhcpSrvLog","WMI:Memory","WMI:UserAccounts","Perfmon:ProcessorInformation","WMI:WinEventLog:Security","WMI:LocalNetwork","Perfmon:Memory","Perfmon:System","PerfmonMk:LogicalDisk","PerfmonMk:ProcessorInformation","Script:ListeningPorts","PerfmonMk:CPU","WMI:FreeDiskSpace","WMI:CPUTime","WMI:WinEventLog:System","WinHostMon","XmlWinEventLog","PerfmonMk:System","WMI:Version","Perfmon:Network","Script:InstalledApps","Perfmon:PhysicalDisk","wineventlog","PerfmonMk:Network","WMI:InstalledUpdates","Perfmon:CPUTime","PerfmonMk:Memory","WMI:LogicalDisk","WindowsUpdateLog","xmlwineventlog","WMI:ScheduledJobs","Script:TimesyncConfiguration","WinEventLog","PerfmonMk:Process","WMI:WinEventLog:Application","PerfmonMk:PhysicalDisk","Script:TimesyncStatus","Perfmon:CPU","Perfmon:FreeDiskSpace","Perfmon:LocalNetwork","WMI:LocalPhysicalDisk","Perfmon:LogicalDisk","WMI:Service","WMI:ComputerSystem","wmi"]
+}

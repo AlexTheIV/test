@@ -1,0 +1,7 @@
+{
+    "description": "Get your security data in to the Splunk platform",
+    "details": {},
+    "icon": "/icons/security.png",
+    "id": "3a82fb3e-acbd-40fb-8b55-fcdc1ab0cbe6",
+    "name": "Security"
+}

@@ -1,0 +1,88 @@
+{
+  "instruction": {
+    "overview": {
+      "deployment": [
+        {
+          "topology": "SingleInstance",
+          "desc": "A single instance Splunk Enterprise deployment that combines indexing and search management functions.",
+          "name": "Single instance"
+        },
+        {
+          "topology":"Distributed",
+          "desc": "A distributed Splunk Enterprise deployment that separates indexing and search management into separate nodes.",
+          "name": "Distributed"
+        },
+        {
+          "topology": "Cloud",
+          "desc": "A cloud-based Splunk software service that performs all indexing and search management functions.",
+          "name": "Splunk Cloud"
+        }
+      ],
+      "config": [
+        {
+          "#document_ref": "singleInstance",
+          "topologies": [
+            "SingleInstance"
+          ]
+        },
+        {
+          "#document_ref": "distributed",
+          "topologies": [
+            "Distributed"
+          ]
+        },
+        {
+          "#document_ref": "cloud",
+          "topologies": [
+            "Cloud"
+          ]
+        }
+      ],
+      "document_ref": {
+        "cloud": {
+          "_name": "Splunk Cloud Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.symantecep.symantecepTA.cloud.managednocluster",
+          "diagram": "images/symantec_ep_cloud.png",
+          "steps": [
+            "Configure Symantec Endpoint Protection",
+            "Install a Splunk universal forwarder on remote host running Symantec Endpoint Protection",
+            "Install and configure Splunk Add-on for Symantec Endpoint Protection on universal forwarder",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for Symantec Endpoint Protection across Splunk Deployment"
+          ]
+        },
+        "singleInstance": {
+          "_name": "Splunk Single Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.symantecep.symantecepTA.single",
+          "diagram": "images/symantec_ep_single_instance.png",
+          "steps": [
+            "Configure Symantec Endpoint Protection",
+            "Install a Splunk universal forwarder on remote host running Symantec Endpoint Protection",
+            "Install and configure Splunk Add-on for Symantec Endpoint Protection on universal forwarder",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for Symantec Endpoint Protection across Splunk Deployment"
+          ]
+        },
+        "distributed": {
+          "_name": "Splunk Distributed Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.symantecep.symantecepTA.distributed.IDXConly",
+          "diagram": "images/symantec_ep_distributed.png",
+          "steps": [
+            "Configure Symantec Endpoint Protection",
+            "Install a Splunk universal forwarder on remote host running Symantec Endpoint Protection",
+            "Install and configure Splunk Add-on for Symantec Endpoint Protection on universal forwarder",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for Symantec Endpoint Protection across Splunk Deployment"
+          ]
+        }
+      }
+    }
+  },
+  "id": "3c26b695-73a5-4491-a2ac-1b920c1820e8",
+  "name": "Forward data to Splunk indexers",
+  "bestPractice": "Recommended for all deployment sizes",
+  "dataSources": [
+    "fc56c734-3b6a-4998-93d9-7cef097296d8"
+  ],
+  "description": "Monitor logs on Symantec Endpoint Protection (SEP) server and client activity logs from SEP Manager dump files, and forward data to Splunk indexers"
+}

@@ -1,0 +1,94 @@
+{
+  "instruction": {
+    "overview": {
+      "deployment": [
+        {
+          "topology": "SingleInstance",
+          "desc": "A single instance Splunk Enterprise deployment that combines indexing and search management functions.",
+          "name": "Single instance"
+        },
+        {
+          "topology":"Distributed",
+          "desc": "A distributed Splunk Enterprise deployment that separates indexing and search management into separate nodes.",
+          "name": "Distributed"
+        },
+        {
+          "topology": "Cloud",
+          "desc": "A cloud-based Splunk software service that performs all indexing and search management functions.",
+          "name": "Splunk Cloud"
+        }
+      ],
+      "config": [
+        {
+          "#document_ref": "singleInstance",
+          "topologies": [
+            "SingleInstance"
+          ]
+        },
+        {
+          "#document_ref": "distributed",
+          "topologies": [
+            "Distributed"
+          ]
+        },
+        {
+          "#document_ref": "cloud",
+          "topologies": [
+            "Cloud"
+          ]
+        }
+      ],
+      "document_ref": {
+        "cloud": {
+          "_name": "Splunk Cloud Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.Ciscoasa.syslog.cloud.managednocluster",
+          "diagram": "images/cisco_asa_cloud.png",
+          "steps": [
+            "Install syslog-ng",
+            "Configure logging format for data to be received from Cisco Appliance",
+            "Configure Cisco Appliance logging, and output to syslog-ng",
+            "Install Splunk Universal Forwarder on the same host as syslog-ng",
+            "Configure forwarder to monitor syslog-ng logs, and forward data to Splunk",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for Cisco ASA"
+          ]
+        },
+        "singleInstance": {
+          "_name": "Splunk Single Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.Ciscoasa.syslog.single.singleinstance",
+          "diagram": "images/cisco_asa_single_instance.png",
+          "steps": [
+            "Install syslog-ng",
+            "Configure logging format for data to be received from Cisco Appliance",
+            "Configure Cisco Appliance logging, and output to syslog-ng",
+            "Install Splunk Universal Forwarder on the same host as syslog-ng",
+            "Configure forwarder to monitor syslog-ng logs, and forward data to Splunk",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for Cisco ASA"
+          ]
+        },
+        "distributed": {
+          "_name": "Splunk Distributed Configurations",
+          "pony_doc_link": "/help?location=simplerGDI.Ciscoasa.syslog.distributed.IDXConly",
+          "diagram": "images/cisco_asa_distributed.png",
+          "steps": [
+            "Install syslog-ng",
+            "Configure logging format for data to be received from Cisco Appliance",
+            "Configure Cisco Appliance logging, and output to syslog-ng",
+            "Install Splunk Universal Forwarder on the same host as syslog-ng",
+            "Configure forwarder to monitor syslog-ng logs, and forward data to Splunk",
+            "Configure forwarding and receiving of data",
+            "Install Splunk Add-on for Cisco ASA"
+          ]
+        }
+      }
+    }
+  },
+  "id": "3320e533-6677-49fd-afe8-03934fed6b21",
+  "name": "Hello Forward data from syslog-ng",
+  "bestPractice": "Recommended for all deployment sizes",
+  "dataSources": [
+    "11fbb25d-01fb-4f6d-850a-60be2370aa31"
+  ],
+  "description": "Output Cisco ASA data to syslog-ng and forward to Splunk indexers"
+}

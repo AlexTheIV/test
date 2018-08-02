@@ -1,0 +1,8 @@
+{
+    "description": "Hello Record user authentication, user session, VPN and intrusion messages from Cisco ASA, PIX, and FWSM devices", 
+    "details": {}, 
+    "icon": "/icons/cisco.png", 
+    "id": "11fbb25d-01fb-4f6d-850a-60be2370aa30", 
+    "name": "Cisco Adaptive Security Appliance (ASA)", 
+    "sourcetypes": ["cisco:asa", "cisco:fwsm", "cisco:pix"]
+}

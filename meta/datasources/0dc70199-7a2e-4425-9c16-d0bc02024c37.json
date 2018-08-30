@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3.4 microservice time real-time hybrid", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "0dc70199-7a2e-4425-9c16-d0bc02024c37", 
+    "name": "microsoft-facebook-cicso", 
+    "parent": "9e4ef2b2-c42e-4c83-afd2-989afdc7622e", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

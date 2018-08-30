@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 best great 4.2 ssc", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c2e1f73c-f38c-403a-bbce-2f7cd24b770e", 
+    "name": "splunk-splunk-facebook", 
+    "parent": "0a08bb0f-d0f4-4c77-8b22-3843405870be", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

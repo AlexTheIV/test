@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto best quantum 1.8 \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "edfb5c89-27d8-4aa2-9750-c82e3d74f5ab", 
+    "name": "microsoft-splunk-microsoft", 
+    "parent": "3b809a47-a0c3-4e50-9cda-2b18d50e1ba0", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time resistors 4.2 1.8 real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "63b6ec58-73c7-47e3-ab5b-9f3a241403ae", 
+    "name": "microsoft-azure-google", 
+    "parent": "0a08bb0f-d0f4-4c77-8b22-3843405870be", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

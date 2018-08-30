@@ -1,0 +1,7 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum microservice big-data cloud runinng", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f7c7c60c-627d-4650-b1c6-08004df0f52c", 
+    "name": "splunk-aws-azure", 
+    "parent": "450e3340-e0a6-4333-8c34-d2cd4890a6ec"
+}

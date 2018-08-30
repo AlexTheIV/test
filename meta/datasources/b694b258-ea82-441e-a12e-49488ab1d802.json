@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. cloud best great crypto \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b694b258-ea82-441e-a12e-49488ab1d802", 
+    "name": "splunk-splunk-microsoft", 
+    "parent": "c65b971a-b0d0-4cf9-ba01-7b54bc42d847", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

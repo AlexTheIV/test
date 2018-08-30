@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 great best ssc real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "63219db4-8b63-48c4-88ad-8fe1dda642cf", 
+    "name": "cicso-orangeswirl-nightlight", 
+    "parent": "3c4a9d19-6654-4b26-87b8-963c0431a455", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

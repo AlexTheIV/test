@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 microservice ssc resistors microservice", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "fdeb77a5-ec22-4681-822a-09ab78691cd0", 
+    "name": "microsoft-cicso-microsoft", 
+    "parent": "bd5a72f8-ec3a-4213-854c-5e4a2a179d53", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

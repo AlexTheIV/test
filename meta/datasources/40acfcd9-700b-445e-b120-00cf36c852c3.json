@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. real-time cloud resistors 4.2 sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "40acfcd9-700b-445e-b120-00cf36c852c3", 
+    "name": "orangeswirl-google-splunk", 
+    "parent": "52bf3e21-31b6-419f-a70c-a24d114dbbe9", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time quantum time best time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "f0f92990-340b-404e-a81d-7e662c897a4e", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-microsoft-nightlight", 
+    "parent": "bd5a72f8-ec3a-4213-854c-5e4a2a179d53", 
+    "sourcetypes": [
+        "access_combined_wcookie"
+    ]
+}

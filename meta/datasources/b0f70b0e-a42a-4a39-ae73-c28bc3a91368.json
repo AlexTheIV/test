@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ssc resistors quantum great resistors", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b0f70b0e-a42a-4a39-ae73-c28bc3a91368", 
+    "name": "facebook-azure-splunk", 
+    "parent": "9f43b3ea-6367-4483-ba3a-3d02d102e879", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

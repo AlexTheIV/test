@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1.8 ssc best resistors scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b6f15894-4a85-4925-ae68-04c791c7a4a8", 
+    "name": "nightlight-facebook-microsoft", 
+    "parent": "b0387f00-f42b-4967-822b-005ea8642675", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

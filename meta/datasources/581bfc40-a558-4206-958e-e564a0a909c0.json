@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best cloud hybrid scale real-time", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "581bfc40-a558-4206-958e-e564a0a909c0", 
+    "name": "aws-azure-cicso", 
+    "parent": "d6960603-c189-4d0a-8256-26edc4f4bed0", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

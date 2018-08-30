@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4.2 3.4 ssc hybrid \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "d0050dd2-9dd3-4cc2-bdc9-afe5297609ba", 
+    "name": "azure-orangeswirl-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "d6960603-c189-4d0a-8256-26edc4f4bed0", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

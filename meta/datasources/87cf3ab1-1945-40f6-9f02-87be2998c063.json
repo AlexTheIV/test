@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale 3.4 runinng great 1.8", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "87cf3ab1-1945-40f6-9f02-87be2998c063", 
+    "name": "splunk-splunk-orangeswirl", 
+    "parent": "378d8fbe-088b-485f-84a8-07779c85e439", 
+    "sourcetypes": [
+        "cisco_syslog"
+    ]
+}

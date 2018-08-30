@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. microservice sunny \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 cloud quantum", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "c1ccf1f0-d2b0-4aea-821b-23fcf139ece1", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-minty", 
+    "parent": "378d8fbe-088b-485f-84a8-07779c85e439", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

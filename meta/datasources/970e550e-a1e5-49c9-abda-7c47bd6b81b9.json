@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4 42 microservice runinng great", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "970e550e-a1e5-49c9-abda-7c47bd6b81b9", 
+    "name": "facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-microsoft", 
+    "parent": "9f43b3ea-6367-4483-ba3a-3d02d102e879", 
+    "sourcetypes": [
+        "log4j"
+    ]
+}

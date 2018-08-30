@@ -4,7 +4,7 @@
       "deployment": [
         {
           "topology": "SingleInstance",
-          "desc": "A single instance Splunk Enterprise deployment that combines indexing and search management functions.",
+          "desc": "A single instance Splunk Enterprise deployment that combines indexing and search management functions. ",
           "name": "Single instance"
         },
         {

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. quantum 1.8 microservice scale 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "53869848-f2fd-4748-acf0-17a7a120d96a", 
+    "name": "google-facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "c46e285e-23bd-4b62-b292-db8e528f04ef", 
+    "sourcetypes": [
+        "linux_secure"
+    ]
+}

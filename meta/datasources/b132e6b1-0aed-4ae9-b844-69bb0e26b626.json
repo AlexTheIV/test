@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. time 4.2 big-data ssc scale", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "b132e6b1-0aed-4ae9-b844-69bb0e26b626", 
+    "name": "minty-aws-google", 
+    "parent": "cb613fcb-a4c6-4948-887e-97e550513f7c", 
+    "sourcetypes": [
+        "db2_diag"
+    ]
+}

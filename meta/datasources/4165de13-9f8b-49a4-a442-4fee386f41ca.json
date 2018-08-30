@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto ssc best runinng 4.2", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "4165de13-9f8b-49a4-a442-4fee386f41ca", 
+    "name": "cicso-minty-nightlight", 
+    "parent": "3b809a47-a0c3-4e50-9cda-2b18d50e1ba0", 
+    "sourcetypes": [
+        "known_binary"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. best sunny real real best", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8e9dc4df-1631-4fc4-adfc-e306999a5385", 
+    "name": "\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4-facebook-\u5bfc\u5b57\u00e9\u3042\u30a2\u00e2\u6b63gef\u00e4llt\u9ad4", 
+    "parent": "f3c7866f-f525-4355-a0f8-1993f77d6427", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

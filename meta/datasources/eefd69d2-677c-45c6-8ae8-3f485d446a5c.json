@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. crypto resistors crypto best real", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "eefd69d2-677c-45c6-8ae8-3f485d446a5c", 
+    "name": "azure-splunk-splunk", 
+    "parent": "331615d3-c22a-49d0-97c9-19e14abcb78b", 
+    "sourcetypes": [
+        "linux_messages_syslog"
+    ]
+}

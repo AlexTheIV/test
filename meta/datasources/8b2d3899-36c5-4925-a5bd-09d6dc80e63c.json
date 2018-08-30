@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. hybrid time real-time cloud sunny", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "8b2d3899-36c5-4925-a5bd-09d6dc80e63c", 
+    "name": "microsoft-minty-minty", 
+    "parent": "c46e285e-23bd-4b62-b292-db8e528f04ef", 
+    "sourcetypes": [
+        "access_common"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. scale great great great crypto", 
+    "icon": "icons/icon_datasource.png", 
+    "id": "eb75f5fa-2268-4374-bd7f-10ec9993775d", 
+    "name": "splunk-google-cicso", 
+    "parent": "331615d3-c22a-49d0-97c9-19e14abcb78b", 
+    "sourcetypes": [
+        "access_combined"
+    ]
+}

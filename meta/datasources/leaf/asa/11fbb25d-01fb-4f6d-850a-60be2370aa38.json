@@ -1,5 +1,5 @@
 {
-    "description": "Record user authentication, user session, VPN and intrusion messages from Cisco ASA, PIX, and FWSM devices", 
+    "description": "Record user authentication, user session, VPN and intrusion messages from Cisco ASA, PIX, and FWSM devices demo", 
     "details": {}, 
     "icon": "/icons/cisco.png", 
     "id": "11fbb25d-01fb-4f6d-850a-60be2370aa38", 
